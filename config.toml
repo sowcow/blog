@@ -1,0 +1,4 @@
+baseURL = "https://sowcow.github.io/blog"
+languageCode = "en-us"
+title = "Let's see what happens."
+theme = "paper"
