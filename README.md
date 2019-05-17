@@ -1,4 +1,4 @@
-# my blog
+# My blog
 
 The plan is to post some stuff I do.
 Like what I read for example.
