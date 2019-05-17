@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trying-new-stuff on Let&#39;s see what happens.</title>
+    <link>https://sowcow.github.io/blog/tags/trying-new-stuff/</link>
+    <description>Recent content in trying-new-stuff on Let&#39;s see what happens.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 May 2019 14:04:42 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/trying-new-stuff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Started this blog</title>
+      <link>https://sowcow.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Fri, 17 May 2019 14:04:42 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/my-first-post/</guid>
+      <description>The plan is to post some stuff I do. Like what I read for example. With some analysis maybe.
+Only the good stuff.
+In the end I should get more invested in the stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
