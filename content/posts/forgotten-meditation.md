@@ -1,7 +1,7 @@
 ---
 title: "Meditating again"
 date: 2019-05-22T10:07:23+05:00
-draft: true
+draft: false
 author: Alexander
 tags:
 - forgotten
