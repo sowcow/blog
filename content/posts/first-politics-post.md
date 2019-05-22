@@ -15,4 +15,4 @@ How unfortunate it is that so much creativity is unattributed.
 
 Enormous progress has been made from the old words to the new ones.
 Words like "free market", "pro-choice", "ABC rights", etc...
-Only true visionaries can see what new words the future holds.
+Only true visionaries can see what new words the future holds for us.
