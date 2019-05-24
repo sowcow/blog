@@ -6,10 +6,21 @@
     <description>Recent content on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 10:07:23 +0500</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 09:47:54 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Complexity Order</title>
+      <link>https://sowcow.github.io/blog/posts/complexity-order/</link>
+      <pubDate>Fri, 24 May 2019 09:47:54 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/complexity-order/</guid>
+      <description>The title may be ambiguous/misleading. And chances are the idea is old.
+The idea is that you add complexity in the right order. I think this is the real idea behind KISS/YAGNI/etc..
+For me the right/wrong here is intuitive. I need to return to it later.</description>
+    </item>
     
     <item>
       <title>Meditating again</title>
