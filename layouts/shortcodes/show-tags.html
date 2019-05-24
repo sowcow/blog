@@ -1,0 +1,7 @@
+{{ $baseURL := .Site.Home.URL }}
+
+<ul class="post-tags">
+  {{ range $tag, $value := .Site.Taxonomies.tags }}
+  <li><a style='box-shadow:none' href="{{$baseURL}}tags/{{ $tag | urlize }}/">{{ $tag }} ({{len $value.Pages}})</a></li>
+  {{ end }}
+</ul>
