@@ -1,4 +1,4 @@
-{{ $baseURL := .Site.Home.URL }}
+{{ $baseURL := .Site.Home.Permalink }}
 
 <ul class="post-tags">
   {{ range $tag, $value := .Site.Taxonomies.tags }}
