@@ -10,5 +10,8 @@ tags:
 Constraints in mobile games are everywhere.
 And they are so explicit.
 
-I guess people see constaints as opportunities.
-They are not entirely wrong then.
+I have no idea why people voluntary accept constraints.
+Maybe because there are "opportunities" available around the constraints.
+
+Somebody has to make a game where number of opportunities is decreacing all the time.
+To observe the influence.
