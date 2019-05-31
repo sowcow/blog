@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 09:47:54 +0500</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 13:39:02 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Constrained Games</title>
+      <link>https://sowcow.github.io/blog/posts/constrained-games/</link>
+      <pubDate>Thu, 30 May 2019 13:39:02 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/constrained-games/</guid>
+      <description>Constraints in mobile games are everywhere. And they are so explicit.
+I have no idea why people voluntary accept constraints. Maybe because there are &amp;ldquo;opportunities&amp;rdquo; available around the constraints.
+Somebody has to make a game where number of opportunities is decreacing all the time. To observe the influence.</description>
+    </item>
     
     <item>
       <title>Complexity Order</title>
