@@ -6,10 +6,22 @@
     <description>Recent content on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 13:39:02 +0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 09:05:18 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unconstrained Code</title>
+      <link>https://sowcow.github.io/blog/posts/unconstrained-code/</link>
+      <pubDate>Fri, 07 Jun 2019 09:05:18 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/unconstrained-code/</guid>
+      <description>I was looking at what I am doing wrong with my personal projects recently. And I think that part of the problem is this unconstrained approach.
+So there is the propensity in people to be blindly optimistic about something. I found mine to be interfering with the code.
+So I gotta learn some good constraints.
+I&amp;rsquo;ll try some very directed and formal approach with explicit principles and compromises.</description>
+    </item>
     
     <item>
       <title>Constrained Games</title>
@@ -71,7 +83,7 @@ In the end I should get more invested in the stuff.</description>
       <pubDate>Sat, 01 Jan 2000 09:47:54 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags-menu/</guid>
-      <description> dev (1) forgotten (1) games (1) mind (1) order (2) politics (1) trying-new-stuff (1)  </description>
+      <description> dev (2) forgotten (1) games (1) mind (1) order (3) politics (1) trying-new-stuff (1)  </description>
     </item>
     
   </channel>
