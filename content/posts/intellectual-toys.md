@@ -21,7 +21,7 @@ So people who are into religious fundamentalism or communism should definetly tr
 Unfortunately in code you cannot use verbal tricks or force.
 But the good part is that you are not subject to the constrains of the real world either. [^1]
 
-And in spare time one can wage religious wars or ideological subversion on github.
+And in the mean time one can wage religious wars or ideological subversion on github.
 
 
 [^1]: except: CPU, memory, own abilities and time
