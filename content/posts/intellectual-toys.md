@@ -24,4 +24,4 @@ But the good part is that you are not subject to the constrains of the real worl
 And in spare time one can wage religious wars or ideological subversion on github.
 
 
-[^1]: with the exception of: CPU, memory, own abilities, time
+[^1]: except: CPU, memory, own abilities and time
