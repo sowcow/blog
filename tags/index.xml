@@ -6,17 +6,26 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jun 2019 09:05:18 +0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 08:09:06 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>dev</title>
-      <link>https://sowcow.github.io/blog/tags/dev/</link>
-      <pubDate>Fri, 07 Jun 2019 09:05:18 +0500</pubDate>
+      <title>code</title>
+      <link>https://sowcow.github.io/blog/tags/code/</link>
+      <pubDate>Thu, 20 Jun 2019 08:09:06 +0500</pubDate>
       
-      <guid>https://sowcow.github.io/blog/tags/dev/</guid>
+      <guid>https://sowcow.github.io/blog/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://sowcow.github.io/blog/tags/politics/</link>
+      <pubDate>Thu, 20 Jun 2019 08:09:06 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/politics/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Wed, 22 May 2019 10:07:23 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/mind/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>politics</title>
-      <link>https://sowcow.github.io/blog/tags/politics/</link>
-      <pubDate>Mon, 20 May 2019 12:42:04 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/politics/</guid>
       <description></description>
     </item>
     
