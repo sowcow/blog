@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 08:09:06 +0500</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 09:24:41 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>order</title>
+      <link>https://sowcow.github.io/blog/tags/order/</link>
+      <pubDate>Sun, 23 Jun 2019 09:24:41 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/order/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>code</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 20 Jun 2019 08:09:06 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>order</title>
-      <link>https://sowcow.github.io/blog/tags/order/</link>
-      <pubDate>Fri, 07 Jun 2019 09:05:18 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/order/</guid>
       <description></description>
     </item>
     

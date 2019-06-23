@@ -3,26 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sowcow.github.io/blog/posts/intellectual-toys/</loc>
-    <lastmod>2019-06-20T08:09:06+05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2019-06-20T08:09:06+05:00</lastmod>
+    <lastmod>2019-06-23T09:24:41+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2019-06-20T08:09:06+05:00</lastmod>
+    <lastmod>2019-06-23T09:24:41+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sowcow.github.io/blog/posts/self-self/</loc>
+    <lastmod>2019-06-23T09:24:41+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2019-06-20T08:09:06+05:00</lastmod>
+    <lastmod>2019-06-23T09:24:41+05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/order/</loc>
+    <lastmod>2019-06-23T09:24:41+05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/intellectual-toys/</loc>
+    <lastmod>2019-06-20T08:09:06+05:00</lastmod>
   </url>
   
   <url>
@@ -40,12 +51,6 @@
   <url>
     <loc>https://sowcow.github.io/blog/posts/unconstrained-code/</loc>
     <lastmod>2019-06-07T09:05:18+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/order/</loc>
-    <lastmod>2019-06-07T09:05:18+05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
