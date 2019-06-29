@@ -6,10 +6,24 @@
     <description>Recent content on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 09:24:41 +0500</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2019 11:41:48 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Real Abstractions</title>
+      <link>https://sowcow.github.io/blog/posts/real-abstractions/</link>
+      <pubDate>Sat, 29 Jun 2019 11:41:48 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/real-abstractions/</guid>
+      <description>Abstractions are real.
+Brains work with them.
+And you can&amp;rsquo;t ignore what goes into your brain.
+Things you can&amp;rsquo;t ignore are real for you.
+Reality of production is reflected in the product.
+Well. That was a tricky way to state that in the ideal world code quality is measured by the quality of abstractions.</description>
+    </item>
     
     <item>
       <title>Self Self</title>
@@ -109,7 +123,7 @@ In the end I should get more invested in the stuff.</description>
       <pubDate>Sat, 01 Jan 2000 09:47:54 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags-menu/</guid>
-      <description> code (3) forgotten (1) games (1) mind (1) order (4) politics (2) trying-new-stuff (1)  </description>
+      <description> code (4) forgotten (1) games (1) mind (1) order (5) politics (2) trying-new-stuff (1)  </description>
     </item>
     
   </channel>
