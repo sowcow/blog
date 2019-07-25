@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading on Let&#39;s see what happens.</title>
+    <link>https://sowcow.github.io/blog/tags/reading/</link>
+    <description>Recent content in reading on Let&#39;s see what happens.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2019 11:54:03 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Things Done</title>
+      <link>https://sowcow.github.io/blog/posts/getting-things-done/</link>
+      <pubDate>Thu, 25 Jul 2019 11:54:03 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/getting-things-done/</guid>
+      <description>There are two benefits I have got from starting reading the GTD book.
+ The serenity that allows you to be more focused on the things at hands. Previously unstated projects have come up like a surprise.  So there is more clarity just because of these two reasons. And I eliminated some things I previously assumed to be crucial.
+BTW I use org-mode to implement it. I am happy with the proccess.</description>
+    </item>
+    
+  </channel>
+</rss>

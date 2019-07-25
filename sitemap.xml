@@ -3,14 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sowcow.github.io/blog/posts/getting-things-done/</loc>
+    <lastmod>2019-07-25T11:54:03+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2019-06-29T11:41:48+05:00</lastmod>
+    <lastmod>2019-07-25T11:54:03+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2019-06-29T11:41:48+05:00</lastmod>
+    <lastmod>2019-07-25T11:54:03+05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2019-07-25T11:54:03+05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/order/</loc>
+    <lastmod>2019-07-25T11:54:03+05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
+    <lastmod>2019-07-25T11:54:03+05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,19 +43,7 @@
   </url>
   
   <url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2019-06-29T11:41:48+05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sowcow.github.io/blog/tags/code/</loc>
-    <lastmod>2019-06-29T11:41:48+05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/order/</loc>
     <lastmod>2019-06-29T11:41:48+05:00</lastmod>
     <priority>0</priority>
   </url>
