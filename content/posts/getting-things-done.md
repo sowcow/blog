@@ -19,3 +19,18 @@ And I eliminated some things I previously assumed to be crucial.
 
 BTW I use org-mode to implement it.
 I am happy with the proccess.
+
+### upd: I finished reading the book.
+
+*Concerning structure:*
+
+1. The first part is the most useful - more practical one;
+2. The second part was not that informative for me so I skipped most of it
+  (because I implemented my GTD during the first part already);
+3. The third part is good as well - more inspiring stuff;
+
+*Overall:*
+
+I liked the quotes and the language used very much.
+
+The core content is great and very promising.
