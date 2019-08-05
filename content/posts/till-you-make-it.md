@@ -28,4 +28,4 @@ Because there are three possible situations:
 Whether illusion is bad or not I have no idea.
 I guess it should be.
 
-But correct naming and non-ambiguity are objectively valuable for free individuals.
+But calling things their names and ordered, non-ambiguous thinking are objectively valuable traits for free individuals.
