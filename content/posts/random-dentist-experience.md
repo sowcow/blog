@@ -51,7 +51,7 @@ So I felt it but I was content.
 Either because I was relaxed because I expected it to work (and there was nothing else to do anyway).
 Or because the nature of that anestesia - but that is unlikely.
 
-## summary
+## Summary
 
 - experimenting/relaxed mindset is probably a good idea;
 - pain fear/avoidance is overrided by expectation of danger;
