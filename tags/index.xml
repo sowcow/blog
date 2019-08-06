@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2019 12:46:25 +0500</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 17:31:40 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>code</title>
+      <link>https://sowcow.github.io/blog/tags/code/</link>
+      <pubDate>Tue, 06 Aug 2019 17:31:40 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>random</title>
       <link>https://sowcow.github.io/blog/tags/random/</link>
-      <pubDate>Mon, 05 Aug 2019 12:46:25 +0500</pubDate>
+      <pubDate>Tue, 06 Aug 2019 17:31:40 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/random/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>thoughts</title>
       <link>https://sowcow.github.io/blog/tags/thoughts/</link>
-      <pubDate>Mon, 05 Aug 2019 12:46:25 +0500</pubDate>
+      <pubDate>Tue, 06 Aug 2019 17:31:40 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/thoughts/</guid>
       <description></description>
@@ -71,15 +80,6 @@
       <pubDate>Fri, 26 Jul 2019 12:56:20 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/order/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://sowcow.github.io/blog/tags/code/</link>
-      <pubDate>Sat, 29 Jun 2019 11:41:48 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/code/</guid>
       <description></description>
     </item>
     

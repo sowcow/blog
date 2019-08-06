@@ -6,10 +6,21 @@
     <description>Recent content on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2019 12:46:25 +0500</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 17:31:40 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random Code Thoughts</title>
+      <link>https://sowcow.github.io/blog/posts/random-code-thoughts/</link>
+      <pubDate>Tue, 06 Aug 2019 17:31:40 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/random-code-thoughts/</guid>
+      <description>So I decided to put some thoughts about my coding here. There are three of them.
+Copy-pasting This is one of my time wasters. I have this expectation that copy-pasted block should just work. But then there are little details that I miss that require a debugging session later.
+Copy pasting by itself is not that evil. It can be avoided by additional abstractions. But you don&amp;rsquo;t want to commit to any random abstraction either.</description>
+    </item>
     
     <item>
       <title>Till You Make It</title>
@@ -179,7 +190,7 @@ In the end I should get more invested in the stuff.</description>
       <pubDate>Sat, 01 Jan 2000 09:47:54 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags-menu/</guid>
-      <description> code (4) experience (1) forgotten (1) games (1) gtd (2) history (1) mind (1) order (7) politics (2) random (2) reading (3) thoughts (1) trying-new-stuff (1)  </description>
+      <description> code (5) experience (1) forgotten (1) games (1) gtd (2) history (1) mind (1) order (7) politics (2) random (3) reading (3) thoughts (2) trying-new-stuff (1)  </description>
     </item>
     
   </channel>
