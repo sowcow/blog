@@ -14,7 +14,9 @@ And indeed I found couple of them.
 
 Then I thought that feeling of pride is not really concious in it's source.
 
-And then I thought that given say body positivity.
+And then I thought about artificial sources.
+
+Given say body positivity.
 When say fat people are told to feel or pretend to be proud of themselves.
 This is ambiguous.
 
