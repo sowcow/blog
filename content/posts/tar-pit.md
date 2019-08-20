@@ -12,7 +12,9 @@ I decided to write short summary and some ideas after reading "Out of the Tar Pi
 
 ### Summary
 
-So the main point can be statend in the form: eliminate stuff/separate certain parts of the system to reduce power/ability to introduce accedintal complexity.
+It looks like theoretical high level paper about comlexity in large codebases.
+
+The main point can be statend in the form: eliminate stuff/separate certain parts of the system to reduce power/ability to introduce accedintal complexity.
 
 What is being separated: essential state, essential logic, control.
 
