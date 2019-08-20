@@ -16,7 +16,7 @@ The book is full of tricks politicans use and facts they tend to hide.
 
 I noticed this disambiguation of the term "discrimination" by the author:
 
-- evidence based discrimination (1A): based on knowledge of traits and behavior of given individual
+- evidence based discrimination (1A): based on knowledge of traits and behavior of a given individual
 - evidence based discrimination (1B): based on statistics on group behavior, traits
 - arbitrary discrimination (2): arbitrary/irrational
 
