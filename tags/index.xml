@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2019 14:27:22 +0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 20:04:22 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>politics</title>
+      <link>https://sowcow.github.io/blog/tags/politics/</link>
+      <pubDate>Tue, 20 Aug 2019 20:04:22 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://sowcow.github.io/blog/tags/reading/</link>
+      <pubDate>Tue, 20 Aug 2019 20:04:22 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/reading/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>code</title>
@@ -21,29 +39,11 @@
     </item>
     
     <item>
-      <title>reading</title>
-      <link>https://sowcow.github.io/blog/tags/reading/</link>
-      <pubDate>Tue, 20 Aug 2019 14:27:22 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>language</title>
       <link>https://sowcow.github.io/blog/tags/language/</link>
       <pubDate>Sun, 11 Aug 2019 09:39:49 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>politics</title>
-      <link>https://sowcow.github.io/blog/tags/politics/</link>
-      <pubDate>Sun, 11 Aug 2019 09:39:49 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/politics/</guid>
       <description></description>
     </item>
     
