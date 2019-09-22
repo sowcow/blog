@@ -18,9 +18,13 @@ What I found is some pool of mud filled with red-herrings and repeated talking p
 It didn't look that the writers are entirely dumb but that they are a bit psychotic and very ideological and partisan.
 And they produce propaganda for their audience.
 
-The problem with ideologies is that they are there for ruled to beleive in.
-And they are not in any way for informed decision making by public.
-So they assume that public is low-IQ and it has to be kept that way.
+The problem with ideologies is that they are there for the ruled to beleive in.
+And they are not in any way for informed decision making by the free people.
+
+The assumption behind any ideology than uses propaganda (lies, abuse of logic/emotions/attention flaws)
+is that the public is low-IQ and it can be used that way.
+
+So it has to be kept that way.
 
 I thought that ideologies are so 20th century.
 But then also the data shows that IQ decreaces in some key countries.
