@@ -60,7 +60,7 @@ Obviously you can't attract smart people with stuff like that.
 Anyway this was a good point to quit the book for me.
 Because I have no idea what to expect from the guy.
 
-As a professional psychologist he may have some tricks up his sleeve.
+As a psychologist so ho knows if he has some tricks up his sleeve.
 
 And his content is not worth it for me to pay additional attention and to double check his stuff just in case he tries to deceive me somehow.
 
