@@ -43,7 +43,7 @@ Then you ain't seen nothin' yet.
 The author starts reading (audio book) like he is crying until the end of the chapter.
 I thought pure guy was forced to read that way.
 
-And then to finally and irrevocably humiliate himself and the intellect of anybody listening to this stuff the author proceeds with verbal images describing how good his idea of meaning is.
+And then to finally and irrevocably humiliate himself and intellect of anybody listening to this stuff the author proceeds with verbal images describing how good his idea of meaning is.
 
 Literally stuff like: buddha sitting on a rose, etc...
 (I am not listening to this stuff again to get exact quotes)
