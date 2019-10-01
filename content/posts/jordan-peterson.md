@@ -38,7 +38,7 @@ And the author uses german words and interjects holocaust stories here and there
 And forces readers to beleive that the meaning of life for them is to be some vegan-antifa-bodhisattva or so.
 
 If you think this can't get more deranged than that.
-Then you ain't seen nothin'.
+Then you ain't seen nothin' yet.
 
 The author starts reading (audio book) like he is crying until the end of the chapter.
 I thought pure guy was forced to read that way.
@@ -68,12 +68,12 @@ And his content is not worth it for me to pay additional attention and to double
 
 1. He first convinces audience that they are innately evil.
 1. Then he provides them with meaning of life as
-   actively not being as evil/bad as he convinced they should
-   image themselves.
+   actively not being as evil/bad as he convinced them they should
+   image themselves
 1. He literally says that if you disagree with him
    then you should be scared
 1. He covers this stuff with crying (in audio version) and
-   with a pile of irrelevant images.
+   with a pile of irrelevant images
 
 Anyway he is using manipulation.
 There is no argument to refute.
