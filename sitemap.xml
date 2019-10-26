@@ -3,32 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sowcow.github.io/blog/posts/epictetus/</loc>
+    <lastmod>2019-10-26T20:40:20+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2019-10-26T20:40:20+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/order/</loc>
+    <lastmod>2019-10-26T20:40:20+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2019-10-26T20:40:20+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
+    <lastmod>2019-10-26T20:40:20+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2019-10-26T20:40:20+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/jordan-peterson/</loc>
     <lastmod>2019-09-30T18:00:19+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2019-09-30T18:00:19+05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sowcow.github.io/blog/tags/low-iq/</loc>
-    <lastmod>2019-09-30T18:00:19+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2019-09-30T18:00:19+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
-    <lastmod>2019-09-30T18:00:19+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2019-09-30T18:00:19+05:00</lastmod>
   </url>
   
@@ -114,11 +124,6 @@
   
   <url>
     <loc>https://sowcow.github.io/blog/tags/gtd/</loc>
-    <lastmod>2019-07-26T12:56:20+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/order/</loc>
     <lastmod>2019-07-26T12:56:20+05:00</lastmod>
   </url>
   
