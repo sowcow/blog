@@ -8,18 +8,18 @@ tags:
 - order
 ---
 
->-- Hear me today discursing in the house of Quadratus.
+>-- Hear me today discoursing in the house of Quadratus.
 >
 >-- Why should I hear you?
 >  Do you wish to show me that you put words together cleverly?
 >  You put them together man. And what good will it do you?
 
 
-So I have completed listening an audiobook of teachings of Epictetus.
+So I have finished listening to an audiobook of teachings of Epictetus.
 The audiobook is performed by Hayward Morse.
 
-The content is both very sober, straightforward and logical.
-And also entertaining and with a lot of humour.
+The content is both very sober, straightforward and logical as it is
+also entertaining and with a lot of humour.
 
 I greatly enjoyed both content and perfomance.
 I am looking forward to listening more by the performer.
