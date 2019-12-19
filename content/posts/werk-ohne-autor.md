@@ -32,10 +32,11 @@ the face of masses who will buy and pretend
 that anything has value
 just because it is sold to them properly.
 
-## There are some weird dramatic scenes
+## There are some weird and dramatic scenes
 
 I do not watch stuff while being immersed into it these days so I ignored most of such scenes.
-I am not watching for exaggregated stuff and wow-effect or
+
+I am not watching movies for exaggregated stuff and wow-effect or
 even to be influenced in any way by the stuff.
 
 I wanted to watch a movie about art and it is a great choice for me
