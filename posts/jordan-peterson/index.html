@@ -14,73 +14,107 @@ I found the first part quite informative for me:
  I really like biological facts about how things work Christianity as a big sacrafice was new information for me I also enjoyed different literary excerpts (Dostoevsky and others)  But then after 50% the real fun starts.">
     <meta name="author" content="Alexander">
     
-    <link href="https://sowcow.github.io/blog/css/github-gist.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/css/style.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
     
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/img/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/img/favicon.ico">
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
     
-    <meta name="generator" content="Hugo 0.59.0" />
+    <meta name="generator" content="Hugo 0.60.1" />
     
     <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
     
     
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
   </head>
   <body class="single">
+    <script>
+      setTheme();
+    </script>
     <header class="header">
-      <div class="wrap">
+      <nav class="nav">
         
-        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens. </a></p>
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
         
-        <button class="menu-toggle" type="button"></button>
-      </div>
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
     </header>
-    <nav class="nav">
-    <ul class="menu">
-      
-      
-      <li class="">
-        <a href="/blog/">Home</a>
-      </li>
-      
-      <li class="">
-        <a href="/blog/tags-menu/">Tags</a>
-      </li>
-      
-    </ul>
-    </nav>
     <main class="main">
 
 
 <article class="post-single">
   <header class="post-header">
     <h1 class="post-title">Jordan Peterson</h1>
-    <div class="post-meta">Alexander · 2019.9.30</div>
+    <div class="post-meta">Alexander · September 30, 2019</div>
   </header>
-  <div class="post-content">
-
-<p>I knew about the guy previously but I was avoiding getting into his stuff at all.
+  <div class="post-content"><p>I knew about the guy previously but I was avoiding getting into his stuff at all.
 But this time I decided to look into his content.</p>
-
 <p>First I got into some debate youtube videos of him.
 And it was ok.</p>
-
 <p>So I decided to look into his audiobook.</p>
-
 <p>I found the first part quite informative for me:</p>
-
 <ul>
 <li>I really like biological facts about how things work</li>
 <li>Christianity as a big sacrafice was new information for me</li>
 <li>I also enjoyed different literary excerpts (Dostoevsky and others)</li>
 </ul>
-
 <p>But then after 50% the real fun starts.</p>
-
 <p>The guy starts preaching like an exhalted priest before a crowd of astonished peasants.</p>
-
 <p>He preaches stuff like:</p>
-
 <ul>
 <li>&ldquo;you have sinned&rdquo;</li>
 <li>&ldquo;become aware of your covardness, haterd&rdquo;</li>
@@ -88,39 +122,25 @@ And it was ok.</p>
 <li>&ldquo;pledge to alleviate all unnecessary pain and suffering&rdquo;</li>
 <li>&ldquo;because the only alternative is hell/nazi camps&rdquo;</li>
 </ul>
-
 <p>And the author uses german words and interjects holocaust stories here and there.
 And forces readers to beleive that the meaning of life for them is to be some vegan-antifa-bodhisattva or so.</p>
-
-<p>If you think this can&rsquo;t get more deranged than that.
-Then you ain&rsquo;t seen nothin&rsquo; yet.</p>
-
+<p>If you think this can't get more deranged than that.
+Then you ain't seen nothin&rsquo; yet.</p>
 <p>The author starts reading (audio book) like he is crying until the end of the chapter.
 I thought pure guy was forced to read that way.</p>
-
 <p>And then to finally and irrevocably humiliate himself and intellect of anybody listening to this stuff the author proceeds with verbal images describing how good his idea of meaning is.</p>
-
 <p>Literally stuff like: buddha sitting on a rose, etc&hellip;
 (I am not listening to this stuff again to get exact quotes)</p>
-
 <p>And I beleive that the key phrase in his crying part was: &ldquo;when all evil of the past is justified&rdquo;.</p>
-
 <h2 id="omg">Omg</h2>
-
 <p>So I had to google this guy.
 I found that he has some fanatical followers.</p>
-
-<p>Obviously you can&rsquo;t attract smart people with stuff like that.</p>
-
+<p>Obviously you can't attract smart people with stuff like that.</p>
 <p>Anyway this was a good point to quit the book for me.
 Because I have no idea what to expect from the guy.</p>
-
 <p>As a psychologist so ho knows if he has some tricks up his sleeve.</p>
-
 <p>And his content is not worth it for me to pay additional attention and to double check his stuff just in case he tries to deceive me somehow.</p>
-
 <h2 id="analysis">Analysis</h2>
-
 <ol>
 <li>He first convinces audience that they are innately evil.</li>
 <li>Then he provides them with meaning of life as
@@ -131,38 +151,31 @@ then you should be scared</li>
 <li>He covers this stuff with crying (in audio version) and
 with a pile of irrelevant images</li>
 </ol>
-
 <p>Anyway he is using manipulation.
 There is no argument to refute.</p>
-
 <p>When I see manipulation/dishonesty I assume bad will.</p>
-
 <h2 id="manipulation">Manipulation</h2>
-
 <p>He uses images alot.</p>
-
 <p>At one point he writes how he saves his daughter from another misbehaving child.
 At another point he writes how he forces a child to sleep.</p>
-
 <p>I would not be surprised if stories like that can be used as part of manipulation over some audiences.</p>
-
 <p>There are blog posts that analyze fallacies he often to uses.</p>
-
 <p>Anyway it is not what I am into at this point.</p>
-
 <p>So I am finished with the guy.</p>
 </div>
+  
   <footer class="post-footer">
-    
     <ul class="post-tags">
       
-      <li><a href="https://sowcow.github.io/blog/tags/low-iq/">low-iq</a></li>
       
-      <li><a href="https://sowcow.github.io/blog/tags/reading/">reading</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/low-iq">low-iq</a></li>
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/reading">reading</a></li>
       
     </ul>
-    
   </footer>
+  
   
   
   
@@ -171,33 +184,15 @@ At another point he writes how he forces a child to sleep.</p>
 
 </main>
 <footer class="footer">
-  <span>&copy; 2019 Let&#39;s see what happens.</span>
+  <span>&copy; 2019 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
   <span>&middot;</span>
   <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
   <span>&middot;</span>
   <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
 </footer>
-<script src="https://sowcow.github.io/blog/js/instantclick.min.js" data-no-instant></script>
-<script data-no-instant>InstantClick.init();</script>
-<script src="https://sowcow.github.io/blog/js/highlight.min.js" data-no-instant></script>
-<script data-no-instant>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
   hljs.initHighlightingOnLoad();
-  setMenuListener();
-
-  InstantClick.on('change', function() {
-    document.querySelectorAll('pre code').forEach((block) => {
-      hljs.highlightBlock(block);
-    });
-    setMenuListener();
-  });
-
-  function setMenuListener() {
-    var menuToggle = document.querySelector('.menu-toggle');
-    var body = document.querySelector('body');
-    menuToggle.addEventListener('click', function() {
-      body.classList.toggle('no-scroll');
-    }, false);
-  }
 </script>
 </body>
 </html>

@@ -12,113 +12,143 @@ And I randomly recollected that at some point in the past when a dentist was inj
 And since this was my last visit I felt like experimentating and not injecting anything this time.">
     <meta name="author" content="Alexander">
     
-    <link href="https://sowcow.github.io/blog/css/github-gist.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/css/style.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
     
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/img/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/img/favicon.ico">
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
     
-    <meta name="generator" content="Hugo 0.59.0" />
+    <meta name="generator" content="Hugo 0.60.1" />
     
     <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
     
     
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
   </head>
   <body class="single">
+    <script>
+      setTheme();
+    </script>
     <header class="header">
-      <div class="wrap">
+      <nav class="nav">
         
-        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens. </a></p>
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
         
-        <button class="menu-toggle" type="button"></button>
-      </div>
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
     </header>
-    <nav class="nav">
-    <ul class="menu">
-      
-      
-      <li class="">
-        <a href="/blog/">Home</a>
-      </li>
-      
-      <li class="">
-        <a href="/blog/tags-menu/">Tags</a>
-      </li>
-      
-    </ul>
-    </nav>
     <main class="main">
 
 
 <article class="post-single">
   <header class="post-header">
     <h1 class="post-title">Random Dentist Experience</h1>
-    <div class="post-meta">Alexander · 2019.8.5</div>
+    <div class="post-meta">Alexander · August 5, 2019</div>
   </header>
-  <div class="post-content">
-
-<h2 id="this-time">This time</h2>
-
+  <div class="post-content"><h2 id="this-time">This time</h2>
 <p>So I was about to visit a dentist today.
 It was my last visit in this &ldquo;session&rdquo;.
 And I needed to fix a wisdom tooth.</p>
-
 <p>And I randomly recollected that at some point in the past when a dentist was injecting anestesia
 it felt like they are injecting the needle right into the bone.</p>
-
 <p>And since this was my last visit I felt like experimentating and not injecting anything this time.
-But I wasn&rsquo;t sure if I will really decide to not use it.</p>
-
+But I wasn't sure if I will really decide to not use it.</p>
 <p>In the end the decision was not that hard.
 And I got two obesrviations from it.</p>
-
 <h3 id="1-danger-overrides-pain">1. Danger overrides pain</h3>
-
 <p>(needle + hard to access tooth + recollection ~ danger);
 Experimenting thing would not overwrite it in my case. I am not that hardcore.
 But it was not danger by itself what informed my decision.
 It only kept me from flaking :).</p>
-
-<h3 id="2-middle-ish-intensity-not-long-pain-was-more-like-an-attention-signal-not-like-something-important-at-all">2. Middle-ish-intensity not-long pain was more like an attention signal, not like something important at all</h3>
-
+<h3 id="2-middleishintensity-notlong-pain-was-more-like-an-attention-signal-not-like-something-important-at-all">2. Middle-ish-intensity not-long pain was more like an attention signal, not like something important at all</h3>
 <p>I was focused on two other things - jaw position and throat state.
 So pain was more like a signal to give attention there but there was nothing unexpected anyway.</p>
-
 <h2 id="some-previous-time">Some previous time</h2>
-
 <p>I do not plan to have a series of dentist posts at this point.
-But I&rsquo;d like to record previous experiences as well.</p>
-
+But I'd like to record previous experiences as well.</p>
 <p>One was when I was really affected by it.
-So I felt like I&rsquo;m surronded by enemies and every time after they were stopping
+So I felt like I'm surronded by enemies and every time after they were stopping
 I had to remind myself that everybody around is acting in my interests as well.
 I probably also was kind of vividly focusing on pain and what exactly they were doing.
 And you get some kind of high after it is over.</p>
-
-<p>Another time I got anestesia and it didn&rsquo;t really work.
+<p>Another time I got anestesia and it didn't really work.
 So I felt it but I was content.
 Either because I was relaxed because I expected it to work (and there was nothing else to do anyway).
 Or because the nature of that anestesia - but that is unlikely.</p>
-
 <h2 id="summary">Summary</h2>
-
 <ul>
 <li>experimenting/relaxed mindset is probably a good idea;</li>
 <li>pain fear/avoidance is overrided by expectation of danger;</li>
 <li>keeping track of dentist but not focusing exactly on their &ldquo;working area&rdquo; but on other bodily matters instead seems to be a good idea;</li>
 </ul>
 </div>
+  
   <footer class="post-footer">
-    
     <ul class="post-tags">
       
-      <li><a href="https://sowcow.github.io/blog/tags/random/">random</a></li>
       
-      <li><a href="https://sowcow.github.io/blog/tags/experience/">experience</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/random">random</a></li>
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/experience">experience</a></li>
       
     </ul>
-    
   </footer>
+  
   
   
   
@@ -127,33 +157,15 @@ Or because the nature of that anestesia - but that is unlikely.</p>
 
 </main>
 <footer class="footer">
-  <span>&copy; 2019 Let&#39;s see what happens.</span>
+  <span>&copy; 2019 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
   <span>&middot;</span>
   <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
   <span>&middot;</span>
   <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
 </footer>
-<script src="https://sowcow.github.io/blog/js/instantclick.min.js" data-no-instant></script>
-<script data-no-instant>InstantClick.init();</script>
-<script src="https://sowcow.github.io/blog/js/highlight.min.js" data-no-instant></script>
-<script data-no-instant>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
   hljs.initHighlightingOnLoad();
-  setMenuListener();
-
-  InstantClick.on('change', function() {
-    document.querySelectorAll('pre code').forEach((block) => {
-      hljs.highlightBlock(block);
-    });
-    setMenuListener();
-  });
-
-  function setMenuListener() {
-    var menuToggle = document.querySelector('.menu-toggle');
-    var body = document.querySelector('body');
-    menuToggle.addEventListener('click', function() {
-      body.classList.toggle('no-scroll');
-    }, false);
-  }
 </script>
 </body>
 </html>

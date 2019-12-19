@@ -10,55 +10,114 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <link href="https://sowcow.github.io/blog/css/github-gist.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/css/style.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
     
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/img/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/img/favicon.ico">
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
     
-    <meta name="generator" content="Hugo 0.59.0" />
+    <meta name="generator" content="Hugo 0.60.1" />
     
     <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
     
     
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
   </head>
   <body class="list">
+    <script>
+      setTheme();
+    </script>
     <header class="header">
-      <div class="wrap">
+      <nav class="nav">
         
-        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens. </a></p>
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
         
-        <button class="menu-toggle" type="button"></button>
-      </div>
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
     </header>
-    <nav class="nav">
-    <ul class="menu">
-      
-      
-      <li class="">
-        <a href="/blog/">Home</a>
-      </li>
-      
-      <li class="">
-        <a href="/blog/tags-menu/">Tags</a>
-      </li>
-      
-    </ul>
-    </nav>
     <main class="main">
 
 
 
+
+
 <header class="page-header">
-  <h1>
-  Posts
-  </h1>
+  <h1>Posts</h1>
 </header>
 
 
 
 
 
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Werk Ohne Autor</h2>
+  </header>
+  <section class="entry-content">
+   <p>I think this post spoils the movie in a way. It can provide different experience to somebody else.
+ I have watched the movie. Although art is not somethig I know much, I have a couple of thoughts about art after the movie.
+It is about making a name So the stuff modernists produce by just exploring the medium before others done it is worth as much as random numbers....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>December 19, 2019</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/werk-ohne-autor/"></a>
+</article>
 
 <article class="post-entry">
   <header class="entry-header">
@@ -71,7 +130,7 @@
 The content is both very sober, straightforward and logical as it is also entertaining and with a lot of humour....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.10.26</time>
+    <time>October 26, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/epictetus/"></a>
 </article>
@@ -88,7 +147,7 @@ I found the first part quite informative for me:
  I really like biological facts about how things work Christianity as a big sacrafice was new information for me I also enjoyed different literary excerpts (Dostoevsky and others)  But then after 50% the real fun starts....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.9.30</time>
+    <time>September 30, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/jordan-peterson/"></a>
 </article>
@@ -100,10 +159,10 @@ I found the first part quite informative for me:
   <section class="entry-content">
    <p>While reading Marxism by T. Sowell I cought myself on thoughts that the stuff is not as ugly as what is claimed to be applications of it. The stuff even felt attractive in theory.
 So I quickly visited one site to see what ideas are there these days.
-What I found is some pool of mud filled with red-herrings and repeated talking points. It didn’t look that the writers are entirely dumb but that they are a bit psychotic and very ideological and partisan....</p>
+What I found is some pool of mud filled with red-herrings and repeated talking points. It didn&#39;t look that the writers are entirely dumb but that they are a bit psychotic and very ideological and partisan....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.9.22</time>
+    <time>September 22, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/collective-lies/"></a>
 </article>
@@ -120,7 +179,7 @@ I noticed this disambiguation of the term “discrimination” by the author:
  evidence based discrimination (1A): based on knowledge of traits and behavior of a given individual evidence based discrimination (1B): based on statistics on group behavior, traits arbitrary discrimination (2): arbitrary/irrational  This is how I understood this....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.8.20</time>
+    <time>August 20, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/d-and-d/"></a>
 </article>
@@ -134,10 +193,11 @@ I noticed this disambiguation of the term “discrimination” by the author:
 Summary It looks like a theoretical high level paper about comlexity in large codebases.
 The main point can be statend in the form: eliminate stuff/separate certain parts of the system to reduce power/ability to introduce accedintal complexity.
 What is being separated: essential state, essential logic, control.
-Also proposed ways to implement these parts: - state - relaitons - logic - pure functions...</p>
+Also proposed ways to implement these parts:
+ state - relaitons logic - pure functions  My Thoughts I am pretty convinced that relations are the way to go for the essential state....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.8.20</time>
+    <time>August 20, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/tar-pit/"></a>
 </article>
@@ -151,7 +211,7 @@ Also proposed ways to implement these parts: - state - relaitons - logic - pure 
  It is short and not some yet another pseudo scientific “-ism”, “-fobia”. So it looks more natural on the outset; It has “right” in it :) You can create new “rights” every day by adding different perfixes; You can use it to extract something from somebody; Since it is vague term it can have broad uses especially when it comes to general public; It also informs users on how to act/behave when demanding something from others: righteously;  ...</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.8.11</time>
+    <time>August 11, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/das-right/"></a>
 </article>
@@ -163,10 +223,10 @@ Also proposed ways to implement these parts: - state - relaitons - logic - pure 
   <section class="entry-content">
    <p>So I decided to put some thoughts about my coding here. There are three of them.
 Copy-pasting This is one of my time wasters. I have this expectation that copy-pasted block should just work. But then there are little details that I miss that require a debugging session later.
-Copy pasting by itself is not that evil. It can be avoided by additional abstractions. But you don’t want to commit to any random abstraction either....</p>
+Copy pasting by itself is not that evil. It can be avoided by additional abstractions. But you don&#39;t want to commit to any random abstraction either....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.8.6</time>
+    <time>August 6, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/random-code-thoughts/"></a>
 </article>
@@ -177,12 +237,12 @@ Copy pasting by itself is not that evil. It can be avoided by additional abstrac
   </header>
   <section class="entry-content">
    <p>Today I noticed that I feel unusually proud of myself. I thought that there has to be a reason for that. And indeed I found couple of them.
-Then I thought that feeling of pride is not really concious in it’s source.
+Then I thought that feeling of pride is not really concious in it&#39;s source.
 And then I thought about artificial sources.
 Given say body positivity. When say fat people are told to feel or pretend to be proud of themselves. This is ambiguous....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.8.5</time>
+    <time>August 5, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/till-you-make-it/"></a>
 </article>
@@ -197,25 +257,9 @@ And I randomly recollected that at some point in the past when a dentist was inj
 And since this was my last visit I felt like experimentating and not injecting anything this time....</p>
   </section>
   <footer class="entry-footer">
-    <time>2019.8.5</time>
+    <time>August 5, 2019</time>
   </footer>
   <a class="entry-link" href="https://sowcow.github.io/blog/posts/random-dentist-experience/"></a>
-</article>
-
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Caesar</h2>
-  </header>
-  <section class="entry-content">
-   <p>I really like reading History of Gallic Wars by Caesar.
-There are interesting small details everywhere: details about politics, contracts, warfare, decision making.
-The narrative itself is also quite fascinating to me.
-Also national differences that are depicted in the book are quite entertaining....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>2019.7.28</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/caesar/"></a>
 </article>
 
 
@@ -233,33 +277,15 @@ Also national differences that are depicted in the book are quite entertaining..
 
 </main>
 <footer class="footer">
-  <span>&copy; 2019 Let&#39;s see what happens.</span>
+  <span>&copy; 2019 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
   <span>&middot;</span>
   <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
   <span>&middot;</span>
   <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
 </footer>
-<script src="https://sowcow.github.io/blog/js/instantclick.min.js" data-no-instant></script>
-<script data-no-instant>InstantClick.init();</script>
-<script src="https://sowcow.github.io/blog/js/highlight.min.js" data-no-instant></script>
-<script data-no-instant>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
   hljs.initHighlightingOnLoad();
-  setMenuListener();
-
-  InstantClick.on('change', function() {
-    document.querySelectorAll('pre code').forEach((block) => {
-      hljs.highlightBlock(block);
-    });
-    setMenuListener();
-  });
-
-  function setMenuListener() {
-    var menuToggle = document.querySelector('.menu-toggle');
-    var body = document.querySelector('body');
-    menuToggle.addEventListener('click', function() {
-      body.classList.toggle('no-scroll');
-    }, false);
-  }
 </script>
 </body>
 </html>

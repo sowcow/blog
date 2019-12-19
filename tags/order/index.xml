@@ -6,10 +6,21 @@
     <description>Recent content in order on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Oct 2019 20:40:20 +0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 12:46:28 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/tags/order/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Werk Ohne Autor</title>
+      <link>https://sowcow.github.io/blog/posts/werk-ohne-autor/</link>
+      <pubDate>Thu, 19 Dec 2019 12:46:28 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/werk-ohne-autor/</guid>
+      <description>I think this post spoils the movie in a way. It can provide different experience to somebody else.
+ I have watched the movie. Although art is not somethig I know much, I have a couple of thoughts about art after the movie.
+It is about making a name So the stuff modernists produce by just exploring the medium before others done it is worth as much as random numbers.</description>
+    </item>
     
     <item>
       <title>Epictetus</title>
@@ -53,10 +64,10 @@ BTW I use org-mode to implement it. I am happy with the proccess.</description>
       <guid>https://sowcow.github.io/blog/posts/real-abstractions/</guid>
       <description>Abstractions are real.
 Brains work with them.
-And you can&amp;rsquo;t ignore what goes into your brain.
-Things you can&amp;rsquo;t ignore are real for you.
+And you can&#39;t ignore what goes into your brain.
+Things you can&#39;t ignore are real for you.
 Reality of production is reflected in the product.
-Well. That was a tricky way to state that in the ideal world code quality is measured by the quality of abstractions.</description>
+ Well. That was a tricky way to state that in the ideal world code quality is measured by the quality of abstractions.</description>
     </item>
     
     <item>
@@ -80,7 +91,7 @@ Otherwise you act not in your own interest.</description>
       <description>I was looking at what I am doing wrong with my personal projects recently. And I think that part of the problem is this unconstrained approach.
 So there is the propensity in people to be blindly optimistic about something. I found mine to be interfering with the code.
 So I gotta learn some good constraints.
-I&amp;rsquo;ll try some very directed and formal approach with explicit principles and compromises.</description>
+I&#39;ll try some very directed and formal approach with explicit principles and compromises.</description>
     </item>
     
     <item>
@@ -101,7 +112,7 @@ For me the right/wrong here is intuitive. I need to return to it later.</descrip
       
       <guid>https://sowcow.github.io/blog/posts/forgotten-meditation/</guid>
       <description>Background facts I have not practiced consistently. And I consumed alot of content about it at some point and have forgotten most of it.
-Thoughts I&amp;rsquo;m getting to know meditation again. With the first breathes you get to observe/experience Tanha directly. Also the alternative &amp;ldquo;object&amp;rdquo; is available. This is something new for me.</description>
+Thoughts I&#39;m getting to know meditation again. With the first breathes you get to observe/experience Tanha directly. Also the alternative &amp;ldquo;object&amp;rdquo; is available. This is something new for me.</description>
     </item>
     
   </channel>
