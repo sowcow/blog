@@ -73,3 +73,11 @@ personally I do not buy that it actually provides it.
 
 I suspect it is just being sold properly and more likely
 it explores humans status signaling and behaviors in modern city.
+
+## Freedom
+
+Dispite my scepsis over the value of this art itself I have a point about it's relation to something valuable.
+It takes some value in it being by-product of free artists.
+And free artists are by-product of abundance, prosperity and freedom generated.
+
+So it is like a token signifying something good (freedom) even though it is only a byproduct of it.
