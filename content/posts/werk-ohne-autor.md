@@ -80,4 +80,4 @@ Dispite my scepsis over the value of this art itself I have a point about it's r
 It takes some value in it being by-product of free artists.
 And free artists are by-product of abundance, prosperity and freedom generated.
 
-So it is like a token signifying something good (freedom) even though it is only a byproduct of it.
+So it is like a token signifying something good (abundance, freedom) even though it is only a byproduct of it.
