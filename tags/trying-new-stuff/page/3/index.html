@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>trying-new-stuff - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.63.2" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="list">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+
+
+<header class="page-header">
+  <h1>trying-new-stuff</h1>
+</header>
+
+
+
+
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Creative inventors</h2>
+  </header>
+  <section class="entry-content">
+   <p>I hope this blog is not going to be corrupted by politics too much.
+One can sign a propaganda plakat. But one cannot sign a word. How unfortunate it is that so much creativity is unattributed.
+Enormous progress has been made from the old words to the new ones. Words like “free market”, “pro-choice”, “ABC rights”, etc… Only true visionaries can see what new words the future holds for us....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>May 20, 2019</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/first-politics-post/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Started this blog</h2>
+  </header>
+  <section class="entry-content">
+   <p>The plan is to post some stuff I do. Like what I read for example. With some analysis maybe.
+Only the good stuff.
+In the end I should get more invested in the stuff....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>May 17, 2019</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/my-first-post/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Tags</h2>
+  </header>
+  <section class="entry-content">
+   <p> art (1) code (6) experience (1) forgotten (1) games (1) gtd (2) history (1) language (1) low-iq (1) mind (1) order (9) politics (5) random (3) reading (8) thoughts (2) trying-new-stuff (1)  ...</p>
+  </section>
+  <footer class="entry-footer">
+    <time>January 1, 2000</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/tags-menu/"></a>
+</article>
+
+
+
+<footer class="page-footer">
+  <nav class="pagination">
+    
+    <a class="prev" href="/blog/tags/trying-new-stuff/page/2/">← Prev Page</a>
+    
+    
+  </nav>
+</footer>
+
+
+</main>
+<footer class="footer">
+  <span>&copy; 2020 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
