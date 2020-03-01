@@ -6,10 +6,20 @@
     <description>Recent content on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 18:36:45 +0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 09:50:19 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>February 2020</title>
+      <link>https://sowcow.github.io/blog/posts/february-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 09:50:19 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/february-2020/</guid>
+      <description>Reading Concerning reading/audio I have finished Orthodoxy. I wanted to write about it but it is not the case that I am 100% sure about my own view on these topics. Anyway there is a lot of good stuff in the book overall.
+Basically the author likes his choice/experience and consistency is not the only value he needs. Although in public policy I would be aganist things like that. Even though author mildly argues for that also.</description>
+    </item>
     
     <item>
       <title>January 2020</title>
@@ -287,7 +297,7 @@ In the end I should get more invested in the stuff.</description>
       <pubDate>Sat, 01 Jan 2000 09:47:54 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags-menu/</guid>
-      <description> art (1) code (7) experience (1) forgotten (1) games (1) gtd (2) history (1) language (1) low-iq (1) mind (1) order (10) politics (5) random (3) reading (9) thoughts (2) trying-new-stuff (1)  </description>
+      <description> art (1) code (7) experience (1) forgotten (1) games (1) gtd (2) history (1) language (1) low-iq (1) mind (1) order (10) politics (5) random (3) reading (10) review (1) thoughts (2) trying-new-stuff (1)  </description>
     </item>
     
   </channel>

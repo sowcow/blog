@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>February 2020 - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Reading Concerning reading/audio I have finished Orthodoxy. I wanted to write about it but it is not the case that I am 100% sure about my own view on these topics. Anyway there is a lot of good stuff in the book overall.
+Basically the author likes his choice/experience and consistency is not the only value he needs. Although in public policy I would be aganist things like that. Even though author mildly argues for that also.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.64.0" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">February 2020</h1>
+    <div class="post-meta">Alexander · March 1, 2020</div>
+  </header>
+  <div class="post-content"><h2 id="reading">Reading</h2>
+<p>Concerning reading/audio I have finished Orthodoxy.
+I wanted to write about it but it is not the case
+that I am 100% sure about my own view on these topics.
+Anyway there is a lot of good stuff in the book overall.</p>
+<p>Basically the author likes his choice/experience and consistency is not the only value he needs.
+Although in public policy I would be aganist things like that.
+Even though author mildly argues for that also.</p>
+<h2 id="books">Books</h2>
+<p>I have good stuff ready to read.
+But I fell like I don&rsquo;t have enough focus to commit to it.</p>
+<p>On one hand I want to get rid of small things I haven&rsquo;t finished yet.
+On the other hand there are good bigger options that require focus/notes.</p>
+<p>I have a book with Sun Tzu followed by 5+ other chinese old books.
+I really like this content.
+The plan is to have some time allocated for actual book reading.
+I&rsquo;ll have it with chinese music also :).</p>
+<h2 id="review">Review</h2>
+<p>Overall it looks like this blog is turning into monthly review kind of thing.
+I actually considered this use earlier but I envisioned it in more data-based way.
+And this still sounds like a good idea.
+But the thing that is blocking me from that is that I really want to use own app for that.</p>
+<p>And since I mentioned the app here is the status of it.
+I started with simplistic ruby (it wasn&rsquo;t smart move).
+Because I ended up either reinventing bikes or turning into standard rails+react.
+And there is way more exciting idea I&rsquo;m looking into now anyway (gamedev).</p>
+<p>Anyway I have a wall calendar for some data accumulation.
+So what I have is that I finally started to use my velo among other healthhy habbits.
+And this happened in the last week of the month.</p>
+<p>I am not sure if this is related to COVID-19 uncertaintry.
+Or maybe also this idea that I need to write a review soon also contributed.</p>
+<h2 id="plans">Plans</h2>
+<ol>
+<li>General: Let&rsquo;s see if I can keep it with healthy behaviors;</li>
+<li>Project: I have a crazy gamedev project idea. I have some simple next-steps and many future ideas of course;</li>
+<li>Audio: I really want to try socratic dialogs by audible. They can be demanding but that is the point of it.
+Currently there is no alternative that I have in mind for the new month.
+Maybe except for german podcasts but I haven&rsquo;t tried them yet;</li>
+<li>Video: I have some simple german videos ready to watch/listen.</li>
+<li>Text: Sun Tzu+.</li>
+</ol>
+</div>
+  
+  <footer class="post-footer">
+    <ul class="post-tags">
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/review">review</a></li>
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/reading">reading</a></li>
+      
+    </ul>
+  </footer>
+  
+  
+  
+  
+  
+</article>
+
+</main>
+<footer class="footer">
+  <span>&copy; 2020 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
