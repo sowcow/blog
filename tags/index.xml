@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 09:50:19 +0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 17:57:52 +0500</lastBuildDate>
     
 	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>review</title>
+      <link>https://sowcow.github.io/blog/tags/review/</link>
+      <pubDate>Wed, 01 Apr 2020 17:57:52 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>reading</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 01 Mar 2020 09:50:19 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://sowcow.github.io/blog/tags/review/</link>
-      <pubDate>Sun, 01 Mar 2020 09:50:19 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/review/</guid>
       <description></description>
     </item>
     
