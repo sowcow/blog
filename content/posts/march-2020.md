@@ -17,18 +17,18 @@ I started some new healthy behaviors but otherwise there was no acceleration com
 - I have started learning a new programming language so I have read a couple of books on it
 - There are more books on it waiting for their turn
 
-# What didn't Work
-
-Sun Tzu realy wasn't right for me. It requires certain state of mind/engagement to read for me. I can't just push through such book so I have put it off for now.
-
-Audios also somehow are not what I'm ready to do by default.
-
 # Code
 
 - I started playing with a physical engine
 - I started playing with NNs
 - Then I lost interest but I'm going to return this weekend
   because there are other motivating factors
+
+# What didn't Work
+
+Sun Tzu realy wasn't right for me. It requires certain state of mind/engagement to read for me. I can't just push through such book so I have put it off for now.
+
+Audios also somehow are not what I'm ready to do by default.
 
 # The Plan
 
