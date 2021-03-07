@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-03-07T12:37:28+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-03-07T12:37:28+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-03-07T12:37:28+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/trash/</loc>
+    <lastmod>2021-03-07T12:37:28+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/zombie-watch/</loc>
+    <lastmod>2021-03-07T12:37:28+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/zombies/</loc>
+    <lastmod>2021-03-07T12:37:28+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/archeology/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
   </url>
@@ -23,17 +53,7 @@
   </url>
   
   <url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sowcow.github.io/blog/tags/puzzle/</loc>
-    <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
   </url>
   
@@ -230,11 +250,6 @@
   <url>
     <loc>https://sowcow.github.io/blog/tags/trying-new-stuff/</loc>
     <lastmod>2019-05-17T14:04:42+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2000-01-01T09:47:54+05:00</lastmod>
   </url>
   
   <url>
