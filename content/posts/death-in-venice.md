@@ -122,8 +122,8 @@ I bet the music plays that note exactly at that moment.
 ## Very cool
 
 Very cool that I have no training with music and I got my first midi keyboard just two months ago and was playing around.
-Without that it would not be possible to solve the gesture.
+Without that it would not be possible for me to solve the gesture.
 
 And the movie actually revived my interest in music and visual arts.
 
-Great picture.
+The sign of a great picture right there.
