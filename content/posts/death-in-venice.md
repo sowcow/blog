@@ -65,6 +65,7 @@ I'm being cold and stingy in words here but the scene should say for itself.
 
 Of course there are plenty of interesting scenes.
 
+
 ## Small observations and clues
 
 These are not big ones but I couldn't resist to mention them.
@@ -112,18 +113,21 @@ Piano keyboard obviously.
 It can be interestingly interpreted as the angel of death charging an arrow.
 There is probabably a truth to it.
 
-It also may be related to some painting.
+The gesture is likely to have own meaning (some painting or the Sun).
 
-But actually.
+But most importantly.
 
-Tadzio puts a key note to the notes staff created by the sea line.
-I bet the music plays that note exactly at that moment.
+Tadzio puts a note to the notes staff created by the sea line.
+I bet the note plays at the culmination.
 
 ## Very cool
 
 Very cool that I have no training with music and I got my first midi keyboard just two months ago and was playing around.
 Without that it would not be possible for me to solve the gesture.
 
-And the movie actually revived my interest in music and visual arts.
+And there are still plenty of signs that are left for interpretation. As it says in the movie: The art is ambiguous.
 
-The sign of a great picture right there.
+Visconti masterfully shapes the canvas to reveal ideas.
+The movie actually revived my interest in music and visual arts.
+
+What more can be added?
