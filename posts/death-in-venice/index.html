@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Death in Venice - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Analysis Meta Being watching Visconti for the first time recently.
+Decided to record a post on this one because it is more than it seems in many ways.
+I plan to have this one without spoilers because I like myself to find things in movies and there is no value in being explicit potentially ruining that for somebody.
+I haven&rsquo;t read the book. I have checked some comments on the internet.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.80.0" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Death in Venice</h1>
+    <div class="post-meta">Alexander · March 19, 2021</div>
+  </header>
+  <div class="post-content"><h1 id="analysis">Analysis</h1>
+<h2 id="meta">Meta</h2>
+<p>Being watching Visconti for the first time recently.</p>
+<p>Decided to record a post on this one because it is more than it seems in many ways.</p>
+<p>I plan to have this one without spoilers because I like myself to find things in movies
+and there is no value in being explicit potentially ruining that for somebody.</p>
+<p>I haven&rsquo;t read the book.
+I have checked some comments on the internet.
+And I assume the movie is better than the book given how Visconti uses his visual space.</p>
+<h2 id="what-it-is-not">What it is not</h2>
+<p>So there is a dull interpretation that a movie is about some odd perverted but distant relation.</p>
+<p>Although it is totally understandable that people can get too distracted and mislead by that stuff.</p>
+<p>One should be a fool to think that the movie is about that given how strong Visconti uses his tools to deliver another story.</p>
+<p>Not idea what is the case in the book. But Visconti modified and added to the story in a strong way.</p>
+<h2 id="what-i-have-been-able-to-see">What I have been able to see</h2>
+<p>Visconti changed a writer to a musician.
+Added great dialogs with a friend about music.
+And there are other things that if you have seen them then you can&rsquo;t unsee them through the movie.</p>
+<p>I don&rsquo;t go into details but Visconti leaves very obvious clues.</p>
+<p>The movie is rich in a sense that there are contrasts everywhere.
+And there is likely to be some point behind each of them.</p>
+<h2 id="what-experience-i-lack-for-the-movie">What experience I lack for the movie</h2>
+<p>That reflection of his future wife in the mirror. It has to be related to a real painting.
+Watching the The Flying Dutchman and now this movies pushes me a bit to to get my knowledge of the history visual arts to some level.</p>
+<p>Music. I got a midi keyboard lately and was trying it as an entertainment.
+Actually even a couple years before I tried another instrument but it didn&rsquo;t fit me.
+Anyway in the movie I have found that I just ignore music or just experience it as a background
+except for scenes where Visconti is very explicit about it.
+I bet Visconti synthesised music and a picture in a way that is worth looknig into.
+But bigger understanding of music at least may be needed here.</p>
+<h1 id="spoilers-though">Spoilers though!</h1>
+<h2 id="favourite-scene">Favourite scene</h2>
+<p>My favorite scene is the scene of fiasco and how a friend musician Albert acts there.
+I&rsquo;m being cold and stingy in words here but the scene should say for itself.</p>
+<p>Of course there are plenty of interesting scenes.</p>
+<h2 id="small-observations-and-clues">Small observations and clues</h2>
+<p>These are not big ones but I couldn&rsquo;t resist to mention them.</p>
+<p>One interesting interpretation is that Tadzio is an angel of death.
+Which is cool.</p>
+<p>The idea of duality is represented alot there I have a couple of ideas about that but I&rsquo;ll let it open.</p>
+<h2 id="my-interpretation">My interpretation</h2>
+<p>This is the biggest of spoilers I guess but not the biggest key that opens a road to this interpretation.</p>
+<p>I haven&rsquo;t read much on the internet about the movie so I can&rsquo;t say if I&rsquo;m writing anything new here.</p>
+<p>One thing I have read is that Tadzio represents non-romantic beauty.</p>
+<p>I can go more specifically and say that he represents a beautiful melody or sound that an artist seeks.
+There are big clues supporting that.</p>
+<p>When a human tries to be source of art he gets crushed by a fiasco.</p>
+<p>When the composer actually finds that beautiful sound it goes far and wide from the artist
+leaving him behind crushed.</p>
+<h1 id="the-mother-of-all-spoilers">The Mother Of All Spoilers</h1>
+<p>While writing this post I came to understand the last scene so I will write that here too and with some support info.</p>
+<p>I feel like finding this stuff is very gratifying. Maybe reading it can also be but why would I read other&rsquo;s reviews when I can watch the movie by myself?</p>
+<p>If one wants to find such stuff on thir own they should practice paying attention and looking for interpretations.
+Or watching multiple times can be used if the movie is of a such quality to provide more with the next session.</p>
+<h2 id="what-you-cant-unsee">What you can&rsquo;t unsee</h2>
+<p>Piano keyboard obviously.</p>
+<h2 id="the-last-scene">The last scene</h2>
+<p>It can be interestingly interpreted as the angel of death charging an arrow.
+There is probabably a truth to it.</p>
+<p>It also may be related to some painting.</p>
+<p>But actually.</p>
+<p>Tadzio puts a key note to the notes staff created by the sea line.
+I bet the music plays that note exactly at that moment.</p>
+<h2 id="very-cool">Very cool</h2>
+<p>Very cool that I have no training with music and I got my first midi keyboard just two months ago and was playing around.
+Without that it would not be possible to solve the gesture.</p>
+<p>And the movie actually revived my interest in music and visual arts.</p>
+<p>Great picture.</p>
+</div>
+  
+  <footer class="post-footer">
+    <ul class="post-tags">
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/art">art</a></li>
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/movie">movie</a></li>
+      
+    </ul>
+  </footer>
+  
+  
+  
+  
+  
+</article>
+
+</main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
