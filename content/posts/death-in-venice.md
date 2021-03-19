@@ -29,6 +29,7 @@ So there is a dull interpretation that a movie is about some odd perverted but d
 
 Although it is totally understandable that people can get too distracted and mislead by that stuff.
 
+Even though the movie is ambiguous by intent.
 One should be a fool to think that the movie is about that given how strong Visconti uses his tools to deliver another story.
 
 Not idea what is the case in the book. But Visconti modified and added to the story in a strong way.
@@ -46,8 +47,8 @@ And there is likely to be some point behind each of them.
 
 ## What experience I lack for the movie
 
-That reflection of his future wife in the mirror. It has to be related to a real painting.
-Watching the The Flying Dutchman and now this movies pushes me a bit to to get my knowledge of the history visual arts to some level.
+That reflection of Esmeralda in the mirror. It has to be related to a real painting or else there is something the director says.
+Watching the The Flying Dutchman and now this movie pushes me a bit to to get my knowledge of the history visual arts to some level.
 
 Music. I got a midi keyboard lately and was trying it as an entertainment.
 Actually even a couple years before I tried another instrument but it didn't fit me.
@@ -105,7 +106,7 @@ Or watching multiple times can be used if the movie is of a such quality to prov
 
 ## What you can't unsee
 
-Piano keyboard obviously.
+Piano.
 
 
 ## The last scene
@@ -125,7 +126,7 @@ I bet the note plays at the culmination.
 Very cool that I have no training with music and I got my first midi keyboard just two months ago and was playing around.
 Without that it would not be possible for me to solve the gesture.
 
-And there are still plenty of signs that are left for interpretation. As it says in the movie: The art is ambiguous.
+And there are still plenty of signs or whole explicit aspects of that are left for interpretation. As it says in the movie: The art is ambiguous.
 
 Visconti masterfully shapes the canvas to reveal ideas.
 The movie actually revived my interest in music and visual arts.
