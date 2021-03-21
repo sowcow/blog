@@ -130,5 +130,3 @@ And there are still plenty of signs or whole explicit aspects of that are left f
 
 Visconti masterfully shapes the canvas to reveal ideas.
 The movie actually revived my interest in music and visual arts.
-
-What more can be added?
