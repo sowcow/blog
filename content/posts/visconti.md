@@ -16,7 +16,7 @@ Maybe because the writing itself can help me to think and produce some analysis 
 ### Ludwig
 
 Very cool.
-The key melody is something.
+The key melody is something (Wagner - Song of The Evening Star ).
 
 I think I lost some value because of lack of knowledge on historic persons.
 I really want to know more about Elisabeth of Austria and Ludwig for sure.
@@ -34,10 +34,18 @@ So the viewer finds themselves boiled at the end.
 To be honest I had to google about the last scene.
 So I got it delivered with a delay.
 
+I beleive the director puts multiple evils to the desk at a time.
+So when the viewer expects one they are less sensitive to another happened and it sneaks that way.
+But then one after another there is a pile of it deposited.
+But because that play you didn't expect in the end there to be this much.
+
 ### Conversation Piece
 
 I don't have much to say for some reason.
 I guess there are differences so arbitrary that even if they are wast people still have more to share with each other.
+
+My favorite mini-conversation is about modern pictures.
+In one russian version it is translated in the worst terms.
 
 ### Death in Venice
 
