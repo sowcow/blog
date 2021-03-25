@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>patriotic - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.80.0" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="list">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+
+
+<header class="page-header">
+  <h1>patriotic</h1>
+</header>
+
+
+
+
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Sputnik</h2>
+  </header>
+  <section class="entry-content">
+   <p>So I got a shot of the vaccine Sputnik-V (I hope :).
+Anyway I got a fever now as normal reaction. Basically I got a modified chimpanzee virus inside which is fun aspect of it.
+Another interesting aspect is that I got it at the same day (I hope :) as the first citizen of the country.
+Also another reason to feel patriotic about it is that if russian people are not too eager to increase vaccination stats....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 25, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/sputnik/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Visconti</h2>
+  </header>
+  <section class="entry-content">
+   <p>I’ve been watching different Visconti movies these days for the first time.
+I decided to have some stuff written. Possibly not very important one but I feel like writing stuff can have some value by itself. Maybe because the writing itself can help me to think and produce some analysis now or even if I will want to add something later.
+Also I can’t be certain if I keep this with or without spoilers....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 25, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/visconti/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Fish Rights</h2>
+  </header>
+  <section class="entry-content">
+   <p>Fishes moving in a flock.
+Since humans are more advanced than fish I assume they are even better at such movements and maneuvers. They have more options to do that and have cool creative explanations for doing that.
+My favorite flock in political waters are certain kind of individualists. Those who are all very unique of course but also equal for sure.
+I bet those owning social networks hide alot of information about such flocks....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 21, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/fish-rights/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Death in Venice</h2>
+  </header>
+  <section class="entry-content">
+   <p>Analysis Meta Being watching Visconti for the first time recently.
+Decided to record a post on this one because it is more than it seems in many ways.
+I plan to have this one without spoilers because I like myself to find things in movies and there is no value in being explicit potentially ruining that for somebody.
+I haven’t read the book. I have checked some comments on the internet....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 19, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/death-in-venice/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Coffee for love</h2>
+  </header>
+  <section class="entry-content">
+   <p>I have got to drinking only water couple of months ago. Before that I was a green-tea addict (only Flying Dragon).
+And lately there I got into a nice mix of starting 6-minute productivity diary, meditating, cutting obvious carbs, and listening to a nice episode of elated podcast episode about fighting demons and love for every being. And also to compensate a bit for carbs for starters I got to drink some diet soda....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 11, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/coffee/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Stelling</h2>
+  </header>
+  <section class="entry-content">
+   <p>Non-Stelling First I watched The Godfather, a couple of Nolan movies, Coffee and Cigarettes.
+Concerning The Godfather I also watched a comentary and analysis which also adds weight and value to the understanding of how the movie made.
+Concerning Nolan. I first thought that he is getting old with his Tenet having stamps and otherwise annoying scenes. Even though I liked ideas and realization and the key scenes of course are my kind of content....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 10, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/stelling/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Bats flu</h2>
+  </header>
+  <section class="entry-content">
+   <p>I like how these days humanity have developed many strains of the new flu:
+ british south african nigerian I beleive there was an italian one also  I like how there is no chinese strain yet....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 8, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/stamm/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Zombie Watch</h2>
+  </header>
+  <section class="entry-content">
+   <p>Got to have a glimpse of what russian socio-patriotical channel “star” or “zvezda” shows on sunday mornings.
+ first there was an episode about how many more people will have cancer in the future then they had one with staged excerpts related to people being executed by firing squads and how scout who was around this went into the mental house then they got to international politics and what prospects should be there for the state  I do not do hatewatch normally....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>March 7, 2021</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/zombie-watch/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>Archeology</h2>
+  </header>
+  <section class="entry-content">
+   <p>It is in a way like in that movie: Inception. There are forgotten situations that has power over you. And there are symbols that you get to have around instead. At some point you decode the symbols back.
+It feels energetic but calming. It is too rare an experience to not record it....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>June 5, 2020</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/archeology/"></a>
+</article>
+
+<article class="post-entry">
+  <header class="entry-header">
+    <h2>March 2020</h2>
+  </header>
+  <section class="entry-content">
+   <p>General I started some new healthy behaviors but otherwise there was no acceleration compared to the previous month.
+Reading  I have finished small german language book that was laying around for too long I have started learning a new programming language so I have read a couple of books on it There are more books on it waiting for their turn  Code  I started playing with a physical engine I started playing with NNs Then I lost interest but I’m going to return this weekend because there are other motivating factors  What didn’t Work Sun Tzu realy wasn’t right for me....</p>
+  </section>
+  <footer class="entry-footer">
+    <time>April 1, 2020</time>
+  </footer>
+  <a class="entry-link" href="https://sowcow.github.io/blog/posts/march-2020/"></a>
+</article>
+
+
+
+<footer class="page-footer">
+  <nav class="pagination">
+    
+    
+    <a class="next" href="/blog/tags/patriotic/page/2/">Next Page →</a>
+    
+  </nav>
+</footer>
+
+
+</main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+

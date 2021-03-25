@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Sputnik - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="So I got a shot of the vaccine Sputnik-V (I hope :).
+Anyway I got a fever now as normal reaction. Basically I got a modified chimpanzee virus inside which is fun aspect of it.
+Another interesting aspect is that I got it at the same day (I hope :) as the first citizen of the country.
+Also another reason to feel patriotic about it is that if russian people are not too eager to increase vaccination stats.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.80.0" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Sputnik</h1>
+    <div class="post-meta">Alexander · March 25, 2021</div>
+  </header>
+  <div class="post-content"><p>So I got a shot of the vaccine Sputnik-V (I hope :).</p>
+<p>Anyway I got a fever now as normal reaction.
+Basically I got a modified chimpanzee virus inside which is fun aspect of it.</p>
+<p>Another interesting aspect is that I got it at the same day (I hope :) as the first citizen of the country.</p>
+<p>Also another reason to feel patriotic about it is that if russian people are not too eager to increase vaccination stats.
+So I did a move and added to that statistics personally.</p>
+<p>There is an aspect of doing it in own interest given how slow numbers go up and that I cannot rely on other people doing their shots.
+But also while doing it I contribute to that stats.
+So I felt very good after doing it.</p>
+<p>Anyway it is interesting that the final &ldquo;straw&rdquo; was Andrey Movchans video (from London) where he discusses vaccines and recommends doing it in an interesting way.</p>
+<p>So everything about me getting into it is non-straightforward.</p>
+</div>
+  
+  <footer class="post-footer">
+    <ul class="post-tags">
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/patriotic">patriotic</a></li>
+      
+    </ul>
+  </footer>
+  
+  
+  
+  
+  
+</article>
+
+</main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
