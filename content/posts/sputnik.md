@@ -23,4 +23,11 @@ So I felt very good after doing it.
 
 Anyway it is interesting that the final "straw" was Andrey Movchans video (from London) where he discusses vaccines and recommends doing it in an interesting way.
 
+I can't imagine say two years ago that I will:
+
+1. take chips virus
+2. by the advice of a financial manager from London
+3. at the same day with the president
+4. while feeling good about doing it
+
 So everything about me getting into it is non-straightforward.
