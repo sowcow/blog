@@ -1,6 +1,6 @@
 ---
 title: "Visconti"
-date: 2021-03-22T18:06:32+05:00
+date: 2021-03-25T14:06:32+05:00
 draft: false
 author: Alexander
 tags:
@@ -13,6 +13,8 @@ I decided to have some stuff written.
 Possibly not very important one but I feel like writing stuff can have some value by itself.
 Maybe because the writing itself can help me to think and produce some analysis now or even if I will want to add something later.
 
+Also I can't be certain if I keep this with or without spoilers.
+
 ### Ludwig
 
 Very cool.
@@ -20,6 +22,7 @@ The key melody is something (Wagner - Song of The Evening Star ).
 
 I think I lost some value because of lack of knowledge on historic persons.
 I really want to know more about Elisabeth of Austria and Ludwig for sure.
+Also relation of Otto to his mother may be of interest but I beleive the movie just points to that.
 It is possibly rewatcheable for me at some point.
 
 The key conversation I think is about the truth.
@@ -62,3 +65,15 @@ It poses a question of "sacrafice" in a setting where people don't change.
 
 Lots of aesthetics to see.
 About aristocracy that is possibly lost in the new times.
+
+### Bellissima
+
+(I can't think too straight because of fever but I need to write it to close the topic)
+
+Unnatural world demands and even parents ideas mess with a child.
+Either because mother cheats or the girl is not fit for acting from the start and the mother is delusional.
+
+I beleive it is about miscommunication also because
+I have this memory of not understanding parents.
+
+Anyway it is about certain dignity of an innocent person.
