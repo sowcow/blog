@@ -7,6 +7,8 @@ tags:
 - patriotic
 ---
 
+*correction*: it is not a chimps virus but I find that idea too entertaining still
+
 So I got a shot of the vaccine Sputnik-V (I hope :).
 
 Anyway I got a fever now as normal reaction.
