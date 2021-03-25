@@ -30,4 +30,4 @@ I can't imagine say two years ago that I will:
 3. at the same day with the president
 4. while feeling good about doing it
 
-So everything about me getting into it is non-straightforward.
+Humans are more complex than I thought.
