@@ -77,3 +77,18 @@ I beleive it is about miscommunication also because
 I have this memory of not understanding parents.
 
 Anyway it is about certain dignity of an innocent person.
+
+### La Terra Trema
+
+There are many images in the movie that you remember.
+
+While watching it I constantly catch myself thinking: "hey! this looks interesting just visually, why are you not paying attention to it?"
+
+So given the movie is black and white random person would not think that it should be visually interesting but it is.
+
+So you constantly see that there is work behind this and even if you don't understand tradeoffs and choices by the director you still perceive the work as having certain quality.
+
+I'm writing this after a couple of days after watching it so lots of thoughts and angles I can't point to now.
+One thing that is shown in the movie is that labor in powerty selects for certain character of people and punishes another kind.
+I guess it punishes optimists because the cost of risk is too high.
+And that selecton opens opportunities for others to exploit such people.
