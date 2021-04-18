@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Sandra | Vaghe stelle dell&#39;Orsa - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Context I decided to return to quality movies after having a break from wathing anything. And not having time organized resulted in me watching the movie in multiple sessins.
+Thoughts It was always visually interesting experience for me. I didn&rsquo;t expect black and white movies being such rich medium. Also all scenes with piano being played on camera I watched twice for sure.
+I beleive there is a rewatch value of the movie overall even though it is not that complex in the story as I see it.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.80.0" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Sandra | Vaghe stelle dell&#39;Orsa</h1>
+    <div class="post-meta">Alexander · April 18, 2021</div>
+  </header>
+  <div class="post-content"><h3 id="context">Context</h3>
+<p>I decided to return to quality movies after having a break from wathing anything.
+And not having time organized resulted in me watching the movie in multiple sessins.</p>
+<h3 id="thoughts">Thoughts</h3>
+<p>It was always visually interesting experience for me.
+I didn&rsquo;t expect black and white movies being such rich medium.
+Also all scenes with piano being played on camera I watched twice for sure.</p>
+<p>I beleive there is a rewatch value of the movie overall even though it is not that complex in the story as I see it.
+There are definetly smaller scenes that need another look to understand thinking of characters.</p>
+<p>Many scenes are remembered as atmospheric for sure.
+After the movie I instantly rewatched the very distinctive scene in the garden.
+And I got &ldquo;rewatch value&rdquo; right there from accidental phrases that reveal you more about characters.</p>
+<p>Anyway It looks that Sandra goes back into the house of her youth to deal with some ceremony.
+And personally also to meet and finish it with ghosts of the past.
+So she meets her brother Gianni.</p>
+<p>They both are blamed for the past in the movie.
+And there are not much more details I beleive about that.</p>
+<p>The brother didn&rsquo;t make it out of the past and he is being consumed by it.
+He looks more intelligent and sophisticated at multiple occasions.
+But his behavior is also very impulsive and irresponsible at other times.
+I think he not once shows that dual nature at the same time even.</p>
+<p>And Sandra is simpler as mans discuss once.
+But she ends up being more real person.
+And she is the one future oriented.</p>
+<p>(I beleive the very beginning of the movie touches that the future and the past theme.)</p>
+<h3 id="so">So</h3>
+<p>Sandra is the one who posesses agency and is not being posessed by deamons.</p>
+<p>Even though the verse is quoted by Gianni and he is otherwise colorful character still.
+I beleive it is Sandra who actually visits the place to see glimmering stars from her childhood house for the last time.</p>
+</div>
+  
+  <footer class="post-footer">
+    <ul class="post-tags">
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/atmospheric">atmospheric</a></li>
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/movie">movie</a></li>
+      
+    </ul>
+  </footer>
+  
+  
+  
+  
+  
+</article>
+
+</main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
