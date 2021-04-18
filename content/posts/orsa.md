@@ -50,3 +50,19 @@ Sandra is the one who posesses agency and is not being posessed by deamons.
 
 Even though the verse is quoted by Gianni and he is otherwise colorful character still.
 I beleive it is Sandra who actually visits the place to see glimmering stars from her childhood house for the last time.
+
+
+### Also
+
+Also I like how everything is big in these movies.
+And also realistic and convincing to such extent
+that you consider the movie having is own dimension of existance.
+
+Also smaller things looks so arbitrary after such big-things movie.
+
+Concerning "sin" main characters committed in the past I beleive Visconti intentionally does not provide information.
+So that viewer is not distracted by also bringing the past of characters so that the viewer is closer to the actual reality of what is happening.
+
+Also Visconti uses piano playing to tell about gravity of "sins" before parents.
+I'm not used to such great scenes and choices of tools of delivery.
+I'll definetly continue watching quality movies because this is actual art in the medium.
