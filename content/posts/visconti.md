@@ -92,3 +92,7 @@ I'm writing this after a couple of days after watching it so lots of thoughts an
 One thing that is shown in the movie is that labor in powerty selects for certain character of people and punishes another kind.
 I guess it punishes optimists because the cost of risk is too high.
 And that selecton opens opportunities for others to exploit such people.
+
+### Sandra | Vaghe stelle dell'Orsa
+
+I got enough for a separate post here!
