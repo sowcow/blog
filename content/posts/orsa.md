@@ -26,7 +26,7 @@ Many scenes are remembered as atmospheric for sure.
 After the movie I instantly rewatched the very distinctive scene in the garden.
 And I got "rewatch value" right there from accidental phrases that reveal you more about characters.
 
-Anyway It looks that Sandra goes back into the house of her youth to deal with some ceremony.
+Anyway It looks that Sandra takes her husband Andrew and goes back into the house of her youth to deal with some ceremony.
 And personally also to meet and finish it with ghosts of the past.
 So she meets her brother Gianni.
 
@@ -38,11 +38,12 @@ He looks more intelligent and sophisticated at multiple occasions.
 But his behavior is also very impulsive and irresponsible at other times.
 I think he not once shows that dual nature at the same time even.
 
-And Sandra is simpler as mans discuss once.
-But she ends up being more real person.
+On one hand Sandra is simpler as mans discuss once.
+But she ends up being more real person I beleive.
 And she is the one future oriented.
 
-(I beleive the very beginning of the movie touches that the future and the past theme.)
+I beleive in the beginning of the movie sequence from car touches that the future and the past theme.
+(Although that part provides also some contrast I beleive between what Sandra and Gianni shows to Andrew - she shows light surface stuff and he shows dark and dangerous stuff)
 
 ### So
 
