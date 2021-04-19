@@ -55,6 +55,9 @@ I beleive it is Sandra who actually visits the place to see glimmering stars fro
 
 The next time I will watch the movie I will come from the assumption that blood-mixing didn't happen and there is something else.
 Alot of scenes support that possibility I think.
+But I think one should also disregard some scenes to have a consistant view in any way.
+
+Also aristocratic aspect is there and I'm "not an expert" in this but I think that is another piece of mosaic that can be helpful in establishing certain angle on the story.
 
 Having certain duality of main characters Visconti leaves space for interpreting it from the point of no blood-mixing at all.
 Mother getting mentally healthy may be interesting.
