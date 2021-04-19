@@ -51,6 +51,15 @@ Sandra is the one who posesses agency and is not being posessed by deamons.
 Even though the verse is quoted by Gianni and he is otherwise colorful character still.
 I beleive it is Sandra who actually visits the place to see glimmering stars from her childhood house for the last time.
 
+### Alternative
+
+The next time I will watch the movie I will come from the assumption that blood-mixing didn't happen and there is something else.
+Alot of scenes support that possibility I think.
+
+Having certain duality of main characters Visconti leaves space for interpreting it from the point of no blood-mixing at all.
+Mother getting mentally healthy may be interesting.
+Mother drugging being mentioned so there may be other things going on.
+The figure of step father may need more looking into.
 
 ### Also
 
@@ -64,5 +73,17 @@ Concerning "sin" main characters committed in the past I beleive Visconti intent
 So that viewer is not distracted by also bringing the past of characters so that the viewer is closer to the actual reality of what is happening.
 
 Also Visconti uses piano playing to tell about gravity of "sins" before parents.
-I'm not used to such great scenes and choices of tools of delivery.
+I'm not used to such scenes and great choices of tools of delivery.
 I'll definetly continue watching quality movies because this is actual art in the medium.
+
+### Jewish aspect
+
+The aspect is mentioned at different times.
+And the biggest mention is even including nazi camps.
+And that is too big of a thing to be mentioned arbitrary.
+
+So I assume Visconti brings historic parallels.
+Every peoples history has its ghosts in the garden.
+
+Possibly Visconti invites people not to be dragged by the ghosts and move forward.
+Not only by individual ghosts but also by historic ones.
