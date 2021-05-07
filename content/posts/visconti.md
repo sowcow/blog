@@ -65,6 +65,7 @@ It poses a question of "sacrafice" in a setting where people don't change.
 
 Lots of aesthetics to see.
 About aristocracy that is possibly lost in the new times.
+Brighter.
 
 ### Bellissima
 
@@ -96,3 +97,13 @@ And that selecton opens opportunities for others to exploit such people.
 ### Sandra | Vaghe stelle dell'Orsa
 
 I got enough for a separate post here!
+
+### La Streghe
+
+Natural vs artificial vs ugly.
+Darker.
+
+### Boccaccio
+
+I remembered it as a fall.
+Darker.
