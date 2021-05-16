@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Lo Straniero / The Stranger - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="NOTE: I have found out that it is by a novel by Camus so I bet this stuff is already analysed well. But I write my thoughts on the movie for myself partially to remember it better and partially to analyze it better in the process of writing/watching. Also writing stuff is not a bad idea by itself.
+ Comments were odd so I wasn&rsquo;t excited to start watching it and delayed this movie.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    
+    <meta name="generator" content="Hugo 0.80.0" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        
+        
+        <ul class="menu">
+          
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+          
+        </ul>
+        
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Lo Straniero / The Stranger</h1>
+    <div class="post-meta">Alexander · May 16, 2021</div>
+  </header>
+  <div class="post-content"><p>NOTE: I have found out that it is by a novel by Camus so I bet this stuff is already analysed well.
+But I write my thoughts on the movie for myself partially to remember it better and partially
+to analyze it better in the process of writing/watching.
+Also writing stuff is not a bad idea by itself.</p>
+<hr>
+<p>Comments were odd so I wasn&rsquo;t excited to start watching it and delayed this movie.
+But actually it was a good movie for me.</p>
+<ul>
+<li>Visually I liked this strange palette (no idea if it has a name but I assume it has).</li>
+<li>The movie does not contain reading poetry.</li>
+<li>It has some comedy and some stuff that seems to be absurd but there should be more precise way to describe it</li>
+</ul>
+<p>Arthur, the main character is non-ambituous simple man, kind of ignorant about other people.
+Probably disillusioned in some sense but having incomplete picture.</p>
+<p>Probably by own folly he gets around low quality people and into trouble.</p>
+<p>Then by the system he is being put down and executed more for being different.
+And even more for not pretending to be like those who populate the system.</p>
+<hr>
+<p>He does not care much in the beginning of the movie but events force him to experience different affects:</p>
+<ul>
+<li>love</li>
+<li>restlessness</li>
+<li>calmess based on deeper understanding of life</li>
+<li>and contempt based on ugly lows that humans can reach</li>
+</ul>
+<p>But he experiences all that too late - soon before he is executed.</p>
+<hr>
+<p>The character reminds me of myself at different points.</p>
+<ul>
+<li>sometimes I did not pretend where others would do, being more straight forward</li>
+<li>I got to be around low quality people at some point</li>
+<li>some lack of ambition or vision for the future</li>
+</ul>
+<p>Although my lack of such kind-of-social smarts is of another nature and I think I have less simpicity (ignorance?) than the Stranger during most of the movie.</p>
+<hr>
+<p>Interestingly that simpler random people: pimp (afaik), imprisoned arab, a dog owning gentelmen.
+They treat Arthur better than those who are part of the system even if rightous and in authority.</p>
+<p>So in a way this movie pushes me to redefinde what I consider to be lower quality people.
+So even that pimp is a better person than those involved in the execution.</p>
+</div>
+  
+  <footer class="post-footer">
+    <ul class="post-tags">
+      
+      
+      <li><a href="https://sowcow.github.io/blog/tags/movies">movies</a></li>
+      
+    </ul>
+  </footer>
+  
+  
+  
+  
+  
+</article>
+
+</main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+

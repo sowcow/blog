@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-05-16T14:50:02+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/lo-straniero/</loc>
+    <lastmod>2021-05-16T14:50:02+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2021-05-16T14:50:02+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-05-16T14:50:02+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-05-16T14:50:02+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/arts/</loc>
     <lastmod>2021-05-07T20:28:00+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-05-07T20:28:00+05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sowcow.github.io/blog/tags/music/</loc>
-    <lastmod>2021-05-07T20:28:00+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-05-07T20:28:00+05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-05-07T20:28:00+05:00</lastmod>
   </url>
   
