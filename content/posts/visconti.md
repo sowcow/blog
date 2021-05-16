@@ -18,7 +18,7 @@ Also I can't be certain if I keep this with or without spoilers.
 ### Ludwig
 
 Very cool.
-The key melody is something (Wagner - Song of The Evening Star ).
+The key melody is really something (Wagner - Song of The Evening Star).
 
 I think I lost some value because of lack of knowledge on historic persons.
 I really want to know more about Elisabeth of Austria and Ludwig for sure.
@@ -107,3 +107,7 @@ Darker.
 
 I remembered it as a fall.
 Darker.
+
+### Lo Straniero
+
+A seperate post is there.
