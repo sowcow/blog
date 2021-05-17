@@ -80,6 +80,16 @@ Also Visconti uses piano playing to tell about gravity of "sins" before parents.
 I'm not used to such scenes and great choices of tools of delivery.
 I'll definetly continue watching quality movies because this is actual art in the medium.
 
+### Notes
+
+There is an observation about the scene when sandra goes down the ladder into some water facillity.
+The ladder looks flat like it is drawn.
+That would be a cool way to signify switch to imagination or a dream.
+
+At the final scene Sandras mother makes same gesture that Sandra makes in the piano scene.
+Is that a scene of the mother meeting her ghost too?
+(The story mentions "them" giving her husband to nazis which sounds hard to beleive)
+
 ### Jewish aspect
 
 The aspect is mentioned at different times.
@@ -89,5 +99,5 @@ And that is too big of a thing to be mentioned arbitrary.
 So I assume Visconti brings historic parallels.
 Every peoples history has its ghosts in the garden.
 
-Possibly Visconti invites people not to be dragged by the ghosts and move forward.
+Perhaps Visconti invites people not to be dragged by the ghosts and move forward.
 Not only by individual ghosts but also by historic ones.
