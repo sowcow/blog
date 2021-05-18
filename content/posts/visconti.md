@@ -111,3 +111,13 @@ Darker.
 ### Lo Straniero
 
 A seperate post is there.
+
+### White nights
+
+Nice visually.
+I enjoyed the feel of most of scenes being shot inside of a pavilion.
+So even sky is artificial.
+
+The story itself I considered to be annoying a bit.
+In short random mediocrity gets to see something different and impossible.
+Old ways do not satisfy anymore and in part becomes part the of impossible.
