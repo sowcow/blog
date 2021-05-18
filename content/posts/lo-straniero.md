@@ -15,7 +15,7 @@ Also writing stuff is not a bad idea by itself.
 
 ---
 
-Due to my misunderstanding comments on the internet were odd so I wasn't excited to start watching it and delayed this movie.
+Due to me confusing this movie with another I considered comments on the internet odd so I wasn't excited to start watching it and delayed this movie.
 But actually it was a good movie for me.
 
 - Visually I liked this strange palette (no idea if it has a name but I assume it has).
