@@ -4,7 +4,7 @@ date: 2021-05-25T15:17:44+05:00
 draft: false
 author: Alexander
 tags:
-- reading
+- random
 ---
 
 I heave read about some strange practices that some marginal groups or individuals praticed.
