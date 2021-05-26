@@ -6,7 +6,8 @@ tags:
 - movies
 ---
 
-Beatiful views of course, both strong feelings and something different also.
+Beatiful views of Venice and Italy of course.
+Both strong feelings and something different also.
 
 My version of the movie was missing Livia money explanation scene :).
 The actress plays very well if you ask me. But she convincingly plays something very different.
@@ -23,11 +24,11 @@ Then he breaks Livia's illusion about that relationship.
 At the culmination Livia is:
 - put down as a female
 - shown to be a traitor of closest people
-- shown to be like him? (non-aristocratic) while spending all aristocratic capital (that was never her?)
+- shown to be like him? (non-aristocratic, shallow person) while spending all aristocratic capital (that was never her?)
 
 So she becomes indirectly a murderer also.
 
 Big cost of:
 - lofty illusions that mismatch the reality
-- blindness to others and own nature
+- blindness to others and own nature (shallow/deep and male/female brains)
 - (age and) class mismatch in relationships
