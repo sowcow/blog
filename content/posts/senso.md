@@ -38,4 +38,9 @@ Big cost of:
 ---
 
 Human passions are compared to warfare it seems.
-Some people die on a hill. Some people get ruined in passions.
+Interestingly that Livia enters the war scene to help Roberto.
+But she gets conquered herself.
+In this war some people died on a hill.
+Some got ruined in passions and broken illusions.
+
+Broken mirror I think summarizes events in the movie.
