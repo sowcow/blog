@@ -40,7 +40,7 @@ Big cost of:
 Of course the husband being a complete fool also contributed.
 
 - Also age difference.
-- Not being able to control the wife.
+- Not paying attention and not being able to control the wife.
 - Not recognizing a "threat"
 
 I guess the husband and very cooperative handmaid are comedic players there.
