@@ -121,3 +121,7 @@ So even sky is artificial.
 The story itself I considered to be annoying a bit.
 In short random mediocrity gets to see something different and impossible.
 Old ways do not satisfy anymore and in part becomes part the of impossible.
+
+### Senso
+
+I have a separate post here.

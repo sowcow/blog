@@ -7,4 +7,4 @@ tags:
 - random
 ---
 
-There are alot of fools... More than they think...
+There are alot of fools... More than they think there are.
