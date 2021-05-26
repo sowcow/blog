@@ -6,7 +6,7 @@ tags:
 - movies
 ---
 
-Beatiful views of Venice and Italy of course.
+Beatiful views of Venice and Italy and other aesthetics of course.
 Both strong feelings and something different also.
 
 My version of the movie was missing Livia money explanation scene :).
