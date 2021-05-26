@@ -43,6 +43,8 @@ Of course the husband being a complete fool also contributed.
 - Not being able to control the wife.
 - Not recognizing a "threat"
 
+I guess the husband and very cooperative handmaid are comedic players there.
+
 Human passions are compared to warfare it seems.
 Interestingly that Livia enters the war scene to help Roberto.
 But she gets conquered herself.
