@@ -1,7 +1,8 @@
 ---
 title: "Senso"
 date: 2021-05-26T08:52:25+05:00
-draft: true
+draft: false
+author: Alexander
 tags:
 - movies
 ---
