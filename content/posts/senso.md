@@ -34,3 +34,8 @@ Big cost of:
 - lofty illusions that mismatch the reality
 - blindness to others and own nature (shallow/deep and male/female brains)
 - (age and) class mismatch in relationships
+
+---
+
+Human passions are compared to warfare it seems.
+Some people die on a hill. Some people get ruined in passions.
