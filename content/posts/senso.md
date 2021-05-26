@@ -37,6 +37,12 @@ Big cost of:
 
 ---
 
+Of course the husband being a complete fool also contributed.
+
+- Also age difference.
+- Not being able to control the wife.
+- Not recognizing a "threat"
+
 Human passions are compared to warfare it seems.
 Interestingly that Livia enters the war scene to help Roberto.
 But she gets conquered herself.
@@ -44,3 +50,4 @@ In this war some people died on a hill.
 Some got ruined in passions and broken illusions.
 
 Broken mirror I think summarizes events in the movie.
+
