@@ -32,7 +32,7 @@ So she becomes indirectly a murderer also.
 
 Big cost of:
 - lofty illusions that mismatch the reality
-- blindness to others and own nature (shallow/deep and male/female brains)
+- blindness to others and own nature (shallow/deep and male/female brains and confusing successfull crooks for nobility)
 - (age and) class mismatch in relationships
 
 ---
