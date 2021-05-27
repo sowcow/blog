@@ -35,7 +35,7 @@ And a minute before that when the guy took a sharp looking jewelry from a head o
 Also at different points in the movie the guy was fighting with rapiers.
 I assume that jewelry taking scene was supposed to feel dangerous!
 
-Anyway I think this is not kind of tension I prefer to experience in movies.
+Anyway I think danger is not kind of tension I prefer to experience in movies.
 My self image says that I prefer light comedic release of also light tension.
 But I can watch messy stuff if it has trash aspect - so it is not serious.
-Also if there is a food for brains but in this movie the food has some chemical smell around it if you ask me.
+Also if there is a food for brains but in this movie the food has some serious chemical smell around it if you ask me.
