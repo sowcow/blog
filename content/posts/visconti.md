@@ -125,3 +125,7 @@ Old ways do not satisfy anymore and in part becomes part the of impossible.
 ### Senso
 
 I have a separate post here.
+
+### L'Innocente | The Innocent
+
+I wrote about it separatedly.
