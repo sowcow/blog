@@ -8,7 +8,7 @@ tags:
 ---
 
 It is strange that in the top politics (the US) we see
-every next round hitting newst low compared to previous rounds.
+every next round hitting newst lows compared to previous rounds.
 
 Normally in the nature even insects and bacteria evolve.
 Why politicians it seems devolve?
