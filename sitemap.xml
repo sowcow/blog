@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/blowup/</loc>
+    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/devolution/</loc>
     <lastmod>2021-06-02T15:36:08+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/dhp-206/</loc>
-    <lastmod>2021-06-02T15:36:08+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
     <lastmod>2021-06-02T15:36:08+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/pleasure/</loc>
@@ -17,16 +29,7 @@
     <loc>https://sowcow.github.io/blog/tags/politics/</loc>
     <lastmod>2021-06-02T15:36:08+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-06-02T15:36:08+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2021-06-02T15:36:08+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/posts/l-innocente/</loc>
-    <lastmod>2021-05-27T19:37:03+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2021-05-27T19:37:03+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/senso/</loc>
