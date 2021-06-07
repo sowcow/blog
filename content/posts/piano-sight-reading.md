@@ -27,8 +27,7 @@ It can be found and read on openlibrary.org or archive.org.
 
 # Before
 
-I'm subscribed to some quora topics.
-(God forbid hearing political stuff there)
+I'm subscribed to some quora topics (God forbid reading political stuff there).
 And in piano topics email there was a comment on what is the most valuable skill.
 And there was a reference to the book.
 
