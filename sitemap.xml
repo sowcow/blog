@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/exit-strategy/</loc>
+    <lastmod>2021-06-09T15:04:43+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-06-09T15:04:43+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/life/</loc>
+    <lastmod>2021-06-09T15:04:43+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-06-09T15:04:43+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-06-09T15:04:43+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/piano-sight-reading/</loc>
+    <lastmod>2021-06-07T13:08:03+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
+    <lastmod>2021-06-07T13:08:03+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/blowup/</loc>
     <lastmod>2021-06-04T08:49:18+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-06-04T08:49:18+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-06-04T08:49:18+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/devolution/</loc>
@@ -159,9 +171,6 @@
     <lastmod>2020-04-01T17:57:52+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/february-2020/</loc>
-    <lastmod>2020-03-01T09:50:19+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
     <lastmod>2020-03-01T09:50:19+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/code/</loc>

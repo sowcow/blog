@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Piano Sight Reading Mini Book - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Abstract Open libraries are so cool. They motivate by themselves. Borrowing and kind-of a limit of time makes the book even more attractive.
+Here I just do own notes to review them after I finished reading. It is not something pretending to have been carefully extracted and distilled. Sometimes in the process I just do not record stuff, sometimes I record alot more.
+The Book Piano, Guided Sight-Reading. [A New Approach to Piano Study.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.83.1" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Piano Sight Reading Mini Book</h1>
+    <div class="post-meta">Alexander · June 7, 2021</div>
+  </header>
+  <div class="post-content"><h1 id="abstract">Abstract</h1>
+<p>Open libraries are so cool.
+They motivate by themselves.
+Borrowing and kind-of a limit of time makes the book even more attractive.</p>
+<p>Here I just do own notes to review them after I finished reading.
+It is not something pretending to have been carefully extracted and distilled.
+Sometimes in the process I just do not record stuff, sometimes I record alot more.</p>
+<h1 id="the-book">The Book</h1>
+<p>Piano, Guided Sight-Reading.
+[A New Approach to Piano Study.]
+By Leonhard Deutsch.</p>
+<p>It can be found and read on openlibrary.org or archive.org.</p>
+<h1 id="before">Before</h1>
+<p>I&rsquo;m subscribed to some quora topics (God forbid reading political stuff there).
+And in piano topics email there was a comment on what is the most valuable skill.
+And there was a reference to the book.</p>
+<p>Also I feel like arts are a necessary language to know and to use. So I pursue this in a way.</p>
+<h1 id="after">After</h1>
+<p>Interestingly I found stuff to be not as detailedly explained as I wanted.
+But this process implies <em>imitation</em> by the student.</p>
+<p>Also interestingly teacher is encouraged to learn from student too.
+But not piano but pedagogy experience.</p>
+<p>Anyway I assume it should be fun and stimulating thing to play around alone too.</p>
+<h1 id="notes">Notes</h1>
+<p>The author is smart.</p>
+<p>The author has another book probably on psychology of students for teachers.
+(Individual-psychologie im musikunterricht und in der musikerziehung.)</p>
+<p>Ear, eye, hands cooperation.</p>
+<p>The skill can fit for random enthusiasts who just want to have addittional source of fun and a path do develop misicanship.</p>
+<p>Developing the skill requires focusing on accuracy and evenness.
+While leaving fluency to be the fruit to be developed.</p>
+<p>One developed skill is the ability to have utterly concentrated effort.
+That is necessary for the resulting skill.</p>
+<p>Three devices of development:</p>
+<ul>
+<li>rich study material</li>
+<li>approaching pianistic tasks/problems</li>
+<li>concentrated mental effort</li>
+</ul>
+<p>There is a memory value for doing music costruction.</p>
+<ul>
+<li>
+<p>the principle of cooperation: listening and playing simoultaneously
+(maybe some tool can be used there)</p>
+</li>
+<li>
+<p>there are initial difficulties to overcome first, then the progress is steady</p>
+</li>
+<li>
+<p>sight-reading is a stimulating task by itself (gamified by itself?)</p>
+</li>
+<li>
+<p>harmony, polyphony, form/architecture</p>
+</li>
+<li>
+<p><code>The musical ear ... is measured by the complexity of the musical structure which he can grasp in all details.</code></p>
+</li>
+<li>
+<p><code>... infinitesimal shades ... reflect the player's temperament and frame of mind, his maturity and imagination ... whole personality</code></p>
+</li>
+</ul>
+<h1 id="practice-notes">Practice Notes</h1>
+<ul>
+<li>play the selected piece using both hands and in continuity</li>
+<li>see both hands staves together</li>
+<li>never look at the keyboard</li>
+<li>fingers go after the eyes</li>
+<li>easy and relaxed tempo, no stumbling or tripping - no metronome, adjust pace when needed</li>
+<li>mistakes handling - no process break? correct by ear?</li>
+<li>igrone fingering info</li>
+<li>both hands strike precisely simoultaneously</li>
+<li>even rather soft touch, pay attention to shades of expression</li>
+<li>not overly difficult, not non-challenging/non-stimulating at all</li>
+<li>choose what can be played slowly and meaningfully (more details in the book)</li>
+<li>shorter pieces repeat 3-4, longer: 2 times only or on several consecutive days only
+ignoring what degree of perfection is acheived</li>
+<li>work on several pieses, varied in style at the same time - stimulating this way</li>
+<li>sessions are not too long to have healthy concentration and interest</li>
+<li>~1 hour a day will do (implied guided? homeworks - starting from 0.5 to 1 hour, addittionally?)</li>
+<li>have a list of pieces and records of practicing with notes (how the piece appeals, difficulties)
+review when returning to the piece later (see progress, understanding, taste)</li>
+<li>value of accompaniment</li>
+<li>most weak students are always on the verge of giving up</li>
+<li>during practice: not tired or bored</li>
+<li>in the beginning it is a rather strenuous job, but with growing experience you will gain security and ease
+your playing will become more and more colorful and fluent, and eventually your practicing hour will be
+a source of sheer enjoyment</li>
+</ul>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/reading">reading</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
