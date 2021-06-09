@@ -7,3 +7,5 @@ draft: true
 - you can do everything if you do it once
 - aesthetics filter to actually cancel any decisions very early
 - topolya worth it
+
+- watercolor school book
