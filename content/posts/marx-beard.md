@@ -25,8 +25,9 @@ It got very revengeful and day by day every hair was being filled with anger.
 
 When the plan riped the beard started to act.
 
-First it started to grow inside to get access inside the skull.
-Second the beard attached to the brain from all sides and started taking control of carrier thoughts.
+First nasty beard startes to creep around his head until it is completely surrounded.
+Then the second part of the plan is to start growing inside so it has access right inside the skull.
+Finally the beard attached to the brain from all sides and started taking control of carriers thoughts.
 
 The carrier initially got inspired by so many thoughts.
 But then the beard took away all what was his own and
