@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-06-18T10:29:26+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-06-18T10:29:26+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
+    <lastmod>2021-06-18T10:29:26+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-06-18T10:29:26+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/zeffirelli/</loc>
+    <lastmod>2021-06-18T10:29:26+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/marx-beard/</loc>
     <lastmod>2021-06-13T19:13:54+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/history/</loc>
-    <lastmod>2021-06-13T19:13:54+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-06-13T19:13:54+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-06-13T19:13:54+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-06-13T19:13:54+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/form-is-more-important/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2021-06-09T15:04:43+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/piano-sight-reading/</loc>
-    <lastmod>2021-06-07T13:08:03+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/reading/</loc>
     <lastmod>2021-06-07T13:08:03+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/blowup/</loc>
