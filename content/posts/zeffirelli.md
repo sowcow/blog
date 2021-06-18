@@ -25,4 +25,4 @@ I didn't like overly dramatic suicide stuff for sure.
 And when they do it quick like there is a train they don't want to miss.
 Or when they use steel.
 This incurs disbelief if you ask me.
-But the stuff is not supposed to be realistic or overglorified so such messy scenes are the price to pay for other exaggregation of the story.
+But the stuff is not supposed to be realistic or overglorified so such messy scenes are the price to pay for exaggregation of the story.
