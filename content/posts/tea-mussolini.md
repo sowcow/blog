@@ -27,7 +27,7 @@ Anyway the conclusion is that trashy art is as it is even if there are people wh
 ---
 
 One more thing about that contrast that is shown is that females ways win over some simple males in uniform multiple times.
-I saw Belorussia events and there females demonstations.
+I saw Belorussia events and there were females demonstations.
 And this was cheered by different people like something valuable.
 But of course it brought no result.
 
