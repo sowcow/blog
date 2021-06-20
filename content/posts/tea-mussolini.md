@@ -23,3 +23,13 @@ The young guy was actually excited by Sher and not by art.
 And the old lady who got to beleive all kind of stuff about Mussolini is a mirror example of being a fool.
 
 Anyway the conclusion is that trashy art is as it is even if there are people who talk trash about it in the same way as that delusional lady talked about Mussolini.
+
+---
+
+One more thing about that contrast that is shown is that females ways win over some simple males in uniform multiple times.
+I saw Belorussia events and there females demonstations.
+And this was cheered by different people like something valuable.
+But of course it brought no result.
+
+So there may be some "disinformation" in this.
+Although one does not normally apply such standard of informativeness to the movie it is said to be based on autobiography so that needs more checking just in case.
