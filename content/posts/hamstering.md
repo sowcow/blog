@@ -34,4 +34,6 @@ Or another angle:
 - dividends idea felt good (laziest thing in the world) -> growth stocks are the thing
 - married-hodling a paper for gainz -> rational measured approach (incremental, not lazy, requires further reading and execution)
 
+Also right now it is not about depo size but individual gains size.
+
 Anyway as a programmer I have some nice ideas too so the whole thing looks exciting.
