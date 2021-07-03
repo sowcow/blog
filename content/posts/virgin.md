@@ -22,4 +22,6 @@ It was interesting time in russian virgin-sect random trading circles.
 Fun quote: "So 20% up by the night is a side movement for you?"
 This quote made me realize that you cannot ignore that and not fix it even if you wish for some other mark.
 
+Overall everybody is so negative about the stock movement now that I cannot dismiss it for sure.
+
 Anyway I still love the news-orientedness of the stock and can't wait for something new and cool my the company.
