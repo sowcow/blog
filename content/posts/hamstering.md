@@ -31,5 +31,7 @@ TLDR my path:
 - hodling -> fixing, not being married to a stock, rational approach
 
 Or another angle:
-- dividends idea felt good -> growth stocks are the thing
-- married-hodling a paper for gainz -> rational measured approach
+- dividends idea felt good (laziest thing in the world) -> growth stocks are the thing
+- married-hodling a paper for gainz -> rational measured approach (incremental, not lazy, requires further reading and execution)
+
+Anyway as a programmer I have some nice ideas too so the whole thing looks exciting.
