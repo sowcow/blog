@@ -15,5 +15,11 @@ Some theories on what happened:
 - stock offering
 - profit fixation on the main session
 
+A lot of hamsters (including me) who missed the tesla hype expected the SPCE to became the new one.
+And I beleive that accounted for bigger than normal swings.
+
 It was interesting time in russian virgin-sect random trading circles.
 Fun quote: "So 20% up by the night is a side movement for you?"
+This quote made me realize that you cannot ignore that and not fix it even if you wish for some other mark.
+
+Anyway I still love the news-orientedness of the stock and can't wait for something new and cool my the company.
