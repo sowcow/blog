@@ -28,6 +28,9 @@ Anyway gotta write some my levelup thoughts so I remember them better.
 You always "loose" somethnig. If not money then opportunities.
 So it is not "easy".
 
+Also very rare opportunities works but require stable mind-set.
+So when on russian session MM decides to take-off stop-losses and moves price down it is easy money right there if you care enough to put an order and buy!
+
 Overall there is something characteristic about this experience for me.
 I feel like it really is about being badass in a way, being in a very clear non-emotional state.
 I respect that and want to be part of it.
