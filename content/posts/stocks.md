@@ -24,6 +24,7 @@ Anyway gotta write some my levelup thoughts so I remember them better.
 1. manipulations or unexpected stuff happens so one cannot be unprepared to anything
 1. if you watch at the price charts forget ease and comfort irregardless of where the price goes
 1. it is like a work - you need to be on time on crucial points and be ready (also timeboxed decision making, not random urgent stupid actions)
+1. in a way being serios and methodical works I beleive but also being open-minded for unexpected stuff is part of it!
 
 You always "loose" somethnig. If not money then opportunities.
 So it is not "easy".
