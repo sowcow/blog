@@ -21,7 +21,7 @@ Anyway gotta write some my levelup thoughts so I remember them better.
 1. entry also should be distributed over a period where you want to flatten price movements and completely ignore them
 1. manipulations or unexpected stuff happens so one cannot be unprepared to anything
 1. if you watch at the price charts forget ease and comfort irregardless of where the price goes
-1. it is like a work - you need to be on time on crucial points and be ready
+1. it is like a work - you need to be on time on crucial points and be ready (also timeboxed decision making, not random urgent stupid actions)
 
 You always "loose" somethnig. If not money then opportunities.
 So it is not "easy".
