@@ -4,7 +4,7 @@ date: 2021-07-09T07:45:27+05:00
 draft: false
 author: Alexander
 tags:
-- whatever
+- stocks
 ---
 
 Got some cool ride in all directions from SPCE recently.
