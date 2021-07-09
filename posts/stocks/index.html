@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Stocks - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Got some cool ride in all directions from SPCE recently.
+So I got alot of not-easily to reconcile experience that is not cheep also.
+Anyway gotta write some my levelup thoughts so I remember them better.
+ it is about strategy choice from options and then appropriate execution plan and execution and not about any price moves at all margin is a wild thingy, I&rsquo;m not used to that now but gotta improve :) also one should be able to ignore price movements and forget about the account money (and potentially have more cash to compensate for it if negative news coming-out) intraday requires back-testing and knowledge of probabilities and stop-loss distance is a crucial part of it and actualy automated system I think (so is not really an option outside of some obvious &ldquo;rockets&rdquo;) other than intraday holding without margin is easy thing to do but take profits should be automated entry also should be distributed over a period where you want to flatten price movements and completely ignore them manipulations or unexpected stuff happens so one cannot be unprepared to anything if you watch at the price charts forget ease and comfort irregardless of where the price goes it is like a work - you need to be on time on crucial points and be ready (also timeboxed decision making, not random urgent stupid actions)  You always &ldquo;loose&rdquo; somethnig.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.83.1" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Stocks</h1>
+    <div class="post-meta">Alexander · July 9, 2021</div>
+  </header>
+  <div class="post-content"><p>Got some cool ride in all directions from SPCE recently.</p>
+<p>So I got alot of not-easily to reconcile experience that is not cheep also.</p>
+<p>Anyway gotta write some my levelup thoughts so I remember them better.</p>
+<ol>
+<li>it is about strategy choice from options and then appropriate execution plan and execution and not about any price moves at all</li>
+<li>margin is a wild thingy, I&rsquo;m not used to that now but gotta improve :) also one should be able to ignore price movements and forget about the account money (and potentially have more cash to compensate for it if negative news coming-out)</li>
+<li>intraday requires back-testing and knowledge of probabilities and stop-loss distance is a crucial part of it
+and actualy automated system I think (so is not really an option outside of some obvious &ldquo;rockets&rdquo;)</li>
+<li>other than intraday holding without margin is easy thing to do but take profits should be automated</li>
+<li>entry also should be distributed over a period where you want to flatten price movements and completely ignore them</li>
+<li>manipulations or unexpected stuff happens so one cannot be unprepared to anything</li>
+<li>if you watch at the price charts forget ease and comfort irregardless of where the price goes</li>
+<li>it is like a work - you need to be on time on crucial points and be ready (also timeboxed decision making, not random urgent stupid actions)</li>
+</ol>
+<p>You always &ldquo;loose&rdquo; somethnig. If not money then opportunities.
+So it is not &ldquo;easy&rdquo;.</p>
+<p>Overall there is something characteristic about this experience for me.
+I feel like it really is about being badass in a way, being in a very clear non-emotional state.
+I respect that and want to be part of it.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/stocks">stocks</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
