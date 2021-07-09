@@ -11,8 +11,10 @@ Got some cool ride in all directions from SPCE recently.
 
 So I got alot of not-easily to reconcile experience that is not cheep also.
 
+
 Anyway gotta write some my levelup thoughts so I remember them better.
 
+1. Unexpected stuff happens at any time and in any combinations. Gotta learn and be ready (chosen strategy) from the decision point.
 1. it is about strategy choice from options and then appropriate execution plan and execution and not about any price moves at all
 1. margin is a wild thingy, I'm not used to that now but gotta improve :) also one should be able to ignore price movements and forget about the account money (and potentially have more cash to compensate for it if negative news coming-out)
 1. intraday requires back-testing and knowledge of probabilities and stop-loss distance is a crucial part of it
