@@ -27,6 +27,8 @@ Anyway gotta write some my levelup thoughts so I remember them better.
 1. in a way being serious and methodical works I beleive but also being open-minded for unexpected stuff is a necessary part of it! Because otherwise you are easily manipulated and predicted as the rest of the crowd.
 1. deciding exit goal and exit points before putting a trade
    and deciding on entry process relaxes you thinking alot.
+1. fresh and not confused brains are a resource - don't overtrade
+1. read books on stuff - they give useful small related advices
 
 You always "loose" somethnig. If not money then opportunities.
 So it is not "easy".
