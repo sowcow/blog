@@ -28,7 +28,12 @@ Anyway gotta write some my levelup thoughts so I remember them better.
 1. deciding exit goal and exit points before putting a trade
    and deciding on entry process relaxes you thinking alot.
 1. fresh and not confused brains are a resource - don't overtrade
+1. any sign of lack of self-control is a sign of confused brains so access ot investments should be closed at that time!
+  (like impulsive buying idea or other indulgent state of mind)
 1. read books on stuff - they give useful small related advices
+1. Don't listen to anybody - even if they are right today it is unbeliveably foolish to act on something outside of your understanding
+1. The easiest and profitable thing too is to just make nice bets that have to be automatically fulfilled on money you can forget that exists without use of margin.
+  (I still am not good at margin I beleive it can be used in an uptrend to buy corrections, temporaly maybe, but then you can enter some odd-decisions area that I honestly don't want to get experienced at but I feel like I need to get the experience to not have a fear of it. So buying on margin adds complexity for me at this point)
 
 You always "loose" somethnig. If not money then opportunities.
 So it is not "easy".
