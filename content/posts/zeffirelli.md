@@ -30,3 +30,7 @@ But the stuff is not supposed to be realistic or overglorified so such messy sce
 # Tea with Mussolini
 
 I wrote a separate post.
+
+# Hamlet
+
+I should write more at the new post.
