@@ -28,7 +28,7 @@ The musician was abused at many points. I refuse to beleive that Nolan was makin
 There was one scene (first attachment to the ship) that as I noticed also looked absurd.
 
 Cliches:
-- crying males or in otherwise weak position
+- crying males or in otherwise weak position and then also self-sacraficing
 - above average sharp females that before you know throw tantrums and try to control males
 - relations between genders, parent-children and things like that
 
@@ -46,7 +46,7 @@ But considering all the annoying stuff they took into space and put in your face
 That likely ruined the experience for many.
 For example than adventure/exploration experience I didn't feel in the movie (but maybe becouse of it was a rewatch).
 
-More objectively saying the movie is down to earth even though it brings situations in space to reveal things to people.
+More objectively speaking the movie is down to earth even though it brings situations in space to reveal things to people.
 
 So I may conseder rewatching Gravity to get what I wanted.
 That one even though it has some of that should overall be more detached and therefore more in the space.
