@@ -44,6 +44,10 @@ And I don't normally watch sci-fi to compare.
 Some nice things are there.
 But considering all the annoying stuff they took into space and put in your face.
 That likely ruined the experience for many.
+For example than adventure/exploration experience I didn't feel in the movie (but maybe becouse of it was a rewatch).
+
+More objectively saying the movie is down to earth even though it brings situations in space to reveal things to people.
+
 So I may conseder rewatching Gravity to get what I wanted.
 That one even though it has some of that should overall be more detached and therefore more in the space.
 No idea about timing though because today I watch Unity22 launch only.
