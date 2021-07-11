@@ -7,8 +7,8 @@ tags:
 - movies
 ---
 
-Now before the historic Unity22 launch I decided to watch Inception.
-I remembered that it was annoying alot of times but stil gave it a try.
+Yesterday, one day before the historic Unity22 launch I decided to watch Inception.
+I remembered that the movie was annoying alot of times but stil gave it a try.
 So this post is about that experience.
 
 ## Positives
