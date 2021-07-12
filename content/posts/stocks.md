@@ -32,6 +32,8 @@ Anyway gotta write some my levelup thoughts so I remember them better.
   (like impulsive buying idea or other indulgent state of mind)
 1. read books on stuff - they give useful small related advices
 1. Don't listen to anybody - even if they are right today it is unbeliveably foolish to act on something outside of your understanding
+1. But don't be disconnected from actual news and don't miss the first hour when they play-out in case you use margin for sure
+1. The best way to use margin is to close it scalp/speculatively I think
 1. The easiest and profitable thing too is to just make nice bets that have to be automatically fulfilled on money you can forget that exists without use of margin.
   (I still am not good at margin I beleive it can be used in an uptrend to buy corrections, temporaly maybe, but then you can enter some odd-decisions area that I honestly don't want to get experienced at but I feel like I need to get the experience to not have a fear of it. So buying on margin adds complexity for me at this point)
 1. diary or just a sticker card planning of your investment and its outcome and exit points is necessary, also some justification of why it looks like a good investment and why risks can be "ignored".
