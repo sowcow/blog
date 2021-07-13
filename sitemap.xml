@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-07-13T12:04:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-07-13T12:04:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/stocks/</loc>
+    <lastmod>2021-07-13T12:04:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/stocks2/</loc>
+    <lastmod>2021-07-13T12:04:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-07-13T12:04:15+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/brother-sun/</loc>
     <lastmod>2021-07-12T22:19:22+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-07-12T22:19:22+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2021-07-12T22:19:22+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-07-12T22:19:22+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-07-12T22:19:22+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/war/</loc>
@@ -45,9 +51,6 @@
     <lastmod>2021-07-10T18:31:24+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/stocks/</loc>
-    <lastmod>2021-07-09T07:45:27+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/stocks/</loc>
     <lastmod>2021-07-09T07:45:27+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/hamstering/</loc>
