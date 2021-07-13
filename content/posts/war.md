@@ -58,3 +58,5 @@ But then smart above some threshould person would not embarass himself like that
 If one looks at it from class warfare point of view then it looks more interesitng.
 He basically tells that we will win and it does not matter what you think about it.
 Simply that.
+
+And the crowd really like that kind of language whether they consciously understand or not why.
