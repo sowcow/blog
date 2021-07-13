@@ -14,7 +14,7 @@ But it also has more like that will and action against entropy and even gravity 
 
 It has some naked legs Lara Croft action too.
 
-It has some of what can be arbitraly called psychological.
+It has some of what can be commonly referred as psychological.
 Initially Lara :) is being handled like a baby in that sense.
 But later she does redefines herself against memory and negative experience in a positive sense.
 
