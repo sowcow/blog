@@ -66,3 +66,8 @@ who is getting older :).
 
 After watching/rewatching 3 of his movies I found everything to be annoying to a different extend.
 It is surprising to find that Nolan was so bad on these modern cheesy cliches.
+
+---
+
+One more thing about the movie - after watching it that Murphy law played-out like multiple times for me.
+Interesting stuff.
