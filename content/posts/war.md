@@ -12,14 +12,15 @@ Living in post-soviet union land and having lots of inheritance left and still h
 I can't be neutral towards the ideology of that time and it's pillars.
 
 One thing that is a pillar AFAIK is the warfare between classes.
-Modern communists use word oppression for that for example (because fools like words they don't understand).
+Modern way is to call it oppression.
+Everybody loves new words.
 
 And I also thought that Marx and all criminal his "followers" who established that soviet union rule here should be liars
 and anything they say must be deception.
 
 But the strange thing is that probably the guy himself had some ideas.
 
-And surely not the nonsense they jiggle before conventional fools these days.
+And surely not the nonsense they jiggle before the crowd these days.
 But stuff like classes gets to be more real for me every day.
 
 It is like I was so blind in my universalism but now it seems so evident.
