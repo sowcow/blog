@@ -9,7 +9,7 @@ tags:
 
 Watched the movie.
 It seems more balanced than Interstellar.
-It has both soapy stuff like males self-sacraficing while looking into females face (Interstellar also has exactly that stuff).
+It has both cheesy stuff like males self-sacraficing while looking into females face (Interstellar also has exactly that).
 But it also has more like that will and action against entropy and even gravity itself.
 
 It has some naked legs Lara Croft action too.
