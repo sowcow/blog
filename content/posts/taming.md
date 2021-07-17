@@ -14,6 +14,7 @@ The first impression is what is called "Tube sound" in Russia at least.
 So it is more warm and comfortable quality of picture in this case.
 After watching two modern space movies previously there is no surprise, but I beleive
 it is quality of the movie too.
+It is wild but in more natural way because it is a comedy.
 
 Then comedy and wild story aspect got me interested to the middle of the movie.
 
