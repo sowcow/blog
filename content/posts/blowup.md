@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - movies
+- Antonioni
 ---
 
 My first movie of the director.
