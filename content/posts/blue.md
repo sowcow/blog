@@ -29,7 +29,10 @@ So they loose some points on being too serious here.
 
 *UPD: got to see the video from the inside from non-official source, it is ok, at this point I already made my opinion anyway. They released it during post-flight press conference that I didn't watch, it looks like it was alot of conventional talking with conventional these days piano notes playing here and there in between.*
 
+I like the michievous acheiving spirit of VG founder I hope that his event and the spirit will help and shape experience there.
+Also I respect technological acheivement of BO with all cool options it opens there.
+
 Another striking comparsion is that BO looks more extreme. While VG looks more comfortable.
 
-I beleive this more-extreme-event vs more-comfortable and more-available event is going to be the key between choosing one of providers.
+I beleive this more-extreme-event vs more-comfortable and more-available event is going to be the key between choosing one of providers in the near-term.
 Even though they both have enough of both aspects.
