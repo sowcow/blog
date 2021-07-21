@@ -27,6 +27,8 @@ I bet many things went not as planned.
 Right now I assume they tried to force people to do stuff for camera and things went in unplanned ways.
 So they loose some points on being too serious here.
 
+*UPD: got to see the video from the inside from non-official source, it is ok, at this point I already made my opinion anyway*
+
 Another striking comparsion is that BO looks more extreme. While VG looks more comfortable.
 
 I beleive this more-extreme-event vs more-comfortable and more-available event is going to be the key between choosing one of providers.
