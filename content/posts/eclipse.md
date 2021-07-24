@@ -31,3 +31,11 @@ Notable symbols:
 - movement: folliage, water
 
 I assume water flowing away in the end means ending and that ugly sound is how empty barrel sounds.
+
+---
+
+Definetly rewatch value is there.
+
+Just random thoughts:
+- vase - initially I thought about pregnancy, maybe just emptiness overall?
+- fans - noisy meaninless perpetual movement that changes nothing?
