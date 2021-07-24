@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-07-24T10:28:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-07-24T10:28:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/skin/</loc>
+    <lastmod>2021-07-24T10:28:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-07-24T10:28:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/times/</loc>
+    <lastmod>2021-07-24T10:28:11+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/blue/</loc>
     <lastmod>2021-07-21T06:19:56+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-07-21T06:19:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-07-21T06:19:56+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/space/</loc>
-    <lastmod>2021-07-21T06:19:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-07-21T06:19:56+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/antonioni/</loc>
