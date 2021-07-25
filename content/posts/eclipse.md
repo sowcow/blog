@@ -38,4 +38,5 @@ Definetly rewatch value is there.
 
 Just random thoughts:
 - vase - initially I thought about pregnancy, maybe just emptiness overall?
-- fans - noisy meaninless perpetual movement that changes nothing?
+- fans - noisy meaninless perpetual movement that changes nothing? while plane is expectation of something else maybe (possibly Antonioni reuses symbols of own or tradition)
+- fat statue (again pregnancy?)
