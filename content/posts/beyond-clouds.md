@@ -17,6 +17,7 @@ There are some obvious things directors do:
 - the symbol of vase is mentioned - as something for flowers
 - some scenes are deep and serious and some are too casual (surely intentinally but did different directors did them?)
 - some sounds are distorted in a way that seems like substances are at play but also I somehow associated them with flying still and later when the rain sound is distorted that way it seems more like some natural distortion that humans experience through life
+- obviousness of some things raises suspicion
 
 I think one should process visuals and speech in parallel to be able to notice most of the things directors do.
 
@@ -30,3 +31,11 @@ Interestingly one translation to Russian of words of the director is so wildly d
 No idea if the original text is so ambiguous and is not in english or if some Russian translator got so creative.
 
 I liked the movie. I liked the theme at the end.
+
+---
+
+Even though I really liked some scenes I want to add that there is some after-feeling.
+Sometimes when some content is made to be accessible it just is too obvious.
+And I feel like that other directors or whoever else's footprints are there and some authenticity may be lost.
+Even though I'm just starting with Antonioni I'm suspicious about explicidness in this one.
+Also this was the last movie where he was one of directors so there is objective basis for this kind of thinking.
