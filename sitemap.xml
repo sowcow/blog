@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/tags/antonioni/</loc>
+    <lastmod>2021-07-30T20:37:55+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-07-29T17:53:26+05:00</lastmod>
+    <lastmod>2021-07-30T20:37:55+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2021-07-30T20:37:55+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-07-29T17:53:26+05:00</lastmod>
+    <lastmod>2021-07-30T20:37:55+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-07-30T20:37:55+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/adventure/</loc>
+    <lastmod>2021-07-30T20:37:55+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/rhythm/</loc>
     <lastmod>2021-07-29T17:53:26+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/sound/</loc>
     <lastmod>2021-07-29T17:53:26+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2021-07-29T17:53:26+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/antonioni/</loc>
-    <lastmod>2021-07-26T08:46:14+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/beyond-clouds/</loc>
     <lastmod>2021-07-26T08:46:14+05:00</lastmod>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/space/</loc>
     <lastmod>2021-07-21T06:19:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2021-07-18T17:06:25+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/eclipse/</loc>
     <lastmod>2021-07-18T17:06:25+05:00</lastmod>
