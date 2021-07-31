@@ -24,5 +24,7 @@ There is this wild TraderTV Live show. I mean there is something to it and I don
 Watching a bit of it here and there gives me ideas so it is useful to see an example if you haven't seen it somewhere else.
 Also it is very positive on its own.
 
+The phrase "dollar in the money!" I hear in the show itself seems like something arbitrary but it actually is more than that.
+
 Also I'm reading a "trilogy" about trading.
 It seems like some medieval magic with animals and all that, but hey, without that crazy basics and language knowledge you are on your own to create own language and notions - and that probably is there at some experience level but I assume one should start early with just-paper and with any kind of language to be able to iterate on your approach and tools and to get to see rare events that are great opportunities so that you can spot them the next time!
