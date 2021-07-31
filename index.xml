@@ -6,7 +6,18 @@
     <description>Recent content on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jul 2021 20:37:55 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 09:21:31 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stocks3</title>
+      <link>https://sowcow.github.io/blog/posts/stocks3/</link>
+      <pubDate>Sat, 31 Jul 2021 09:21:31 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/posts/stocks3/</guid>
+      <description>Approach So I&amp;rsquo;m excited about my third approach of the market. It is different from the previous ones.
+The latest thinking is that margin is by default is not going to be used at all.
+I have an interesting idea to start with &amp;ldquo;paper-trading&amp;rdquo; and then introduce cash gradually (with randomness actually to even not know the size of the position first to be more chill). Actual paper-trading should address the greed to jump into the last wagon and be more chill.</description>
+    </item>
+    
     <item>
       <title>The Adventure</title>
       <link>https://sowcow.github.io/blog/posts/adventure/</link>
@@ -807,7 +818,7 @@ In the end I should get more invested in the stuff.</description>
       <pubDate>Sat, 01 Jan 2000 09:47:54 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags-menu/</guid>
-      <description> antonioni (4) art (2) atmospheric (1) century (1) code (7) experience (2) fools (1) forgotten (2) future (1) games (1) gtd (2) history (2) idiocy (1) images (1) language (1) life (2) low-iq (1) mind (1) movie (4) movies (11) music (1) order (11) patriotic (1) people (1) pleasure (1) politics (7) psyche (1) puzzle (1) random (5) reading (12) review (2) sound (1) space (1) stocks (4) this (1) thoughts (2) times (1) trash (1) trying-new-stuff (1) watching (1) whatever (1) writing (2) zombies (1) zoology (1)  </description>
+      <description> antonioni (4) art (2) atmospheric (1) century (1) code (7) experience (2) fools (1) forgotten (2) future (1) games (1) gtd (2) history (2) idiocy (1) images (1) language (1) life (2) low-iq (1) market (1) mind (1) movie (4) movies (11) music (1) order (11) patriotic (1) people (1) pleasure (1) politics (7) psyche (1) puzzle (1) random (5) reading (12) review (2) sound (1) space (1) stocks (4) this (1) thoughts (2) times (1) trash (1) trying-new-stuff (1) watching (1) whatever (1) writing (2) zombies (1) zoology (1)  </description>
     </item>
     
   </channel>
