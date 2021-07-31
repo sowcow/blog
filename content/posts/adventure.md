@@ -22,3 +22,5 @@ On the next day after watching my thinking is like this:
 - there are memorable scenes that are not as simple as the first reaction may assume
 - There are tools the director uses that you notice at some points. And because the pace of the picture is so measured, the tools look more explicitly. And that asks for more analysis from the start of the movie of when they were used and what other tools of the class were used also!
 - That pace on one hand makes viewers to pay attention to things that would be ignored othewise, on the other hand it probably requires timeboxed watching. And that attention to detials will demand a second watch with a pencil and probably in even smaller pieces.
+
+Anyway on the next day after watching I beleive that rewatch is necessary.
