@@ -27,7 +27,7 @@ So one can see none of that stuff and he is more "real-world".
 
 And then they have shown the stock chart adjacent to his face too...
 Continuing 2020+ pandemic is treating their stock price badly.
-It may be too late to short but who know - people with FOMO could jump right-in :).
+It may be too late to short but who know - people with FOMO could jump right-in (just kidding :).
 
 Anyway Later they shown marketing forecast charts to kind of correct the initial impression.
 
