@@ -7,7 +7,7 @@ tags:
 - dreams
 ---
 
-So I have rememberead a dream. And even though I don't have intuitive inclanation to pay attention to it, it is a rare occasion and one aspect got me interested so to have paid some attention.
+So I have rememberead a dream. And even though I don't have intuitive inclanation to pay attention to it, it is a rare occasion and one aspect got me interested so I have paid some attention.
 
 In the morning some recognizable piano melody was returning to me but that seems not explicitly related to the dream.
 
