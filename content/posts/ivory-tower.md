@@ -34,3 +34,28 @@ Anyway Later they shown marketing forecast charts to kind of correct the initial
 I say imperfection makes it interesting!
 
 I'm more attracted by realness but anyway first I'll try more of those courses to have more complete impression because who knows.
+
+---
+
+Updated thoughts.
+
+There are courses where you have everything:
+- performers know what they do
+- visual design is definetly there
+- content is to the point
+
+And there are these:
+- performers are forced to do what they obviously are not able to do
+- visually things compete for being more stained with each other
+- very superficial yet diluded content
+
+In the first case you get to learn more then is explicitly said.
+In the second case you are training your patience at best or a fool at worst.
+
+And in this case I obviously go for higher quality.
+What I meant by more raw and real-world is also quality but it is different.
+
+When I see low quality almost by intent on a platform with stuff that also has content that respects some standards I don't know what to think.
+
+A bad product is a bad product.
+Is there a paid feature to remove all the lower quality stuff?
