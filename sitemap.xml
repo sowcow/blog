@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/posts/blender/</loc>
-    <lastmod>2021-08-14T13:00:33+05:00</lastmod>
+    <loc>https://sowcow.github.io/blog/posts/callas-forever/</loc>
+    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-08-14T13:00:33+05:00</lastmod>
+    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-08-14T13:00:33+05:00</lastmod>
+    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/zeffirelli/</loc>
+    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/blender/</loc>
     <lastmod>2021-08-14T13:00:33+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/thinking/</loc>
@@ -24,12 +33,6 @@
     <lastmod>2021-08-13T20:08:32+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/half-watch/</loc>
-    <lastmod>2021-08-11T05:25:11+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2021-08-11T05:25:11+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/zeffirelli/</loc>
     <lastmod>2021-08-11T05:25:11+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/sparrow/</loc>
