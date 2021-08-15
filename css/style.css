@@ -49,7 +49,7 @@ p {
 }
 strong,
 b {
-  font-weight: 600;
+  font-weight: 600 !important;
 }
 ul {
   margin: 0;
