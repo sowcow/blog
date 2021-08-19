@@ -6,6 +6,7 @@ author: Alexander
 tags:
 - Bunuel
 - movies
+- rewatcheable
 ---
 
 I saw it before and it left vaguely positive memory.
@@ -15,3 +16,16 @@ Overall the picture is light, it is composed from losely tied scenes with some l
 I have enjoyed pleasant dialogues and the level of etiquette.
 
 Also humour is low key but can be very fun. Original audio track is a must.
+
+---
+
+NOTE: some spoilers ahead
+
+---
+
+The movie should be rewatcheable because of how subtle the humour is.
+One random phrase can be just so fun.
+
+Or consider a bishop playing with a sickle and then demanding union rate, no more, no less.
+That is both fun and is relevant too.
+Because it is actually how quickly that kind changes their allegiances when times change.
