@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - space
+- tangent
 ---
 
 So this is one of those posts with such name that only me can guess the content and also only while I have the idea in focus.
