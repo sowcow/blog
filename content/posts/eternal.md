@@ -25,4 +25,4 @@ While writing it I remembered what other stuff is there.
 Like art being attached to status on one hand.
 And on the other hand for example they put a statue of shit in Moscow recently.
 And there are those who destroy arts.
-So I guess humans foolishness competes to be eternal too.
+So I guess humans foolishness competes to be called eternal too.
