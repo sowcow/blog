@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - random
+- dreams
 ---
 
 So I got a random dream some days ago.
