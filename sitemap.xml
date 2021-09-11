@@ -2,22 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/tags/in-russian/</loc>
+    <lastmod>2021-09-11T11:27:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-09-11T11:27:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-09-11T11:27:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-09-11T11:27:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/%D1%84%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0/</loc>
+    <lastmod>2021-09-11T11:27:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/bertolucci/</loc>
+    <lastmod>2021-09-08T20:44:56+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/il-conformista/</loc>
+    <lastmod>2021-09-08T20:44:56+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2021-09-08T20:44:56+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/literature/</loc>
+    <lastmod>2021-09-04T10:32:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/some-taste/</loc>
+    <lastmod>2021-09-04T10:32:15+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/taste/</loc>
+    <lastmod>2021-09-04T10:32:15+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/dream-flies/</loc>
     <lastmod>2021-09-01T10:15:05+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/dreams/</loc>
     <lastmod>2021-09-01T10:15:05+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-09-01T10:15:05+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-09-01T10:15:05+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/random/</loc>
-    <lastmod>2021-09-01T10:15:05+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-09-01T10:15:05+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/painting-still-life-in-gouache/</loc>
@@ -57,9 +81,6 @@
     <lastmod>2021-08-24T17:21:44+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/coens/</loc>
-    <lastmod>2021-08-24T17:21:44+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2021-08-24T17:21:44+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/tools/</loc>
