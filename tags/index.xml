@@ -26,24 +26,6 @@
     </item>
     
     <item>
-      <title>movies</title>
-      <link>https://sowcow.github.io/blog/tags/movies/</link>
-      <pubDate>Mon, 13 Sep 2021 21:46:31 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zeffirelli</title>
-      <link>https://sowcow.github.io/blog/tags/zeffirelli/</link>
-      <pubDate>Mon, 13 Sep 2021 21:46:31 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/zeffirelli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>in-russian</title>
       <link>https://sowcow.github.io/blog/tags/in-russian/</link>
       <pubDate>Sat, 11 Sep 2021 11:27:15 +0500</pubDate>
@@ -58,6 +40,15 @@
       <pubDate>Wed, 08 Sep 2021 20:44:56 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/bertolucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movies</title>
+      <link>https://sowcow.github.io/blog/tags/movies/</link>
+      <pubDate>Wed, 08 Sep 2021 20:44:56 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/movies/</guid>
       <description></description>
     </item>
     
@@ -202,6 +193,15 @@
       <pubDate>Tue, 17 Aug 2021 22:05:28 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/rewatcheable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeffirelli</title>
+      <link>https://sowcow.github.io/blog/tags/zeffirelli/</link>
+      <pubDate>Sun, 15 Aug 2021 21:11:13 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/zeffirelli/</guid>
       <description></description>
     </item>
     
