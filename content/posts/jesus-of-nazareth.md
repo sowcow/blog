@@ -1,6 +1,6 @@
 ---
 title: "Jesus of Nazareth"
-date: 2021-09-13T21:46:31+05:00
+date: 2021-09-21T21:46:31+05:00
 draft: false
 author: Alexander
 tags:
@@ -20,3 +20,14 @@ I watched only the first part of fourth at this point.
 - and later previous tranquility is festively contrasted by different rampant sinners and John the Baptist
 
 Then I found out that there are three more parts but I liked the idea.
+
+---
+
+The second session started with a dialog that got me initially to loose interest so I postproned watching for a week.
+
+But on the next attempt I was exposed to death because of the continued pandemic.
+And that made part of the dialog more undestandeable from the point of what the director wanted to show there.
+
+Then the first grown Jesus appearance was a well done challenge for the director too.
+He showed authority without external stuff like what John or Herod project.
+Also interestingly the director left two points where the viewer can see that Jesus almost communicates to John about future events: when John reflects on it and when later disciples talk with Jesus about the event.
