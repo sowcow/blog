@@ -1,6 +1,6 @@
 ---
 title: "Jesus of Nazareth"
-date: 2021-09-21T21:46:31+05:00
+date: 2021-09-25T18:54:21+05:00
 draft: false
 author: Alexander
 tags:
@@ -31,3 +31,9 @@ And that made part of the dialog more undestandeable from the point of what the 
 Then the first grown Jesus appearance was a well done challenge for the director too.
 He showed authority without external stuff like what John or Herod project.
 Also interestingly the director left two points where the viewer can see that Jesus almost communicates to John about future events: when John reflects on it and when later disciples talk with Jesus about the event.
+
+Anyway I loved the second episode.
+Lots of visual meals.
+As always vicious ones have the most interesting scenes IMO.
+To the end of the episode Judah is being introduced.
+Since I don't know the details of the plot I'm getting intrigued what kind of meals will the chef serve next :).
