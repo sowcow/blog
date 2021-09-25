@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>whatever</title>
-      <link>https://sowcow.github.io/blog/tags/whatever/</link>
-      <pubDate>Sat, 25 Sep 2021 18:54:21 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/whatever/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zeffirelli</title>
       <link>https://sowcow.github.io/blog/tags/zeffirelli/</link>
       <pubDate>Sat, 25 Sep 2021 18:54:21 +0500</pubDate>
@@ -301,6 +292,15 @@
       <pubDate>Sun, 11 Jul 2021 09:02:28 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whatever</title>
+      <link>https://sowcow.github.io/blog/tags/whatever/</link>
+      <pubDate>Sat, 10 Jul 2021 18:31:24 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/whatever/</guid>
       <description></description>
     </item>
     
