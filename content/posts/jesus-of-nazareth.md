@@ -1,5 +1,5 @@
 ---
-title: "Jesus of Nazareth"
+title: "Jesus of Nazareth (upd: 3 episode)"
 date: 2021-09-25T18:54:21+05:00
 draft: false
 author: Alexander
@@ -42,3 +42,29 @@ Lots of visual meals.
 As always vicious ones have the most interesting scenes IMO.
 To the end of the episode Judah is being introduced.
 Since I don't know the details of the plot I'm getting intrigued what kind of meals will the chef serve next :).
+
+---
+
+Meals presented were different ones as expected.
+Sometimes a bit absurd for my simple view. For example miracles themselves are not something I can simply watch with my highly sensitive to any nonsense mind.
+Some were big scenes.
+Overall positive impression.
+
+One thing that keeps my attention is this: "Behold: the kingdom of heaven is already there".
+This quote if not altered by me is from the first episode but you hear it repeats.
+And I have some posts here on me observing arts and then nature and I plan to add another one.
+In short: if you just watch then you start to see more.
+The sky can look spectaculary like the first time.
+Then you see new glow of autumn colors.
+Simle things get unexpectedly beautiful.
+
+I mean it is not something unknown to humanity and is not what Jesus was saying.
+But given I was not exposed to texts and traditions, my simple understanding is like that.
+
+Anyway back to the movie.
+I believe the concept of rock is mentioned twice before Peter is told to be the rock where the church should be founded.
+That aspect of the rock was new to me. It is one of these things not told explicitly but it mentioned twice so it was quite obvious.
+I believe that also it was mentioned once in a way that made me puzzled and that is why it stuck so I recollected the puzzle at the right time.
+
+Also having this visual fulcrum and "acquaintance" with characters almost makes you curious about other things about them.
+I expect the next final episode to deliver on that remarkably.
