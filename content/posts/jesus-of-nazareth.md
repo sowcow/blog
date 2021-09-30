@@ -1,6 +1,6 @@
 ---
 title: "Jesus of Nazareth (upd: final episode)"
-date: 2021-09-30T18:54:21+05:00
+date: 2021-09-30T10:30:19+05:00
 draft: false
 author: Alexander
 tags:
