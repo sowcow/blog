@@ -15,7 +15,7 @@ I watched only the first part of fourth at this point.
 
 - like I guess all Zeffirelli movies this one has beautiful nature shots
 - also some interesting shots overall
-- there is some flavor to judea in the movie but maybe less about characters and more about smaller occasions
+- there is some flavor to Judea in the movie but maybe less about characters and more about smaller occasions
 - like in all Zeffirelli movies the beginning is not as interesting for me as when things get going
 - I have an impression that the beginning is very feminine in some way too
 - unrelated to that in the beginning there is so much talking without blinking and in some special/magical fashion (especially noticable given me loosing remainings of enchantment of religion just recently while looking at religious officials opening a warrior monument that may be controversial)
@@ -89,8 +89,10 @@ Zerah is this very neutral and balanced in some way character just playing his r
 
 Judah unlike Zerah got unbalanced. He was influenced by Jesus but remained undecided. He lost clear thought and action.
 
-Pontius Pilate interestingly saw danger of Jesus (with the help of Zerah).
-I found this remarkable in the way that actually there is an outlook that Christianity caused or at least contributed to the fall of Roman Empire.
+Pontius Pilate was guided what to do at every step.
+The only able thing he did was avoidance of taking the decision by himself... I guess very valuable skill for such kind of officials.
+But anyway interestingly the director showed through him that there is possibly danger of Jesus to Rome too.
+I found this remarkable because actually there is a view that Christianity caused or at least contributed to the fall of Roman Empire.
 
 ---
 
@@ -102,5 +104,6 @@ Also provides a good image of Jesus for people who are curious about the religio
 
 The director shows this contrast between Jesus and Zerah.
 One represents heart to the fullest and another - mind.
-They have never interacted with each other other than just standing against each other at the end of the "trial".
+They have not really interacted with each other (first dialog at the temple I ignore for whatever reason).
+The most direct interaction I beleve was standing against each other at the end of the "trial".
 Zerah entering the empty tomb is something bearing the same meaning.
