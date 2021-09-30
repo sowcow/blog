@@ -94,5 +94,13 @@ I found this remarkable in the way that actually there is an outlook that Christ
 
 ---
 
-Overall nice trip into Roman Judea with many interesting acquaintances.
-On the other hand less likely to be a "social" movie.
+Overall very interesting trip into Roman Judea with many interesting acquaintances.
+Less likely to be a "social" movie.
+Interesting introduction into the story about religion founding.
+Possibly touching human nature.
+Also provides a good image of Jesus for people who are curious about the religion.
+
+The director shows this contrast between Jesus and Zerah.
+One represents heart to the fullest and another - mind.
+They have never interacted with each other other than just standing against each other at the end of the "trial".
+Zerah entering the empty tomb is something bearing the same meaning.
