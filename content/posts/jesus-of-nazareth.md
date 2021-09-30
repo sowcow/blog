@@ -1,6 +1,6 @@
 ---
-title: "Jesus of Nazareth (upd: 3 episode)"
-date: 2021-09-25T18:54:21+05:00
+title: "Jesus of Nazareth (upd: final episode)"
+date: 2021-09-30T18:54:21+05:00
 draft: false
 author: Alexander
 tags:
@@ -8,6 +8,8 @@ tags:
 - movies
 - rewatcheable
 ---
+
+NOTE: spoils may lie ahead.
 
 I watched only the first part of fourth at this point.
 
@@ -68,3 +70,29 @@ I believe that also it was mentioned once in a way that made me puzzled and that
 
 Also having this visual fulcrum and "acquaintance" with characters almost makes you curious about other things about them.
 I expect the next final episode to deliver on that remarkably.
+
+---
+
+The final part is less of a nice trip or a dinner.
+So I won't judge from that point of view.
+I'll just address what I found to be interesting.
+Although I should say that the episode has lots of crying people kind of content.
+Also it has content that makes you think about the religion.
+
+But I'll focus on characters here.
+
+Caiaphas has this top position and he is the only one who does acting like spiritual matters are more than letters and matters of power to him.
+It looks unnatural by intent.
+I beleive others are not allowed to use that degree of this kind of manipulative rhetoric.
+
+Zerah is this very neutral and balanced in some way character just playing his role. Able but gray too.
+
+Judah unlike Zerah got unbalanced. He was influenced by Jesus but remained undecided. He lost clear thought and action.
+
+Pontius Pilate interestingly saw danger of Jesus (with the help of Zerah).
+I found this remarkable in the way that actually there is an outlook that Christianity caused or at least contributed to the fall of Roman Empire.
+
+---
+
+Overall nice trip into Roman Judea with many interesting acquaintances.
+On the other hand less likely to be a "social" movie.
