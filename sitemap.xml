@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/jesus-of-nazareth/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/rewatcheable/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/zeffirelli/</loc>
+    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/tags/haidt/</loc>
     <lastmod>2021-09-18T19:58:51+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-09-18T19:58:51+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-09-18T19:58:51+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/reading/</loc>
-    <lastmod>2021-09-18T19:58:51+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-09-18T19:58:51+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-righteous-mind/</loc>
@@ -30,9 +42,6 @@
     <lastmod>2021-09-08T20:44:56+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/il-conformista/</loc>
-    <lastmod>2021-09-08T20:44:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2021-09-08T20:44:56+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/literature/</loc>
@@ -116,13 +125,7 @@
     <loc>https://sowcow.github.io/blog/posts/la-charme-discret-de-la-bourgeoisie/</loc>
     <lastmod>2021-08-17T22:05:28+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/tags/rewatcheable/</loc>
-    <lastmod>2021-08-17T22:05:28+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/posts/callas-forever/</loc>
-    <lastmod>2021-08-15T21:11:13+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/zeffirelli/</loc>
     <lastmod>2021-08-15T21:11:13+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/blender/</loc>
