@@ -15,6 +15,7 @@ I'll go through impressions and then focus on the good part at the end.
 The part by Antonioni has some nice art shown.
 
 The part by Bertolucci made to be more dynamic wich is a nice idea and it has things with some added meaning like ending for sure.
+(I assume that is related to fascism but AFAIK the director didn't really live through that time. But probably like here in Russia people still affected and see communism stuff even if they haven't actually lived through it)
 
 There are other parts that are more like cold documentary that document some old places that look like there was a nuclear blast.
 
