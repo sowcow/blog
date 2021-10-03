@@ -66,7 +66,7 @@ But given I was not exposed to texts and traditions, my simple understanding is 
 Anyway back to the movie.
 I believe the concept of rock is mentioned twice before Peter is told to be the rock where the church should be founded.
 That aspect of the rock was new to me. It is one of these things not told explicitly but it mentioned twice so it was quite obvious.
-I believe that also it was mentioned once in a way that made me puzzled and that is why it stuck so I recollected the puzzle at the right time.
+I also recently saw a verse mentioning stone while reading Faust and that made me puzzled so I was more sensitive to the image when I saw it in the movie twice.
 
 Also having this visual fulcrum and "acquaintance" with characters almost makes you curious about other things about them.
 I expect the next final episode to deliver on that remarkably.
