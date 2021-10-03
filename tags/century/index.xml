@@ -6,7 +6,11 @@
     <description>Recent content in century on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 11:05:23 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/century/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 11:05:23 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/century/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Abstract Fools</title>
       <link>https://sowcow.github.io/blog/posts/abstract-fools/</link>
