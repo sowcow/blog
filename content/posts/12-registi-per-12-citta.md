@@ -38,6 +38,8 @@ In short:
 - The director is very visual as always;
 - The music is beautiful and elevating;
 - There is meaning;
+- But it is not cast in stone. It is interactive: you are provided with a light puzzle, an open question, but not with some pre-cooked thing.
+  If you see multiple interpretations - rewatching provides you with more keys;
 
 It starts with almost black and white hazy scene of playful florentines.
 They cast long shadows on the mist.
