@@ -25,6 +25,10 @@ I don't know who allowed one of those no-name directors there.
 But that director just randomly shows you ugly stuff with annoying sounds on the background.
 I guess this stuff was called experimental art of the time or so.
 
+I should say that given all errors they commited there I still like that "diversity of errors" - they all are understandeable.
+In that sense the movie having these different questionable parts still gives food for thought.
+Especially if you have the good part there too to contrast them all.
+
 # Worthy
 
 The part by Zeffirelli is something one cannot miss.
