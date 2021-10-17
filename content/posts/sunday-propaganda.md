@@ -29,9 +29,10 @@ So you can't teach somebody how to make cookies when your are incapable of makin
 (This odd example I took from a random youtube writer)
 
 But no. In propaganda as in the real life rules are different.
-Plumbers teach making cookies.
-Painters complain about laws.
-Lawyers talk about pets.
+
+- Plumbers teach making cookies.
+- Painters complain about laws.
+- Lawyers talk about pets.
 
 I believe there is some kind of absurd aesthetics to it.
 I guess I need to watch some absurd comedy because it has more to reality than what I'm used to lately.
