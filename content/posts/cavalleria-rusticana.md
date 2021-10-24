@@ -35,3 +35,7 @@ It applies to empathy all the time in different ways but it still I believe has 
 Maybe this is just the name of the director that alters my view in such way.
 Maybe it is me being so detached because of lack of verbal information.
 Or maybe I need to figure-out what else is there.
+
+---
+
+One thing I should add is that I'm curious if there is alternative realization of the opera with more sicilian character of the Santuzza. That should be interesting to see too.
