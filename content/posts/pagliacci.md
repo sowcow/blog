@@ -21,7 +21,8 @@ Anyway actually it was not only for an illusion as I saw as able to hear and see
 But anyway I don't think that two topics so different are so easily joinable.
 
 Anyway I liked most of the content in more visual way initially.
-Then I went to read libretto and got another insight.
+Then I went to read libretto and got astonished a bit more.
+There is value in watching in more orderly manner than I did.
 
 Also during the visual part I sometimes saw that it is almost like a good time to have a photo.
 Not that the content was so "spectacular" to put that into the frame as far as I understand.
