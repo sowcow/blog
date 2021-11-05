@@ -21,4 +21,6 @@ But that I think is not what plain rewatch helps with. Only if it is timed well 
 Overall very enjoyable especially before it gets into "complex" matters.
 Then it gets into something-else but also unique in it's own way.
 
-I'd guess that the eight is females around him and relatives. And the half is himself.
+I'd guess that the eight is females around him
+And the half is himself.
+Not sure about relatives yet they possibly are like a proxy or even casual to some extent.
