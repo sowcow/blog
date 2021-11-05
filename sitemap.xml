@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/tags/fellini/</loc>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-10-30T18:26:56+05:00</lastmod>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2021-10-30T18:26:56+05:00</lastmod>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/otto-e-mezzo/</loc>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/rewatcheable/</loc>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2021-11-05T12:27:38+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/opera/</loc>
     <lastmod>2021-10-30T18:26:56+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/pagliacci/</loc>
-    <lastmod>2021-10-30T18:26:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-10-30T18:26:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2021-10-30T18:26:56+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/zeffirelli/</loc>
@@ -39,9 +48,6 @@
     <lastmod>2021-10-03T15:36:29+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/jesus-of-nazareth/</loc>
-    <lastmod>2021-09-30T10:30:19+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/rewatcheable/</loc>
     <lastmod>2021-09-30T10:30:19+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/haidt/</loc>
