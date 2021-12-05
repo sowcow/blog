@@ -18,7 +18,7 @@ I liked it on one hand for no apparent reason.
 But I found it odd that you upgrade a material thing to something ephemeral and that thing gets stronger.
 
 Move forward 20 or so years.
-And today I saw a that kind of dragon in the sky.
+And today I saw that kind of dragon in the sky.
 I was Big. Kind of in the center above you.
 Not a complete version but a convencing one with open jaws.
 Then after a minute it disappeared because clouds got dissolved.
