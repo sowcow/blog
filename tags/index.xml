@@ -6,17 +6,13 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Nov 2021 14:19:18 +0500</lastBuildDate>
-    
-	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 05 Dec 2021 17:22:19 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>art</title>
-      <link>https://sowcow.github.io/blog/tags/art/</link>
-      <pubDate>Fri, 19 Nov 2021 14:19:18 +0500</pubDate>
+      <title>visual</title>
+      <link>https://sowcow.github.io/blog/tags/visual/</link>
+      <pubDate>Sun, 05 Dec 2021 17:22:19 +0500</pubDate>
       
-      <guid>https://sowcow.github.io/blog/tags/art/</guid>
+      <guid>https://sowcow.github.io/blog/tags/visual/</guid>
       <description></description>
     </item>
     
@@ -44,15 +40,6 @@
       <pubDate>Sat, 06 Nov 2021 22:52:57 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/eastwood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://sowcow.github.io/blog/tags/movie/</link>
-      <pubDate>Sat, 06 Nov 2021 22:52:57 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/movie/</guid>
       <description></description>
     </item>
     
@@ -125,15 +112,6 @@
       <pubDate>Sat, 30 Oct 2021 18:26:56 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/zeffirelli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>time</title>
-      <link>https://sowcow.github.io/blog/tags/time/</link>
-      <pubDate>Sun, 17 Oct 2021 11:43:30 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/time/</guid>
       <description></description>
     </item>
     
@@ -219,15 +197,6 @@
     </item>
     
     <item>
-      <title>visual</title>
-      <link>https://sowcow.github.io/blog/tags/visual/</link>
-      <pubDate>Mon, 30 Aug 2021 10:49:29 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/visual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>german</title>
       <link>https://sowcow.github.io/blog/tags/german/</link>
       <pubDate>Sun, 29 Aug 2021 16:52:22 +0500</pubDate>
@@ -242,6 +211,15 @@
       <pubDate>Wed, 25 Aug 2021 21:07:31 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/collections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>https://sowcow.github.io/blog/tags/time/</link>
+      <pubDate>Wed, 25 Aug 2021 10:01:47 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/time/</guid>
       <description></description>
     </item>
     
@@ -435,6 +413,15 @@
     </item>
     
     <item>
+      <title>movie</title>
+      <link>https://sowcow.github.io/blog/tags/movie/</link>
+      <pubDate>Mon, 26 Apr 2021 20:20:15 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>atmospheric</title>
       <link>https://sowcow.github.io/blog/tags/atmospheric/</link>
       <pubDate>Sun, 18 Apr 2021 18:27:41 +0500</pubDate>
@@ -494,6 +481,15 @@
       <pubDate>Sun, 21 Mar 2021 08:06:23 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/zoology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>https://sowcow.github.io/blog/tags/art/</link>
+      <pubDate>Fri, 19 Mar 2021 08:06:53 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/art/</guid>
       <description></description>
     </item>
     
