@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/posts/ghost-dragon/</loc>
-    <lastmod>2021-12-05T17:22:19+05:00</lastmod>
+    <loc>https://sowcow.github.io/blog/tags/bunuel/</loc>
+    <lastmod>2022-01-03T13:02:48+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2021-12-05T17:22:19+05:00</lastmod>
+    <lastmod>2022-01-03T13:02:48+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2022-01-03T13:02:48+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2021-12-05T17:22:19+05:00</lastmod>
+    <lastmod>2022-01-03T13:02:48+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/simon-of-desert/</loc>
+    <lastmod>2022-01-03T13:02:48+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2022-01-03T13:02:48+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/ghost-dragon/</loc>
     <lastmod>2021-12-05T17:22:19+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/visual/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2021-11-07T16:00:00+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/eastwood/</loc>
-    <lastmod>2021-11-06T22:52:57+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2021-11-06T22:52:57+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/music/</loc>
@@ -172,9 +178,6 @@
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/space/</loc>
     <lastmod>2021-08-21T09:27:24+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/bunuel/</loc>
-    <lastmod>2021-08-20T20:10:41+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/viridiana/</loc>
     <lastmod>2021-08-20T20:10:41+05:00</lastmod>
