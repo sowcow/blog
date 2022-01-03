@@ -14,5 +14,5 @@ But there should be a starting point somewhere and the most recent movie is the 
 The movie is short so the post should follow the shape of the movie.
 
 What I have seen is lots of patches with with some light humour everywhere in between.
-Patches are different and that may be confusing because it looks like there are serious subjects interwoven.
+Patches are different and that may be confusing because it looks like there are serious topics interwoven.
 But in the end humour is the unifying line.
