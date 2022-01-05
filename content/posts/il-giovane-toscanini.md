@@ -19,14 +19,15 @@ The plot offers a streak of victories to the protagonist.
 - And then becomes a conductor too, saving and even altering the performance, making it feel more like a historic event;
 
 I think one theme that goes through the movie is how new generation finds and takes it's place.
+The name suggests that too. Maybe I should just read the list of all plots finally so I don't need to analyze but maybe something is lost then.
 
 In the beginning the protagonist is being dismissed by the La Scala judges and it is their normal game as Rossi told him.
-Then status difference is highlighted both by Nadina and monarch.
+Then status difference is highlighted both by Nadina and the monarch.
 
 The protagonist dismissed La Scala.
 Conquered the diva and took her from the monarch.
 While also helping to take the course of the country too.
-And went after establishing a non-profit in this emerging domain.
+And then went after establishing a non-profit in that emerging domain.
 
 ---
 
