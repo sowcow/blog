@@ -45,7 +45,3 @@ This short-picture by Visconti ended up being a journey too.
 
 Anyway I got dragged-in into it.
 Normally I watch something different in the new year but now that place was empty and this picture just took that place and established itself.
-
----
-
-(I plan to check at least the part by De Sica too. Maybe in the sepearate post to keep. To be continued anyway...)
