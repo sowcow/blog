@@ -4,7 +4,8 @@ date: 2021-03-25T14:06:32+05:00
 draft: false
 author: Alexander
 tags:
-- movie
+- movies
+- Visconti
 ---
 
 I've been watching different Visconti movies these days for the first time.
@@ -98,7 +99,7 @@ And that selecton opens opportunities for others to exploit such people.
 
 I got enough for a separate post here!
 
-### La Streghe
+### Le Streghe
 
 Natural vs artificial vs ugly.
 Darker.
