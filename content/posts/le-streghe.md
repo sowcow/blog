@@ -46,3 +46,10 @@ This short-picture by Visconti ended up being a journey too.
 
 Anyway I got dragged-in into it.
 Normally I watch something different in the new year but now that place was empty and this picture just took that place and established itself.
+
+**UPD:**
+
+Of course it is so obvious what she was looking and wasn't able to find is to have what the hostess has.
+That ring with brilliants means both that level of status and children.
+I have not expected such a nice puzzle and a beautiful one too.
+I bet there are gems to find in other Visconti movies that I watched only once.
