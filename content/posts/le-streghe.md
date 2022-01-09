@@ -25,7 +25,6 @@ Life-continuaiton versus this brilliant illusion and play.
 On the second watch I got questions:
 - when she ordered gin there was emphasis - did she knew already at that point?
 - when looking around and not finding - I'm not sure what was not found (she as everybody found the ring - there is something else)...
-- when compared to canned food she answers not the way I expected - more like the price is too low than it is incomparable
 - anyway, surrounding - I felt like surrounding is so messed-up that if changing of direction was planned - the surrounding must had been changed first
 - lower class of birth - that may be keeping her career choice - because how otherwise would she keep the level relative to more connected competitors? (represented by the odd jealous people in green and pink in the picture)
 
