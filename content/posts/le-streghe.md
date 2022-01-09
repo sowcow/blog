@@ -31,9 +31,11 @@ On the second watch I got questions:
 
 One fun aspect of the movie is her friend and her relatinship with own husband.
 She messes with him so badly.
-The protagonist messes with males for fun too.
+The protagonist messes with males for fun too but her way is exusable while her friends way is extremely comical.
+Always not alone - distractions are plenty, and being witful the protagonist does what she does best - plays.
 
-Always not alone - distractions are plenty, so being witful she plays.
+Maybe this signifies some genre change in the industry.
+She and her friend play different genres.
 
 One idea is that her magical attractiveness is because of that fire that actually can burn her.
 So the name of the part is: Witch Burned Alive.
