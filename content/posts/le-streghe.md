@@ -8,6 +8,8 @@ tags:
 - Visconti
 ---
 
+**Spoilers Land**
+
 The movie has multiple parts.
 I accidentially started watching the one by Visconti that I had already seen at that point and got sucked-in.
 And then to write more gave another look.
