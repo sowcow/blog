@@ -6,7 +6,11 @@
     <description>Recent content in gtd on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 12:56:20 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2019 12:56:20 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Excitement</title>
       <link>https://sowcow.github.io/blog/posts/excitement/</link>

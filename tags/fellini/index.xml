@@ -6,7 +6,11 @@
     <description>Recent content in Fellini on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Nov 2021 12:27:38 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/fellini/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 12:27:38 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/fellini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Otto E Mezzo</title>
       <link>https://sowcow.github.io/blog/posts/otto-e-mezzo/</link>
