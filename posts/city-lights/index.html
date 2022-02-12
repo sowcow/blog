@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>City Lights - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Some Context Got the bats flu the most recent stemm as it seems. Charlie Chaplin was on my list to check - out. So the opportunity to do that was realized.
+Also Charlie Chaplin is such a phenomenon. And there is this relation to his character you develop. So it feels totally ok to just use Charlie.
+City Lights Touching story. Wery well played. Enjoyed the comedy.
+Charlie had his own independent studio at the time of shooting.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.89.4" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">City Lights</h1>
+    <div class="post-meta">Alexander · February 12, 2022</div>
+  </header>
+  <div class="post-content"><h3 id="some-context">Some Context</h3>
+<p>Got the bats flu the most recent stemm as it seems.
+Charlie Chaplin was on my list to check - out.
+So the opportunity to do that was realized.</p>
+<p>Also Charlie Chaplin is such a phenomenon.
+And there is this relation to his character you develop.
+So it feels totally ok to just use Charlie.</p>
+<h3 id="city-lights">City Lights</h3>
+<p>Touching story. Wery well played. Enjoyed the comedy.</p>
+<p>Charlie had his own independent studio at the time of shooting.
+And compared to earlier short silent comedy that I have had an opportunity to check.
+This definetly looks like more serios work.
+Surely you get what is expected - extremely comical scenes.
+And you get more variability because of length.
+But you also get the main plot that makes it a real movie.
+And there is something more I believe.
+Maybe it is that you can alter the speed of the show
+when you are not constrained by the short format.
+And Charlie uses that option to have scenes of different pace.</p>
+<h3 id="other-info">Other Info</h3>
+<p>One random detail about the movie is that the main actress
+was angrily dismissed when the movie was almost finished.
+It looks like the final stick was she trying to leave earlier because of her hairdresser appointment.</p>
+<p>And another actres was tried but because the movie was so far in the development
+the final decision was to return the first actress to finish the movie.</p>
+<p>The 20 years old actress was not too sophisticated and that ended-up adding value.
+Because of certain simplicity she provided.</p>
+<p>It was also mentioned that Charlie worked under own schedule and
+could focus and perfect scenes for some time.
+It was said that the first meeting scene took 300+ takes.
+So there is thought in the way things made.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/movies">movies</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/chaplin">Chaplin</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2022 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
