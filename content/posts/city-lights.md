@@ -15,7 +15,7 @@ Charlie Chaplin was on my list to check - out.
 So the opportunity to do that was realized.
 
 Also Charlie Chaplin is such a phenomenon.
-And there is this relation to his character you develop.
+And there is this familiarity to his character that you develop.
 So it feels totally ok to just use Charlie.
 
 
@@ -24,7 +24,7 @@ So it feels totally ok to just use Charlie.
 Touching story. Wery well played. Enjoyed the comedy.
 
 Charlie had his own independent studio at the time of shooting.
-And compared to earlier short silent comedy that I have had an opportunity to check.
+And compared to the earliest short silent comedy that I have had an opportunity to check.
 This definetly looks like more serios work.
 Surely you get what is expected - extremely comical scenes.
 And you get more variability because of length.
@@ -33,6 +33,16 @@ And there is something more I believe.
 Maybe it is that you can alter the speed of the show
 when you are not constrained by the short format.
 And Charlie uses that option to have scenes of different pace.
+
+
+### Earliest Works
+
+And since I mentioned earliest - they may have something in them.
+But later overall quality gets better.
+
+One interesting thing is that even in silent comedy
+they had managed to have an analog of laughing sound in the background.
+Anyway that is what possibly made me to switch to look for another period and to City Lights.
 
 
 ### Other Info
