@@ -6,7 +6,11 @@
     <description>Recent content in Haidt on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Sep 2021 19:58:51 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/haidt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 19:58:51 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/haidt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>The Righteous Mind</title>
       <link>https://sowcow.github.io/blog/posts/the-righteous-mind/</link>

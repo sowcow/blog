@@ -1,610 +1,1024 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2022-02-15T12:31:54+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2022-02-15T12:31:54+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/posts/rivers/</loc>
+    <lastmod>2022-02-15T12:31:54+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0/</loc>
+    <lastmod>2022-02-15T12:31:54+05:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://sowcow.github.io/blog/tags/chaplin/</loc>
     <lastmod>2022-02-12T12:15:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/city-lights/</loc>
     <lastmod>2022-02-12T12:15:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/movie/</loc>
     <lastmod>2022-02-12T12:15:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2022-02-12T12:15:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2022-02-12T12:15:56+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2022-02-12T12:15:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/olympics-circus/</loc>
     <lastmod>2022-02-08T10:07:58+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/time/</loc>
+    <lastmod>2022-02-08T10:07:58+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/times/</loc>
     <lastmod>2022-02-08T10:07:58+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/de-sica/</loc>
     <lastmod>2022-02-07T20:58:13+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/loro-di-napoli/</loc>
     <lastmod>2022-02-07T20:58:13+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/olympics/</loc>
     <lastmod>2022-02-06T10:42:55+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/robots/</loc>
     <lastmod>2022-02-06T10:42:55+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/digital/</loc>
     <lastmod>2022-01-29T17:14:37+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/entropy/</loc>
     <lastmod>2022-01-29T17:14:37+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/entropy/</loc>
     <lastmod>2022-01-29T17:14:37+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/ugly/</loc>
     <lastmod>2022-01-29T17:14:37+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/live/</loc>
     <lastmod>2022-01-23T12:22:00+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/oprah-knows/</loc>
     <lastmod>2022-01-23T12:22:00+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/habitat/</loc>
     <lastmod>2022-01-23T11:11:27+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/snapshot/</loc>
     <lastmod>2022-01-23T11:11:27+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/le-streghe/</loc>
     <lastmod>2022-01-09T20:16:51+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/visconti/</loc>
     <lastmod>2022-01-09T20:16:51+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/il-giovane-toscanini/</loc>
     <lastmod>2022-01-05T11:08:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/zeffirelli/</loc>
     <lastmod>2022-01-05T11:08:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/bunuel/</loc>
     <lastmod>2022-01-03T13:02:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/simon-of-desert/</loc>
     <lastmod>2022-01-03T13:02:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/ghost-dragon/</loc>
     <lastmod>2021-12-05T17:22:19+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/visual/</loc>
     <lastmod>2021-12-05T17:22:19+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/tags/art/</loc>
+    <lastmod>2021-11-19T14:19:18+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/arts/</loc>
     <lastmod>2021-11-19T14:19:18+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/orange-clouds/</loc>
     <lastmod>2021-11-19T14:19:18+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/mind-of-the-raven/</loc>
     <lastmod>2021-11-07T16:00:00+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/reads/</loc>
     <lastmod>2021-11-07T16:00:00+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/eastwood/</loc>
     <lastmod>2021-11-06T22:52:57+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/music/</loc>
     <lastmod>2021-11-06T22:52:57+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
     <lastmod>2021-11-06T22:52:57+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/the-blues/</loc>
     <lastmod>2021-11-06T22:52:57+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/wenders/</loc>
     <lastmod>2021-11-06T22:52:57+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/fellini/</loc>
     <lastmod>2021-11-05T12:27:38+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/otto-e-mezzo/</loc>
     <lastmod>2021-11-05T12:27:38+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/rewatcheable/</loc>
     <lastmod>2021-11-05T12:27:38+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/opera/</loc>
     <lastmod>2021-10-30T18:26:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/pagliacci/</loc>
     <lastmod>2021-10-30T18:26:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/cavalleria-rusticana/</loc>
     <lastmod>2021-10-23T21:31:12+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/sunday-propaganda/</loc>
     <lastmod>2021-10-17T11:43:30+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/meet-joe-black/</loc>
     <lastmod>2021-10-10T21:05:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/12-registi-per-12-citta/</loc>
     <lastmod>2021-10-03T15:36:29+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/jesus-of-nazareth/</loc>
     <lastmod>2021-09-30T10:30:19+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/haidt/</loc>
     <lastmod>2021-09-18T19:58:51+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/reading/</loc>
     <lastmod>2021-09-18T19:58:51+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/the-righteous-mind/</loc>
     <lastmod>2021-09-18T19:58:51+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/in-russian/</loc>
     <lastmod>2021-09-11T11:27:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/%D1%84%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0/</loc>
     <lastmod>2021-09-11T11:27:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/bertolucci/</loc>
     <lastmod>2021-09-08T20:44:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/il-conformista/</loc>
     <lastmod>2021-09-08T20:44:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/literature/</loc>
     <lastmod>2021-09-04T10:32:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/some-taste/</loc>
     <lastmod>2021-09-04T10:32:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/taste/</loc>
     <lastmod>2021-09-04T10:32:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/dream-flies/</loc>
     <lastmod>2021-09-01T10:15:05+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/dreams/</loc>
     <lastmod>2021-09-01T10:15:05+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/random/</loc>
     <lastmod>2021-09-01T10:15:05+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/painting-still-life-in-gouache/</loc>
     <lastmod>2021-08-30T10:49:29+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/german/</loc>
     <lastmod>2021-08-29T16:52:22+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/ttc-learning-german/</loc>
     <lastmod>2021-08-29T16:52:22+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/collections/</loc>
     <lastmod>2021-08-25T21:07:31+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/reads/</loc>
     <lastmod>2021-08-25T21:07:31+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/eternal/</loc>
     <lastmod>2021-08-25T10:01:47+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/time/</loc>
-    <lastmod>2021-08-25T10:01:47+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/air/</loc>
     <lastmod>2021-08-25T09:31:59+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/land/</loc>
     <lastmod>2021-08-25T09:31:59+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/whispering-propaganda/</loc>
     <lastmod>2021-08-25T09:31:59+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/burn-after-reading/</loc>
     <lastmod>2021-08-24T17:21:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/coens/</loc>
     <lastmod>2021-08-24T17:21:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/tools/</loc>
     <lastmod>2021-08-24T17:21:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/contextless/</loc>
     <lastmod>2021-08-22T20:03:06+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/tangent/</loc>
     <lastmod>2021-08-22T20:03:06+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/continuity-of-space/</loc>
     <lastmod>2021-08-21T09:27:24+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/space/</loc>
     <lastmod>2021-08-21T09:27:24+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/viridiana/</loc>
     <lastmod>2021-08-20T20:10:41+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/la-charme-discret-de-la-bourgeoisie/</loc>
     <lastmod>2021-08-17T22:05:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/callas-forever/</loc>
     <lastmod>2021-08-15T21:11:13+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/blender/</loc>
     <lastmod>2021-08-14T13:00:33+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/thinking/</loc>
     <lastmod>2021-08-14T13:00:33+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/contrast/</loc>
     <lastmod>2021-08-13T20:08:32+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/half-watch/</loc>
     <lastmod>2021-08-11T05:25:11+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/sparrow/</loc>
     <lastmod>2021-08-10T18:44:02+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/antonioni/</loc>
     <lastmod>2021-08-06T20:01:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/la-notte/</loc>
     <lastmod>2021-08-06T20:01:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/gap/</loc>
     <lastmod>2021-08-04T17:28:14+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/ivory-tower/</loc>
     <lastmod>2021-08-04T17:28:14+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/dream/</loc>
     <lastmod>2021-08-04T07:43:11+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/market/</loc>
     <lastmod>2021-07-31T09:21:31+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/stocks3/</loc>
     <lastmod>2021-07-31T09:21:31+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/adventure/</loc>
     <lastmod>2021-07-30T20:37:55+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/rhythm/</loc>
     <lastmod>2021-07-29T17:53:26+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/sound/</loc>
     <lastmod>2021-07-29T17:53:26+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/beyond-clouds/</loc>
     <lastmod>2021-07-26T08:46:14+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/skin/</loc>
     <lastmod>2021-07-24T10:28:11+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/blue/</loc>
     <lastmod>2021-07-21T06:19:56+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/eclipse/</loc>
     <lastmod>2021-07-18T17:06:25+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/taming/</loc>
     <lastmod>2021-07-16T13:32:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/stocks/</loc>
     <lastmod>2021-07-13T12:04:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/stocks2/</loc>
     <lastmod>2021-07-13T12:04:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/brother-sun/</loc>
     <lastmod>2021-07-12T22:19:22+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/war/</loc>
     <lastmod>2021-07-12T21:47:49+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/people/</loc>
     <lastmod>2021-07-12T21:47:49+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/politics/</loc>
     <lastmod>2021-07-12T21:47:49+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/gravity/</loc>
     <lastmod>2021-07-12T21:07:26+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/future/</loc>
     <lastmod>2021-07-11T09:02:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/unity22/</loc>
     <lastmod>2021-07-11T09:02:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/interstellar/</loc>
     <lastmod>2021-07-11T07:40:35+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/hamlet/</loc>
     <lastmod>2021-07-10T18:31:24+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/whatever/</loc>
     <lastmod>2021-07-10T18:31:24+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/stocks/</loc>
     <lastmod>2021-07-09T07:45:27+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/hamstering/</loc>
     <lastmod>2021-07-03T09:25:43+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/virgin/</loc>
     <lastmod>2021-07-03T08:31:41+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/tea-mussolini/</loc>
     <lastmod>2021-06-20T13:21:49+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/zeffirelli/</loc>
     <lastmod>2021-06-18T10:29:26+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/marx-beard/</loc>
     <lastmod>2021-06-13T19:13:54+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/history/</loc>
     <lastmod>2021-06-13T19:13:54+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/form-is-more-important/</loc>
     <lastmod>2021-06-09T15:11:26+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/life/</loc>
     <lastmod>2021-06-09T15:11:26+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/exit-strategy/</loc>
     <lastmod>2021-06-09T15:04:43+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/piano-sight-reading/</loc>
     <lastmod>2021-06-07T13:08:03+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/blowup/</loc>
     <lastmod>2021-06-04T08:49:18+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/devolution/</loc>
     <lastmod>2021-06-02T15:36:08+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/dhp-206/</loc>
     <lastmod>2021-06-02T15:36:08+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/pleasure/</loc>
     <lastmod>2021-06-02T15:36:08+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/l-innocente/</loc>
     <lastmod>2021-05-27T19:37:03+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/senso/</loc>
     <lastmod>2021-05-26T08:52:25+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/shorts/</loc>
     <lastmod>2021-05-25T17:58:46+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/sect-of-blindness/</loc>
     <lastmod>2021-05-25T15:17:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/first-summer/</loc>
     <lastmod>2021-05-22T09:58:54+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/this/</loc>
     <lastmod>2021-05-22T09:58:54+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/lo-straniero/</loc>
     <lastmod>2021-05-16T14:50:02+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/arts/</loc>
     <lastmod>2021-05-07T20:28:00+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movie/</loc>
-    <lastmod>2021-04-26T20:20:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/ossessione/</loc>
     <lastmod>2021-04-26T20:20:15+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/atmospheric/</loc>
     <lastmod>2021-04-18T18:27:41+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/orsa/</loc>
     <lastmod>2021-04-18T18:27:41+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/images/</loc>
     <lastmod>2021-03-28T08:39:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/negatives/</loc>
     <lastmod>2021-03-28T08:39:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/writing/</loc>
     <lastmod>2021-03-28T08:39:44+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/abstract-fools/</loc>
     <lastmod>2021-03-27T11:05:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/century/</loc>
     <lastmod>2021-03-27T11:05:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/fools/</loc>
     <lastmod>2021-03-27T11:05:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/patriotic/</loc>
     <lastmod>2021-03-25T15:38:47+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/sputnik/</loc>
     <lastmod>2021-03-25T15:38:47+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/visconti/</loc>
     <lastmod>2021-03-25T14:06:32+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/fish-rights/</loc>
     <lastmod>2021-03-21T08:06:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/zoology/</loc>
     <lastmod>2021-03-21T08:06:23+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/art/</loc>
-    <lastmod>2021-03-19T08:06:53+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/death-in-venice/</loc>
     <lastmod>2021-03-19T08:06:53+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/coffee/</loc>
     <lastmod>2021-03-11T13:49:10+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/psyche/</loc>
     <lastmod>2021-03-11T13:49:10+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/stelling/</loc>
     <lastmod>2021-03-10T09:46:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/watching/</loc>
     <lastmod>2021-03-10T09:46:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/stamm/</loc>
     <lastmod>2021-03-08T14:03:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/idiocy/</loc>
     <lastmod>2021-03-08T14:03:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/trash/</loc>
     <lastmod>2021-03-07T12:37:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/zombie-watch/</loc>
     <lastmod>2021-03-07T12:37:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/zombies/</loc>
     <lastmod>2021-03-07T12:37:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/archeology/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/experience/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/forgotten/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/order/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/puzzle/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/march-2020/</loc>
     <lastmod>2020-04-01T17:57:52+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/review/</loc>
     <lastmod>2020-04-01T17:57:52+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/february-2020/</loc>
     <lastmod>2020-03-01T09:50:19+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/code/</loc>
     <lastmod>2020-02-01T18:36:45+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/january-2020/</loc>
     <lastmod>2020-02-01T18:36:45+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/werk-ohne-autor/</loc>
     <lastmod>2019-12-19T12:46:28+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/epictetus/</loc>
     <lastmod>2019-10-26T20:40:20+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/jordan-peterson/</loc>
     <lastmod>2019-09-30T18:00:19+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/low-iq/</loc>
     <lastmod>2019-09-30T18:00:19+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/collective-lies/</loc>
     <lastmod>2019-09-22T15:09:06+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/d-and-d/</loc>
     <lastmod>2019-08-20T20:04:22+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/tar-pit/</loc>
     <lastmod>2019-08-20T14:27:22+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/das-right/</loc>
     <lastmod>2019-08-11T09:39:49+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/language/</loc>
     <lastmod>2019-08-11T09:39:49+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/random-code-thoughts/</loc>
     <lastmod>2019-08-06T17:31:40+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/thoughts/</loc>
     <lastmod>2019-08-06T17:31:40+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/till-you-make-it/</loc>
     <lastmod>2019-08-05T12:46:25+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/random-dentist-experience/</loc>
     <lastmod>2019-08-05T12:22:22+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/caesar/</loc>
     <lastmod>2019-07-28T12:28:45+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/excitement/</loc>
     <lastmod>2019-07-26T12:56:20+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/gtd/</loc>
     <lastmod>2019-07-26T12:56:20+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/getting-things-done/</loc>
     <lastmod>2019-07-25T11:54:03+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/real-abstractions/</loc>
     <lastmod>2019-06-29T11:41:48+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/self-self/</loc>
     <lastmod>2019-06-23T09:24:41+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/intellectual-toys/</loc>
     <lastmod>2019-06-20T08:09:06+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/unconstrained-code/</loc>
     <lastmod>2019-06-07T09:05:18+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/constrained-games/</loc>
     <lastmod>2019-05-30T13:39:02+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/games/</loc>
     <lastmod>2019-05-30T13:39:02+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/complexity-order/</loc>
     <lastmod>2019-05-24T09:47:54+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/forgotten-meditation/</loc>
     <lastmod>2019-05-22T10:07:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/mind/</loc>
     <lastmod>2019-05-22T10:07:23+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/first-politics-post/</loc>
     <lastmod>2019-05-20T12:42:04+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/posts/my-first-post/</loc>
     <lastmod>2019-05-17T14:04:42+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags/trying-new-stuff/</loc>
     <lastmod>2019-05-17T14:04:42+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2000-01-01T09:47:54+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/tags-menu/</loc>
     <lastmod>2000-01-01T09:47:54+05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://sowcow.github.io/blog/categories/</loc>
   </url>
+  
 </urlset>

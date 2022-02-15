@@ -6,7 +6,11 @@
     <description>Recent content in literature on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Sep 2021 10:32:15 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 10:32:15 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Some Taste</title>
       <link>https://sowcow.github.io/blog/posts/some-taste/</link>

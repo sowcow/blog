@@ -6,7 +6,11 @@
     <description>Recent content in mind on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2019 10:07:23 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/mind/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2019 10:07:23 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/mind/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Meditating again</title>
       <link>https://sowcow.github.io/blog/posts/forgotten-meditation/</link>
