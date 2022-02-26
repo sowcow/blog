@@ -17,8 +17,8 @@ On the other hand there is some insight to extract.
 The scope of what is called "special operation" actually is nuclear.
 One can say that it is an invasion or war - expecting the worse.
 But also this can be something else - one move in some combination on the geopolicial landscape.
-China is still to move. Iran may be interested too?
-What next?
+China is still to make the move. Iran may be interested too?
+What's next?
 
 # Intro
 
