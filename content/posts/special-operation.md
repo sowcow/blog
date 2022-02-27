@@ -109,6 +109,10 @@ Also some decisions like giving-away guns freely are risky and desperate.
 People will not be able to use them other then by selling illegally.
 Also europe should have own problems already and new coming because of inflation and I don't think they also need having a spike in illegal guns availability.
 
+There may be some idea behind it as a
+deterrence against possible tyrany.
+But that probably should have been done in way more organized fashion and way earlier.
+
 Anyway future will judge all decision makers involved in that.
 
 Anyway he started being interesting to me.
