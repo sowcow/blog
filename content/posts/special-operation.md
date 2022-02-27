@@ -151,7 +151,10 @@ I hope when geopolical stuff is sorted there is no overreach on normal civilians
 Because then it can actually get ugly.
 Also doing it right in the east of europe would unite everybody there so badly too.
 
-I think they are rational so I stay optimistic on this.
+But since you have to get at least provocations if not atrocities.
+And both sides are giving opposite propaganda stories on that.
+Then hopefuly available technology is used to document actual evidence more or less impartially.
+Which seems like a high standard even though I believe the technology should be there for that.
 
 # Calendar
 
