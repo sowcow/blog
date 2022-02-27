@@ -165,10 +165,15 @@ Russia will get in trouble earlier and thus will not be the same.
 
 I assume China sees some very good opportunities in this too but I have no idea about what will happen here at this point.
 
+Anyway one have to be positive and hope for better.
+
 # Calendar
 
-Funny thing is that my wall had this watercolor picture (by DeepGreen) for January that can be interpreted as a house on fire.
+One funny thing is that my wall calendar
+had this watercolor picture (by DeepGreen)
+for January that can be interpreted as a house on fire.
 The January was really heated and busy for me.
-But now it looks like the whole year is going to be hot on events.
+But now it looks like the whole year
+is going to be hot on events as well.
 
 ![watercolor image by DeepGreen from my calender](/blog/jan.jpg)
