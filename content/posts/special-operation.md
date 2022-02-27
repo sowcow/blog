@@ -16,7 +16,7 @@ On the other hand there is some insight to extract.
 
 The scope of what is called "special operation" actually is nuclear.
 One can say that it is an invasion or war - expecting the worse.
-But also this can be something else - one move in some combination on the geopolicial landscape.
+But also this can be something addittional to that - one move in some combination on the geopolicial landscape.
 China is still to make the move. Iran may be interested too?
 What's next?
 
@@ -129,6 +129,7 @@ But I don't see that now.
 Anyway I need to get myself into game theory and history/geopolitics more to have some insight about what that could be.
 
 As I understand people who protest may be psychologically playing the role of that loss-loss if they get a big-enough crowd.
+Also they obviously may just think in civillian ethical norms and intuitions.
 I don't really think they play the "switch" thing (outside of those doing actually crazy things but likely they are not smart).
 No idea what is the right way to have "switch"/not-smart not being used by the third-party.
 
@@ -155,6 +156,37 @@ But since you have to get at least provocations if not atrocities.
 And both sides are giving opposite propaganda stories on that.
 Then hopefuly available technology is used to document actual evidence more or less impartially.
 Which seems like a high standard even though I believe the technology should be there for that.
+
+# Ethics
+
+Intuition says that initiating killing of people is terrible thing.
+
+But evidently states operate in what can be called Machiavellian mode.
+
+Probably there are some international norms
+that tells what wars are just and such.
+But the reality is messy and people don't know
+this stuff anyway.
+So they are left to intuitions and manipulations.
+
+I'm not sure if completely avoiding ethical aspect of
+such situations is ethical by itself.
+But intuitions and manipulations are not my favorite input
+for making judgements on such serious topics.
+
+So I would like to approach this from some not-nonsensical international norms ground.
+But I'm not competent in this.
+
+And there is a huge class of professionals
+who could explain well.
+But easy/cheap stuff like manipulations and appeal
+to intuitions or to the ideology is what is produced AFAIK.
+
+Also if you can't enforce then there is no point in norms
+so the problem is likely in the system
+and how it failed in this case.
+If that can be fixed then likely ethics
+issue is prevented in the first place.
 
 # Cost
 
