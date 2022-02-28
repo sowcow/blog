@@ -157,7 +157,11 @@ I guess such independent ones (until realtion is demonstrated) you can't call pr
 Will see what UN will produce. I'd prefer to have truth and satellite evidence of whatever happens but I can't be sure about that.
 I hope I'm surprised and they don't do rants and emotional manipulation and there is some useful information delivered.
 
-Also official propagandists in Russia often are bald (only males I mean) and I don't know why.
+Also the ammount of fakes/propaganda makes
+me being pessimistic about
+hearing any evidence-based truth at this point unfortunately.
+
+Strngely official propagandists in Russia often are bald (only males I mean) and I don't know why.
 Perhaps there is a secret club of bald people who control our media institutions?
 
 # What I'd like to see
