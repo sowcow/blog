@@ -154,8 +154,11 @@ But also one can't surely say if he is being payed or just does it the way he li
 Because those who are paid tend to be obvious and cheap in a sense.
 I guess such independent ones (until realtion is demonstrated) you can't call propaganda even though official propoganda has a lot to learn from them.
 
-Also official propagandists often are bald (the males I mean) and I don't know why.
-Maybe there is a secret club of bald people who control our media institutions?
+Will see what UN will produce. I'd prefer to have truth and satellite evidence of whatever happens but I can't be sure about that.
+I hope I'm surprised and they don't do rants and emotional manipulation and there is some useful information delivered.
+
+Also official propagandists in Russia often are bald (only males I mean) and I don't know why.
+Perhaps there is a secret club of bald people who control our media institutions?
 
 # What I'd like to see
 
