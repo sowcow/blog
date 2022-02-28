@@ -18,7 +18,7 @@ The scope of what is called "special operation" actually is nuclear.
 One can say that it is an invasion or war - expecting the worse.
 But also this can be something addittional to that - one move in some combination on the geopolicial landscape.
 China is still to make the move. Iran may be interested too?
-What's next?
+Who is next?
 
 # Intro
 
@@ -141,6 +141,21 @@ I have no idea what actual situation will be.
 Stuff is uncertain and it will get more uncertain during this uncertain year.
 
 I tried writing some analysis but it is likely that it will get outdated every week.
+
+# Propaganda
+
+There is some high octane number propaganda out there.
+On the state-owned channels one can hear more mushroom-type propaganda: keeping you in the dark and feeding emotionally charged crap.
+But I know that there are independent bloggers who are just high-quality stuff.
+
+You get maps. Short patriotic rants. And Ukrainian accent of the archorman.
+And I definetly see that guy doing it well.
+But also one can't surely say if he is being payed or just does it the way he likes.
+Because those who are paid tend to be obvious and cheap in a sense.
+I guess such independent ones (until realtion is demonstrated) you can't call propaganda even though official propoganda has a lot to learn from them.
+
+Also official propagandists often are bald (the males I mean) and I don't know why.
+Maybe there is a secret club of bald people who control our media institutions?
 
 # What I'd like to see
 
