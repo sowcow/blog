@@ -1,5 +1,5 @@
 ---
-title: "Wing/mind"
+title: "Wing/Mind"
 date: 2022-03-12T08:49:16+01:00
 draft: false
 author: Alexander
