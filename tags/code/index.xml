@@ -6,7 +6,11 @@
     <description>Recent content in code on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 18:36:45 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2020 18:36:45 +0500</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>January 2020</title>
       <link>https://sowcow.github.io/blog/posts/january-2020/</link>

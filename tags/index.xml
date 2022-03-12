@@ -6,7 +6,20 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 11:11:27 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 08:49:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mind</title>
+      <link>https://sowcow.github.io/blog/tags/mind/</link>
+      <pubDate>Sat, 12 Mar 2022 08:49:16 +0100</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/mind/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>machiavellian</title>
       <link>https://sowcow.github.io/blog/tags/machiavellian/</link>
@@ -62,11 +75,29 @@
     </item>
     
     <item>
+      <title>movie</title>
+      <link>https://sowcow.github.io/blog/tags/movie/</link>
+      <pubDate>Sat, 12 Feb 2022 12:15:56 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>movies</title>
       <link>https://sowcow.github.io/blog/tags/movies/</link>
       <pubDate>Sat, 12 Feb 2022 12:15:56 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>https://sowcow.github.io/blog/tags/time/</link>
+      <pubDate>Tue, 08 Feb 2022 10:07:58 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/time/</guid>
       <description></description>
     </item>
     
@@ -175,6 +206,15 @@
       <pubDate>Sun, 05 Dec 2021 17:22:19 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>https://sowcow.github.io/blog/tags/art/</link>
+      <pubDate>Fri, 19 Nov 2021 14:19:18 +0500</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/art/</guid>
       <description></description>
     </item>
     
@@ -346,15 +386,6 @@
       <pubDate>Wed, 25 Aug 2021 21:07:31 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/collections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>time</title>
-      <link>https://sowcow.github.io/blog/tags/time/</link>
-      <pubDate>Wed, 25 Aug 2021 10:01:47 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/time/</guid>
       <description></description>
     </item>
     
@@ -539,15 +570,6 @@
     </item>
     
     <item>
-      <title>movie</title>
-      <link>https://sowcow.github.io/blog/tags/movie/</link>
-      <pubDate>Mon, 26 Apr 2021 20:20:15 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/movie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>atmospheric</title>
       <link>https://sowcow.github.io/blog/tags/atmospheric/</link>
       <pubDate>Sun, 18 Apr 2021 18:27:41 +0500</pubDate>
@@ -607,15 +629,6 @@
       <pubDate>Sun, 21 Mar 2021 08:06:23 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/zoology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>https://sowcow.github.io/blog/tags/art/</link>
-      <pubDate>Fri, 19 Mar 2021 08:06:53 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/art/</guid>
       <description></description>
     </item>
     
@@ -760,15 +773,6 @@
       <pubDate>Thu, 30 May 2019 13:39:02 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mind</title>
-      <link>https://sowcow.github.io/blog/tags/mind/</link>
-      <pubDate>Wed, 22 May 2019 10:07:23 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/mind/</guid>
       <description></description>
     </item>
     
