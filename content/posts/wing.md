@@ -23,7 +23,7 @@ Like a confusion that still can be directed and having it's own "program" on som
 
 Talking about confused there is also more shallow and kind of externally confused mode.
 
-Anyway do I have a synthesis of this?
+Anyway do I have any ideas on these observations?
 
 I expect there to be value in the ability to discern these and to navigate them.
 I assume any mix that does not have the "confused" part should be great.
