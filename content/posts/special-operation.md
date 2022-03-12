@@ -115,6 +115,12 @@ But that probably should have been done in way more organized fashion and way ea
 
 Anyway future will judge all decision makers involved in that.
 
+(UPD: I assume this was meant not for actual random people but
+to show availability and to have stuff for more trained ones who would come later)
+(Also there are vidoes of Arestovich talking directly with no BS
+about this war happening a couple of years before it happened
+so some preparation may be already there)
+
 Anyway he started being interesting to me.
 Because the situation does not leave good options.
 So it is either a disaster or maybe actually some level-up opportunity.
