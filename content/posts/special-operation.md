@@ -100,6 +100,8 @@ I don't follow the person and have no idea really but here is how it looked from
 
 From the start I perceived this as a disaster for him as a leader and a huge blow to the "democracy" that elected him.
 Because you can't just loose the country and blame the other guy (this is not what presidents do AFAIK).
+(UPD: I don't know if he personally did that but I have heard this blaming everywhere, probably because people think in personal-relations terms.
+But alot of disinformation in general comes in these terms too so I just filter this out.)
 
 But then he started to earn some of respect-points actually because he continued playing his role even though he got this very bad hand now.
 But then possibly these videos were recorded in advance so everybody got fooled.
@@ -215,6 +217,16 @@ so the problem is likely in the system
 and how it failed in this case.
 If that can be fixed then likely ethics
 issue is prevented in the first place.
+
+# Upd: 13 March
+
+It seems that Arestovich have "predicted" the conflict a couple years ago at least.
+With all kind of details. So all parties had plans and all parties were optimistic.
+
+On one hand I like the ambition of the adventure. On another hand the cost is there.
+
+Anyway the guy talks no-BS and likely is a valuable source of insight.
+Also he is optimistic too.
 
 # Cost
 
