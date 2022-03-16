@@ -218,16 +218,6 @@ and how it failed in this case.
 If that can be fixed then likely ethics
 issue is prevented in the first place.
 
-# Upd: 13 March
-
-It seems that Arestovich have "predicted" the conflict a couple years ago at least.
-With all kind of details. So all parties had plans and all parties were optimistic.
-
-On one hand I like the ambition of the adventure. On another hand the cost is there.
-
-Anyway the guy talks no-BS and likely is a valuable source of insight.
-Also he is optimistic too.
-
 # Cost
 
 I assume both sides see opportunities that are just too good.
@@ -249,3 +239,36 @@ But now it looks like the whole year
 is going to be hot on events as well.
 
 ![watercolor image by DeepGreen from my calender](/blog/jan.jpg)
+
+# Upd: March 13th
+
+It seems that Arestovich have "predicted" the conflict a couple years ago at least.
+With all kind of details. So all parties had plans and all parties were optimistic.
+
+On one hand I like the ambition of the adventure. On another hand the cost is there.
+
+Anyway the guy talks no-BS and likely is a valuable source of insight.
+Also he is optimistic too.
+
+# Upd: March 16th
+
+Interesting issue was mentioned.
+Arestovich mentioned some dehumanization of Russian people happening in Russia.
+
+I have a view that there is class society here/there.
+(I assume factually it is everywhere but here I assume it is more visible)
+
+And if that's the case then it may cast a shadow on my previous claim about good demographics.
+But it definetly casts a shadow on institutions.
+No idea how much institutions match the demographics.
+
+Another interesting issue that if he is right and they got the victory and get it reliably.
+In Russia all these WW2 victory narratives and constant military movies would look so odd.
+I can't imagine they continuing that like nothing happened.
+
+The victory then is not only military but cultural and institutional.
+I can't imagine what reforms are possible after such a victory.
+And Ukraine may have some golden age starting there.
+
+People like to see positive.
+I hope the reality does not make people wait for it more than is needed.
