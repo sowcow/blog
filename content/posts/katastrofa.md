@@ -14,5 +14,9 @@ What a luck!
 Anyway initially I thought one of the hostesses called my haircut on the photo in the passport a "katastrofa".
 Now I'm thinking it was not about the photo or maybe it was.
 
-I enjoyed the experience there.
+It was fun and I enjoyed the experience there.
 Now I'm thinking about communication and more.
+
+---
+
+There is way more.
