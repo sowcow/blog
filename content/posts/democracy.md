@@ -9,8 +9,7 @@ tags:
 
 As I understand today the notion is applied to anything where elections are not obviously bought/stolen/taken by force.
 
-And I have an impression that this word has really big halo among the demos.
-Or at least it is assumed to be this way.
+And I have an impression that this word has really big halo not only among the demos but also part of some basic assumed ideology of talking/thinking classes.
 
 Obviously it is too subvertable to be anything that can be called "good".
 But the recent war shows that in competition against more "archaic" system it wins (as it looks now).
