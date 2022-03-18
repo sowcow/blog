@@ -16,7 +16,3 @@ Now I'm thinking it was not about the photo or maybe it was.
 
 It was fun and I enjoyed the experience there.
 Now I'm thinking about communication and more.
-
----
-
-There is way more.
