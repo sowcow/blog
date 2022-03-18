@@ -20,6 +20,13 @@ But also this can be something addittional to that - one move in some combinatio
 China is still to make the move. Iran may be interested too?
 Who is next?
 
+(UPD 18 March: China looks scared-enough by the example of sanctions so I'm
+reluctant to believe they will do much at the point.
+But there is no way I can understand how their thinking goes
+and what their system produces.
+Also as I understand now the genocide title is in play.
+I guess there is nothing to add then.)
+
 # Intro
 
 I got the idea to write something on this from one less-pupular youtuber.
