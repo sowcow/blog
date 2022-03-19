@@ -286,4 +286,4 @@ I hope the reality does not make people wait for it more than is needed.
 
 Some people say the king is mad.
 Some people were saying it from the start.
-Anyway it is easy to succumb to positive thoughts here.
+Meaning different things but anyway it is easy to succumb to positive thoughts here.
