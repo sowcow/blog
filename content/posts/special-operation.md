@@ -5,6 +5,8 @@ draft: false
 author: Alexander
 tags:
 - too abstract
+- detached
+- impressions
 ---
 
 # Heat
@@ -279,3 +281,9 @@ And Ukraine may have some golden age starting there.
 
 People like to see positive.
 I hope the reality does not make people wait for it more than is needed.
+
+# Upd: March 19th
+
+Some people say the king is mad.
+Some people were saying it from the start.
+Anyway it is easy to succumb to positive thoughts here.
