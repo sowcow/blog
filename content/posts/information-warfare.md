@@ -69,5 +69,6 @@ convinced me that there is more stuff that is going-on.
 Previously I gotten to like some more humane direction (that is not cheap or manipulative).
 But then some exposure to some other stories moved me away from simple stories.
 So things are a mess.
+But only this understanding puts me in my place.
 
 I definetly need to use some tools of thinking here.
