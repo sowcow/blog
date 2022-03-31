@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Information Warfare - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="I haven&rsquo;t read anything on this. So this is just toying around for the sake of seeing where it leads.
+General I assume thinking requires certain context being fixed. So by affecting this context they affect following thinking.
+Scales of Stories/Thinking  high-level: geographical: alliances, resources middle level: normal human thinking in the more understandeable/predictable world mechanical scale: short-term or magical thinking in unpredictable conditions  Dehumanization My guess is that propaganda institutions pollute the middle level and provide conditions for thinking in other levels.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.68.3" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Information Warfare</h1>
+    <div class="post-meta">Alexander · March 31, 2022</div>
+  </header>
+  <div class="post-content"><p>I haven&rsquo;t read anything on this.
+So this is just toying around for the sake of seeing where it leads.</p>
+<h1 id="general">General</h1>
+<p>I assume thinking requires certain context being fixed.
+So by affecting this context they affect following thinking.</p>
+<h1 id="scales-of-storiesthinking">Scales of Stories/Thinking</h1>
+<ol>
+<li>high-level: geographical: alliances, resources</li>
+<li>middle level: normal human thinking in the more understandeable/predictable world</li>
+<li>mechanical scale: short-term or magical thinking in unpredictable conditions</li>
+</ol>
+<h1 id="dehumanization">Dehumanization</h1>
+<p>My guess is that propaganda institutions pollute the middle level
+and provide conditions for thinking in other levels.</p>
+<h1 id="how-media-must-be-operating-on-levels">How Media Must be Operating on Levels</h1>
+<ol>
+<li>Statues on the TV performing rituals, high conceptions, limited access</li>
+<li>Noise/nonsense, abuse of instincts of subjects</li>
+<li>Fear/unpredictability spreading from the media</li>
+</ol>
+<p>(I bet this is only one of ways to think about that)</p>
+<p>(Also there may be different ways of dehumanization, for example
+I believe it is dehumanization when subjects thinking attempts are interrupted
+by nonsense and sofistry, but that is less relevant now even if pouplar too)</p>
+<p>(And maybe there is actual warfare between different such systems)</p>
+<hr>
+<h1 id="the-real-world">The Real World</h1>
+<p>Given these different levels it is impossibe to have a single &ldquo;true story&rdquo;.</p>
+<p>It is possible to have &ldquo;good-enough evidence that supports/dismisses stories about facts&rdquo;.</p>
+<p>So there are competing stories and competing facts.</p>
+<p>But also there is the idea about class-warfare and ideology/language
+serving that.</p>
+<p>So there are competing stories, competing facts and cometing teams on top of that pile.</p>
+<p>So politics/media are bound to be a mess if unconstained in their ways.</p>
+<hr>
+<h1 id="on-what-this-reflects">On What This Reflects</h1>
+<p>There was a long trip with a taxist with who it
+looked like I had an agreement at the time.
+But somehow he without really doing anything special but with a couple of random phrases
+convinced me that there is more stuff that is going-on.</p>
+<p>Previously I gotten to like some more humane direction (that is not cheap or manipulative).
+But then some exposure to some other stories moved me away from simple stories.
+So things are a mess.</p>
+<p>I definetly need to use some tools of thinking here.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/mess">mess</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2022 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
