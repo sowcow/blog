@@ -21,7 +21,7 @@ So by affecting this context they affect following thinking.
 1. middle level: normal human thinking in the more understandeable/predictable world
 1. mechanical scale: short-term or magical thinking in unpredictable conditions
 
-# Dehumanization
+# Dehumanization*
 
 My guess is that propaganda institutions pollute the middle level
 and provide conditions for thinking in other levels.
@@ -72,3 +72,37 @@ So things are a mess.
 But only this understanding puts me in my place.
 
 I definetly need to use some tools of thinking here.
+
+---
+
+# UPD: 9th of April (*)
+
+Normally I have a suspicion to langage like that.
+Anything de- or anti- is so much likely to be BS or used by confused people.
+
+What I meant above was from a single-brain activity point of view.
+But there are other things on different scales.
+
+The question of what is human arises because of that.
+And there are so many fake assumptions that the question is not obvious.
+
+One popular naming somebody have came-up with is "orcs".
+Both funny and having some point naming.
+I imagine it becoming offensive and then all related books being banned.
+
+Also there are conformists obviously.
+
+And it was never a secret that different characters exist.
+But now since the war-matter is not some arbitrary distinction
+that is possible to ignore.
+This distinction as it looks now touches human-nature.
+
+Anyway de-humanization conflates meanings of having a human in the first place and then doing some dark magic to them.
+And the meaning doing something that in historic terms produces
+less humane populations.
+
+The second meaning is what is meant most likely by smarter talking heads.
+The first meaning is how subjects should like to see it
+because it flatters them and moves-away the responsibility.
+
+And what I mentioned is just an angle to the space of logics and decision-making.
