@@ -101,8 +101,10 @@ Anyway de-humanization conflates meanings of having a human in the first place a
 And the meaning doing something that in historic terms produces
 less humane populations.
 
-The second meaning is what is meant most likely by smarter talking heads.
+The second meaning is what is meant most likely by more analytical talking heads.
 The first meaning is how subjects should like to see it
 because it flatters them and moves-away the responsibility.
+Also the first one should appeal to those who prefer to see human nature
+to be good and need to hear an explanation of what is observed.
 
 And what I mentioned is just an angle to the space of logics and decision-making.
