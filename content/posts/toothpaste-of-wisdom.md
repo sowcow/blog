@@ -12,7 +12,7 @@ The problem is that I have a couple of bottles saved
 and they stand on a visible place too.
 
 So I follow trends and all that
-but the paste keeps demanding more...
+but my paste keeps demanding more...
 
 So I thought what if I buy not the cheap paste
 but some premium version, will the banner disappear?
