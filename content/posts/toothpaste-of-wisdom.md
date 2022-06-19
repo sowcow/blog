@@ -24,5 +24,5 @@ Also these tips should be new every day.
 
 Like you squeeze-out rolled pieces of paper and they give you
 financial advice.
-And when you need it in the middle of the day - just use a toothpick.
+And when you need it in the middle of the day, you know - just use a toothpick:
 "Buy the dip!" and all that.
