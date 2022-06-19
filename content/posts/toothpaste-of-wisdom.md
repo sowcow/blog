@@ -22,7 +22,7 @@ For advice on how to save sanity it is already too late
 but maybe tips on how to save time or money would get attention.
 Also these tips should be new every day.
 
-Like you squeeze-out rolled pieces of paper and they give you
+Like you squeeze-out paste with rolled pieces of paper and they give you
 financial advice.
-And when you need a quick advice in the middle of the day, you know - just use a toothpick:
+And when in the middle of the day you need an advice quickly - just use a toothpick:
 "Buy the dip!" and all that.
