@@ -31,8 +31,8 @@ It is now or never I should write-down what I thought about it.
 
 ## Quality
 
-- all this baits you in for partial-rewatch even though generally
-  there is some empuzzlement and repulsion present in generally
+- all this baits you in for partial-rewatch even though 
+  there is some empuzzlement and repulsion present as a general feeling
   but the director did his work
   by quality in all regards to cover for the theme effect;
 - the movie is like a shopping stall of goods about directing things
@@ -72,9 +72,9 @@ After watching it I got to check comments on a popular site and
 they can't be reacted upon other than by the phrase "this is hopeless!".
 Also given that the movie was initilly taken-down by public and
 how that affected director's career.
-I like to think that the director reselved the
+I like to think that the director reserved the
 honorable place of the initial sequence for them:
-- the standards of public are not different ones of that prosutitute: how much cash is in it?
+- the standards of public are not different from ones of that prosutitute: how much cash is in it?
 - public is incapable to recollect what they have seen and unable to recognize the director like the grimacing lady on the stairs;
 - the trash bin where director throws packaging form the used film
 is where public opinions belong;
