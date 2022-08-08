@@ -53,7 +53,7 @@ That "he is the director" I understood it (but not at that moment)
   - that the director is not recognized (see part about the initial sequence)
 
 One key scene: breaking window and cops hiding say: "- It is just a camera. - Is it?".
-(I think aggressiveness of camera mentioned by Scorcese stems from
+(I think aggressiveness of camera mentioned by Scorsese stems from
 this scene and the question asked by the director directly)
 
 ## Ending Interpretation
