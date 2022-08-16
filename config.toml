@@ -9,3 +9,6 @@ theme = "paper"
     identifier = "about"
     name = "Home"
     url = '/'
+
+[markup.goldmark.renderer]
+unsafe= true
