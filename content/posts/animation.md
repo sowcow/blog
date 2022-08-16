@@ -1,5 +1,5 @@
 ---
-title: "Pictures"
+title: "Animation"
 date: 2022-08-16T08:17:22+02:00
 draft: false
 author: Alexander
