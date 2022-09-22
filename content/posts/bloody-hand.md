@@ -24,8 +24,8 @@ It is almost being advertised given it's central place on the table.
 With such advertisement Kunstkamera can't wait for another showpiece.
 Genocide museums, modern art collectors and "capitalist" investors will fight to get it.
 
-And third world dictators would fear it like a plague because it brings bad luck.
-So they will try to get it too so it can be sent to some enemy dictator in a box.
-Or put under their door.
+While third world dictators fear it like a plague because it brings bad luck.
+Still they will try to get it too so it can be sent to some other enemy dictator in a box.
+Or be put under the door.
 
 The exhibition will travel the world this way.
