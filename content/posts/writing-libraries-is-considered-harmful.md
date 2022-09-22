@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - fun-readings
+- ruby
 ---
 
 All similarities are accidental.
