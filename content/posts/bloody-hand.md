@@ -22,7 +22,7 @@ It is simple experience: not loaded, not distracted, but plain and simple.
 
 It is almost being advertised given it's central place on the table.
 With such advertisement Kunstkamera can't wait for another showpiece.
-World museums, big collectors and capital investors will fight to get it.
+Genocide museums, modern art collectors and "capitalist" investors will fight to get it.
 
 And third world dictators would fear it like a plague because it brings bad luck.
 So they will try to get it too so it can be sent to some enemy dictator in a box.
