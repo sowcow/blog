@@ -61,4 +61,4 @@ Evidence of cost paid.
 
 Vandalized pictures are the evidence of barbarians inside the gates too.
 Europe has an opportunity to wake-up from the current sleep too.
-And by paying the cost to build a monument of the new dawn of Europe too.
+And by paying the cost to build a monument of the new dawn and new epoch.
