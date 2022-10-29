@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Vandals - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Incidents I got this mixed intuition about recent vandals activation. They happen to act right inside walls of Western public cultural institutions. So I wanted to untangle it.
+Analysis My intuition (somewhat outsider) sees them as examples of hard deflection from the original Western values. And this deflection happens at the time of bigger challenges and higher-priority issues. And this context makes it look both pathetic in comparison and out of touch too.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.92.2" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Vandals</h1>
+    <div class="post-meta">Alexander · October 29, 2022</div>
+  </header>
+  <div class="post-content"><h2 id="incidents">Incidents</h2>
+<p>I got this mixed intuition about recent vandals activation.
+They happen to act right inside walls of Western public cultural institutions.
+So I wanted to untangle it.</p>
+<h2 id="analysis">Analysis</h2>
+<p>My intuition (somewhat outsider) sees them as examples of hard deflection from the original Western values.
+And this deflection happens at the time of bigger challenges and higher-priority issues.
+And this context makes it look both pathetic in comparison and out of touch too.</p>
+<p>I should say that I have different cultural context to say the least.
+So there is a chance that among the target audience in the West it does not looks as brutally pathetic as it is.</p>
+<p>So what I see is the combination of:</p>
+<ol>
+<li>deflection at the time of challenges</li>
+<li>distraction from higher-priority matter</li>
+<li>out of touchiness, lack of ideas</li>
+<li>thus pathetic look also</li>
+<li>unethical in deeds but covering with words and talking about ethics surely</li>
+</ol>
+<p>It reminds me something.
+And is really asking for checking things out for external influence.</p>
+<p>Alternatively I can imagine this to be a sign of exhaustion of ecological movement.
+Because of how badly they delivered Germany into dependence from Russian oil
+and now hysterical denial is the only thing that is left for them?</p>
+<p>Also I believe there is a word in the German like &ldquo;verscheißen&rdquo; or so
+and it means to fail spectacularly and it was quite popular thing to do in some sense.
+So maybe that fashion returns?</p>
+<h2 id="solution">Solution</h2>
+<p>It is easy to solve.</p>
+<p>You are not allowed to bring dogs inside many buildings because they can do some sort of &ldquo;verscheißen&rdquo;.
+So uncultured humans should also be disallowed to enter or only allowed
+under full responsibility of an able person.</p>
+<p>While average IQ declines you either separate the bad apples or decrease quality for good people too.
+Current trend is still on devaluation.
+I wonder how long it can continue.</p>
+<h2 id="perspective">Perspective</h2>
+<p>As in Ukraine. Recognizing that when justice is restored and debts are paid.
+Then ruined buildings and landscapes of current can be seen as monuments of sovereignty and self-determination.
+Evidence of cost paid.</p>
+<p>Vandalized pictures are the evidence of barbarians inside the gates too.
+Europe has an opportunity to wake-up from the current sleep too.
+And by paying the cost to build a monument of the new dawn of Europe too.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/new-materials">new-materials</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2022 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
