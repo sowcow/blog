@@ -33,8 +33,8 @@ So what I see is the combination of:
 It reminds me something.
 And is really asking for checking things out for external influence.
 
-Alternatively I can imagine this to be a sign of exhaustion of ecological movement.
-Because of how badly they delivered Germany into dependence from Russian oil
+Alternatively I can imagine this to be a sign of exhaustion of ecological activism movement.
+Because of how badly they delivered Germany into dependence from Russia 
 and now hysterical denial is the only thing that is left for them?
 
 Also I believe there is a word in the German like "verscheißen" or so
