@@ -35,5 +35,5 @@ Then reflections of sun in windows and the group moving together in one directio
 Generally it is not being fully direct and one has to discover some meanings and some smaller can be left undecided.
 Yet clues are accentuated so it looks as if by intent the main question is meant to be resolved on the first watch.
 The movie also follows different representatives of soviet society.
-I think clues and accents show that it was meant to be understood, remembered and being useful for less sophisticated classes too.
-I like it when creativity goes in hand with humanity while being true to reality.
+I think addittional clues and accents show that it was meant to be understood, remembered and being useful for less sophisticated classes too.
+I like it when creativity goes hand in hand with humanity while being true to reality.
