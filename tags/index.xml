@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 09:21:58 +0100</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 05:17:10 +0100</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>movies</title>
+      <link>https://sowcow.github.io/blog/tags/movies/</link>
+      <pubDate>Sun, 27 Nov 2022 05:17:10 +0100</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/movies/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>notions</title>
       <link>https://sowcow.github.io/blog/tags/notions/</link>
@@ -211,15 +220,6 @@
       <pubDate>Sat, 12 Feb 2022 12:15:56 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/chaplin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movies</title>
-      <link>https://sowcow.github.io/blog/tags/movies/</link>
-      <pubDate>Sat, 12 Feb 2022 12:15:56 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/movies/</guid>
       <description></description>
     </item>
     
@@ -679,15 +679,6 @@
       <pubDate>Sat, 22 May 2021 09:58:54 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/this/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://sowcow.github.io/blog/tags/movie/</link>
-      <pubDate>Mon, 26 Apr 2021 20:20:15 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/movie/</guid>
       <description></description>
     </item>
     
