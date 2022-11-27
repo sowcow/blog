@@ -10,8 +10,8 @@ tags:
 # Summary
 
 Good soviet movie about middle-aged males gathering for a trip.
-The viewer has lots of moments of reflection on deep matters of life.
-Offering nostalgia and sense of time.
+The viewer has lots of moments of reflection on deep matters of existence and life.
+Offering nostalgia and sharpened sense of time.
 
 # Context
 
@@ -31,3 +31,9 @@ Music in the movie definitely tells one when things are not what they seem.
 Great night scene idea with fires an a bank and plane reflection in the river
 is the first time it visually resolves the question of parade of planets.
 Then reflections of sun in windows and the group moving together in one direction is the parade itself.
+
+Generally it is not being fully direct and one has to discover some meanings and some smaller can be left undecided.
+Yet clues are accentuated so it looks as if by intent the main question is meant to be resolved on the first watch.
+The movie also follows different representatives of soviet society.
+I think clues and accents show that it was meant to be understood, remembered and being useful for less sophisticated classes too.
+I like it when creativity goes in hand with humanity while being true to reality.
