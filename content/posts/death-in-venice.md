@@ -5,7 +5,7 @@ draft: false
 author: Alexander
 tags:
 - art
-- movie
+- movies
 ---
 
 # Analysis
