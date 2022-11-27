@@ -4,7 +4,7 @@ date: 2021-04-26T20:20:15+05:00
 draft: false
 author: Alexander
 tags:
-- movie
+- movies
 ---
 
 Watched Obsession by Visconti.
