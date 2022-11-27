@@ -38,9 +38,10 @@ In a way one respects the determination.
 Then as a bonus there is also this odd innocence when he does not know what he have done recently.
 But then there is a bunch of rewritten memories so one can see
 why this obliviousness and determination would make sense from more psychological point of view.
+So under the surface is quite bad mess.
 
 Everybody uses the protagonist here and there.
-But he uses them too because they assist in constructing/execution of "his" scenario.
+But he uses them too because they assist in constructing/execution of "his" scenario and they are part of the external system.
 
 The protagonist does not like to remember he likes to forget.
 By closing the eyes in the past he solves unwinding of the impossible maze in the current.
