@@ -31,8 +31,12 @@ in isolation from the first watch while always seeking to understand what is goi
 
 I like how tattoos got their own living on a body.
 But then there are index-cards and beer-mats for communication with others and oneself.
-I bet bar scenes were meant to be comical but probably I was watching them too seriously.
-I guess this higher seriousness is as side-effect of having this reverse-patchwork format.
+I wonder how this is not a comedy and probably I was watching it too seriously.
+There is way more humor than what I was able to appreciate because I was watching it too seriously.
+I was watching it a second time probably and was more like a detective to have something to write after.
+Humor in the movie is absurd yet consistent with a serious plot.
+If Nolan did not emphasize the depth of the topic the movie could compete with some Guy Ritchie stuff
+but maybe the first-watch impression is more like that which would be cool.
 
 In a way one respects the determination.
 Then as a bonus there is also this odd innocence when he does not know what he have done recently.
