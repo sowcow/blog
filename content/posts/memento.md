@@ -36,7 +36,7 @@ There is way more humor than what I was able to appreciate because I was watchin
 I was watching it a second time probably and was more like a detective to have something to write after.
 Humor in the movie is absurd yet consistent with a serious plot.
 If Nolan did not emphasize the depth of the topic the movie could compete with some Guy Ritchie stuff
-but maybe the first-watch impression is more like that which would be cool.
+but maybe the first-watch impression is more like that which is cool.
 
 In a way one respects the determination.
 Then as a bonus there is also this odd innocence when he does not know what he have done recently.
