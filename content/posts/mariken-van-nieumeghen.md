@@ -27,7 +27,7 @@ Let's check Wikipedia and it quotes the 1910 book by A. E. Waitie:
 Mariken in the beginning of the movie contemplates questions of life and not death while she lay among dead.
 
 But if one reads closer to the text then most likely the following scene is just highlighted 
-as one having a puzzle and a pattern too.
+as one having a puzzle, pattern and certain symbolic representation irregardless of cards.
 I like how in visual text one puts exclamination before.
 
 This is just one very partial snapshot demonstrating boldness and quality of the director's work.
