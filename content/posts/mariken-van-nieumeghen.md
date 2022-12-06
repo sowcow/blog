@@ -9,8 +9,7 @@ tags:
 ---
 
 Deep and raw fish of a picture with strokes of celestial.
-Ignore fools that say it is accidental.
-They just try to say that it is not positive using other peoples language.
+May be too dark at times and thus not for all audiences and occasions.
 
 The director is a master of visual language.
 This is why the movie is rewatcheable and rich.
@@ -27,4 +26,4 @@ Let's check Wikipedia and it quotes the 1910 book by A. E. Waitie:
 
 Mariken in the beginning of the movie contemplates questions of life and not death while she lay among dead.
 
-This is just one snapshot telling about boldness and quality of the director's work.
+This is just one very partial snapshot demonstrating boldness and quality of the director's work.
