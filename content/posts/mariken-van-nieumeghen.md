@@ -34,7 +34,7 @@ There is a pleasure of mind in discovery.
 More limited look still offers a lot.
 If one reads closer to the text at hand then the exclamation highlights the following scene as one needing additional
 attention and thus another look.
-Because it has a puzzle, a pattern and certain symbolic representation.
+Because it has a puzzle, a pattern and an abstraction.
 I like how in visual text one puts exclamation before the content.
 
 This is just one example demonstrating boldness and quality of the director's work.
