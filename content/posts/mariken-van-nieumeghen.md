@@ -32,7 +32,7 @@ And this exclamation gives the mind the anchor to reunite the image there.
 There is a pleasure of mind in discovery.
 
 More limited look still offers a lot.
-If one reads closer to the text then the exclamation highlights the following scene as one needing additional
+If one reads closer to the text of the scene in isolation then the exclamation highlights the following scene as one needing additional
 attention and thus another look.
 Because it has a puzzle, a pattern and certain symbolic representation.
 I like how in visual text one puts exclamation before the content.
