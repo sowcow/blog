@@ -9,7 +9,7 @@ tags:
 ---
 
 Deep and raw fish of a picture with strokes of celestial.
-May be too dark at times and thus not for all audiences and occasions.
+May be dark at times and thus not for any audience and mood.
 
 The director is a master of visual language.
 This is why the movie is rewatcheable and rich.
@@ -26,8 +26,15 @@ Let's check Wikipedia and it quotes the 1910 book by A. E. Waitie:
 
 Mariken in the beginning of the movie contemplates questions of life and not death while she lay among dead.
 
-But if one reads closer to the text then most likely the following scene is just highlighted 
-as one having a puzzle, pattern and certain symbolic representation irregardless of cards.
-I like how in visual text one puts exclamination before.
+There may be a feeling that this interaction is far fetched.
+But there are pieces of the picture outside the scene.
+And this exclamation gives the mind the anchor to reunite the image there.
+There is a pleasure of mind in discovery.
 
-This is just one very partial snapshot demonstrating boldness and quality of the director's work.
+More limited look still offers a lot.
+If one reads closer to the text then the exclamation highlights the following scene as one needing additional
+attention and thus another look.
+Because it has a puzzle, a pattern and certain symbolic representation.
+I like how in visual text one puts exclamation before the content.
+
+This is just one example demonstrating boldness and quality of the director's work.
