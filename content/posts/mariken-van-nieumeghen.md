@@ -12,7 +12,7 @@ Deep and raw fish of a picture with strokes of celestial.
 May be dark at times and thus not for any audience and mood.
 
 The director is a master of visual language.
-This is why the movie is rewatcheable and rich.
+This is why the movie is rewatchable and rich.
 
 I'll just mention one scene.
 
@@ -29,12 +29,15 @@ Mariken in the beginning of the movie contemplates questions of life and not dea
 There may be a feeling that this interaction is far fetched.
 But there are pieces of the picture outside the scene.
 And this exclamation gives the mind the anchor to reunite the image there.
+
+My favorite genre is the one where exclamation marks pose questions
+and where doorways frame cards.
 There is a pleasure of mind in discovery.
 
-More limited look still offers a lot.
-If one reads closer to the text at hand then the exclamation highlights the following scene as one needing additional
+The depth is created by progression because even more limited look offers insights.
+When one reads closer to the text at hand then the exclamation highlights the following scene as one needing additional
 attention and thus another look.
 Because it has a puzzle, a pattern and an abstraction.
-I like how in visual text one puts exclamation before the content.
+In visual text exclamation marks are put before sentences but ultimately in the middle.
 
 This is just one example demonstrating boldness and quality of the director's work.
