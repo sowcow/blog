@@ -14,7 +14,7 @@ tags:
 My understanding of mechanics behind zen koans is that one gets answers to any questions they have thought about.
 The answer one gets is given in understandable language and in relevance to the situations one deals with.
 
-One Russian translator of ancient texts on a Buddhism forum translated the topic statement with the meaning
+One Russian translator of ancient texts on a Russian Buddhism forum translated the topic statement with the meaning
 that the great city has no outskirts.
 And it makes sense in it's way.
 
@@ -33,7 +33,9 @@ The difference in productivity is the same as the difference in writing posts ve
 
 # Soviet Zen
 
-Potential disclaimer: Some images here It may happen that I got very fast so it may be that I accidentally stole them from Pelevin. Whether this is the case or not there is some spiritual inheritance from his writing and from times absurdity.
+Potential disclaimer: Some images here I got fast so it may be that I accidentally stole them from Pelevin that I read back in a day.
+Whether this is the case or not I see possible influence but also there are other pictures and direct
+experiences one gets that expose bottomless absurdity that is core here.
 
 Another context would be somebody who consumes propaganda daily.
 Soviet++ times.
