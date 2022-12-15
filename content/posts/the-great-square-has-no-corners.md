@@ -26,7 +26,7 @@ I remember the answer to be strong and with effects.
 I cannot remember the answer itself.
 Probably it was paired to some priorities shift so the wording does not really matter.
 
-A side note that there are those who seek effects by themselves in such circles.
+As a side note there are those who seek effects by themselves in such circles.
 And I graduated from that early.
 But some echo finds itself in other forms that are just more productive as I see it.
 The difference in productivity is the same as the difference in writing posts versus writing on your hands.
