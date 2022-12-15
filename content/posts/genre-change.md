@@ -38,5 +38,6 @@ The depth is created by different axes and different freedom.
 # Abstract
 
 I must say that it is a perfect sequence.
-The negative apex when seen already from the right context is recalled as interestingly directed right.
+The negative apex when seen already from the right context is recalled as interestingly directed right
+by incorporating disgust response.
 I highlighted only more monumental points in the post and all evaluations are context-dependent.
