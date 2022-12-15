@@ -38,4 +38,5 @@ The depth is created by different axes and different freedom.
 # Abstract
 
 I must say that it is a perfect sequence.
-The negative apex from the right angle looks right.
+The negative apex when seen already from the right context is recalled as strangely vaguely directed right.
+I highlighted only more monumental points in the post and all evaluations are context-dependent.
