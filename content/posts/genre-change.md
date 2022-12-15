@@ -14,6 +14,8 @@ tags:
 - freedom
 ---
 
+# Path
+
 Movie-wise personally the 2022 was marked by the sign of genre change.
 It has started with the Witch Burned Alive enchanting piece.
 It progressed into the dark-aesthetics and contrasting world of Mariken van Nieumeghen.
@@ -32,3 +34,8 @@ And the reversal of a kind is there.
 The turn is marked by the Chaplin's A Days Pleasure.
 It is fun, smart and has just enough depth.
 The depth is created by different axes and different freedom.
+
+# Abstract
+
+I must say that it is a perfect sequence.
+The negative apex from the right angle looks right.
