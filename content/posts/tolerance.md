@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - notions
+- collective
 ---
 
 From a perspective of a random non-educated

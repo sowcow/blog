@@ -10,6 +10,8 @@ tags:
 - 2022
 - year
 - notions
+- depth
+- freedom
 ---
 
 Movie-wise personally the 2022 was marked by the sign of genre change.
