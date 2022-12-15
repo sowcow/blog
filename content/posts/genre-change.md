@@ -32,7 +32,7 @@ Brighter genres are seen with new eyes.
 And the reversal of a kind is there.
 
 The turn was crowned by the Chaplin's A Days Pleasure.
-It is fun, smart and has just enough depth.
+It is fun, more than smart and has just enough depth.
 The depth is created by different axes and different freedom.
 
 # Abstract
