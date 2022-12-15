@@ -6,6 +6,8 @@ author: Alexander
 tags:
 - movies
 - Stelling
+- notions
+- depth
 ---
 
 Deep and raw fish of a picture with strokes of celestial.

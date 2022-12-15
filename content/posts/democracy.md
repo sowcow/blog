@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - notions
+- collective
 ---
 
 As I understand today the notion is applied to anything where elections are not obviously bought/stolen/taken by force.
