@@ -31,7 +31,7 @@ But there are pieces of the picture outside the scene.
 And this exclamation gives the mind the anchor to reunite the image there.
 
 My favorite genre is the one where exclamation marks pose questions
-and where doorways frame puzzles.
+and where doorways frame compositions.
 There is a pleasure of mind in discovery.
 
 The depth is created by progression because even more limited look offers insights.
