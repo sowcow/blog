@@ -31,7 +31,7 @@ kind of apex looses it's magics and is understood more as a corner.
 Brighter genres are seen with new eyes.
 And the reversal of a kind is there.
 
-The turn is marked by the Chaplin's A Days Pleasure.
+The turn was crowned by the Chaplin's A Days Pleasure.
 It is fun, smart and has just enough depth.
 The depth is created by different axes and different freedom.
 
