@@ -33,28 +33,29 @@ The difference in productivity is the same as the difference in writing posts ve
 
 # Soviet Zen
 
-Potential disclaimer: Some images here I got fast so it may be that I accidentally stole them from Pelevin that I read back in a day.
+Potential disclaimer: Some images here I got unexpectedly fast so it may be that I accidentally stole them from Pelevin that I read back in a day.
 Whether this is the case or not I see possible influence but also there are other pictures and direct
 experiences one gets that expose bottomless absurdity that is core here.
 
 Another context would be somebody who consumes propaganda daily.
 Soviet++ times.
 At the time TV sets were black and white.
-With heavy glass screens that are filled with gases inside.
+With heavy glass screens that are filled with gas inside.
 So the shape of the screen itself was rounded while the box of the TV was rectangular.
 Also there were circular lenses to increase size of the screen right before it on the earliest exemplars.
 And propaganda itself does round every corner like it does not exist
 while trying to steal attention by every corner of a circle out there.
 
-So for that soviet person the great square is the one that is seen through
-the invisible circle of specialists who did their alchemy on it.
-After consuming this, every enlightened soviet citizen demonstrated surprising skill in seeing all
-shapes of the universe as both circles and squares simultaneously!
+Every soviet citizen is trained in zen regularly by
+sitting still and looking at the great square
+that is refracted through the circle of invisible workers.
+Mandatory enlightenment guarantees that soon one
+starts to see every shape of the universe as both circles and squares simultaneously.
 And the only time this mystical duality is allowed to collapse to a specific shape is
 when when the party line happens to cross it.
 
-Even after the Soviet Union collapsed itself many adepts among people still practice
-the rituals necessary and methods of seeing things.
+Even after the Soviet Union collapsed itself many adepts among people still covertly practice
+the rituals to support the ability that is so necessary for survival.
 
 # Analysis
 
