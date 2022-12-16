@@ -22,9 +22,10 @@ It progressed into the dark-aesthetics and contrasting world of Mariken van Nieu
 
 Then I hit the inverse apex of anti-aesthetics in re-watching some old clip on some odd verses by Epifancev.
 Given new tools this was readable and superficial/catchy but with presence of relatively sophisticated technology.
+Surely there can be different readings but I got one slice that makes experience easy and does not cause any kind of stackoverflows while having enough consistency and enough new learnings.
 Given me being outsider to these crafts I got impressed by the experience technology used there.
-Both in video and verses.
-Yet this time the experience was without the "noise in torn-out ears without head" in the process.
+Both in verses and the video on top of them.
+This time the experience was without the "noise in torn-out ears without head" in the process.
 
 Then given enough of diversified input irregardless of flashiness or smartness of images this
 kind of apex looses it's magics and is understood more as a corner.
