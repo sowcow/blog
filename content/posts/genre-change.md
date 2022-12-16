@@ -27,6 +27,7 @@ Given me being outsider to these crafts I got impressed by the experience techno
 Both in verses and the video on top of them.
 This time the experience was without the "noise in torn-out ears without head" in the process
 and this more professional-like clear-minded look produces no less impression.
+Although I still visibly have a prejudice against this approach maybe because it is finite, maybe because it implies some level of organization.
 
 Then given enough of diversified input irregardless of flashiness or smartness of images this
 kind of apex looses it's magics and is understood more as a corner.
