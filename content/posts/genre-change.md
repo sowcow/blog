@@ -25,7 +25,8 @@ Given new tools this was readable and superficial/catchy but with presence of re
 Surely there can be different readings but I got one slice that makes experience easy and does not cause any kind of stackoverflows while having enough consistency and enough new learnings.
 Given me being outsider to these crafts I got impressed by the experience technology used there.
 Both in verses and the video on top of them.
-This time the experience was without the "noise in torn-out ears without head" in the process.
+This time the experience was without the "noise in torn-out ears without head" in the process
+and this more professional-like clear-minded look produces no less impression.
 
 Then given enough of diversified input irregardless of flashiness or smartness of images this
 kind of apex looses it's magics and is understood more as a corner.
