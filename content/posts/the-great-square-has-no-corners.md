@@ -34,8 +34,8 @@ The difference in productivity is the same as the difference in writing posts ve
 # Soviet Zen
 
 Potential disclaimer: Some images here I got unexpectedly fast so it may be that I accidentally stole them from Pelevin that I read back in a day.
-Whether this is the case or not I see possible influence but also there are other pictures and direct
-experiences one gets that expose bottomless absurdity that is core here.
+Whether this is the case or not I see possible influence
+and the absurdity of times inspired multiple pictures and texts.
 
 Another context would be somebody who consumes propaganda daily.
 Soviet++ times.
