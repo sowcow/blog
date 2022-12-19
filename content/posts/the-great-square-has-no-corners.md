@@ -55,7 +55,7 @@ And the only time this mystical duality is allowed to collapse to a specific sha
 when when the party line happens to cross it.
 
 Even after the Soviet Union collapsed itself many adepts among people still covertly practice
-the rituals to support the ability that is so necessary for survival.
+all the rituals of thinking and maintain the altar in their head.
 
 # Analysis
 
