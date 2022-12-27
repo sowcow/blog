@@ -35,6 +35,7 @@ in Belarus and Russia.
 On the one hand the plot does not give too much of false promise when the revolution is crushed.
 On the other hand it still may look like it offers something unclear in the end.
 But I assume it is to close the music box on a positive note for it's function is complete then.
+And probably this puts the positive song into the memory to hold as a summary.
 
 Another lacking thing it seems intelligence too.
 Probably Javert and the state represented it.
