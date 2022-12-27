@@ -7,7 +7,7 @@ tags:
 - movies
 ---
 
-On the outside it is a music box that is visually interesitng and theatrical.
+On the outside it is a music box that is visually interesting and theatrical.
 When you open it you are there for multitude of melodies of crying among other serious and humorous lines.
 
 This may make an impression of some femininity aspect
@@ -15,19 +15,19 @@ or certain serious non-seriousness, naivete and oversimplification/cliche-even
 or even offensive to somebody's perception of normal and mirror-neurons abuse.
 
 Offended crowd is not the one worth listening to
-but still perception of such toys may need the right mindset that they don't posess.
+but still perception of such toys may need the right mindset that they don't possess.
 
 It can be perceived that often some personal boundaries or concern for status is missing.
 This allows the director/author to show some unusual drama openly/closely.
 
 Concerning serious lines the biggest character conflict is between
 Javert and Valjean.
-Both are driven by their drama and both posess character more than would be rational to have.
+Both are driven by their drama and both possess character more than would be rational to have.
 So they are principled.
 Javert represents the static/order side and his tower collapses in the end.
-Valjean represents dynamic/adptable side and he starts new life every now and then and even after his death.
+Valjean represents dynamic/adaptable side and he starts new life every now and then and even after his death.
 
-Concerning humour the funny crooks couple is the entertaining bit in that too-serious and dramatic world.
+Concerning humor the funny crooks couple is the entertaining bit in that too-serious and dramatic world.
 
 There are lots of low-life behaviors in general. Different martyrdom too.
 And I'm not a fan of any martyrdom given how it plays out for worthy and principled individuals
