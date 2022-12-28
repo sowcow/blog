@@ -7,7 +7,7 @@ tags:
 - movies
 ---
 
-On the outside it is a music box that is visually interesting and theatrical.
+On the outside it is a music box that is visually tasty and theatrical.
 When you open it you are there for multitude of melodies of crying among other serious and humorous lines.
 
 This may make an impression of some femininity aspect
