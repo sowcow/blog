@@ -39,3 +39,8 @@ It looks like a drawing by Piet Hein was interpreted by Igor Guberman and then a
 театры, бардаки, консерватории:<br />
 бормочут и елозят россияне,<br />
 попав под колесо своей истории.<br />
+
+# more
+
+Having one obvious but not stated piece of interpretation in place makes it fit very well.
+And there are other text pieces by Igor Guberman that fit exactly this picture!
