@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/inheritance/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/intellectual/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/textual/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/visual/</loc>
+    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/emilie-muller/</loc>
     <lastmod>2023-01-10T16:44:42+01:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-01-10T16:44:42+01:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2023-01-10T16:44:42+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-01-10T16:44:42+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-01-10T16:44:42+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/depth/</loc>
@@ -279,9 +291,6 @@
     <lastmod>2022-01-03T13:02:48+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/ghost-dragon/</loc>
-    <lastmod>2021-12-05T17:22:19+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/visual/</loc>
     <lastmod>2021-12-05T17:22:19+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/arts/</loc>
