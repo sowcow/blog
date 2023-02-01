@@ -44,3 +44,5 @@ It looks like a drawing by Piet Hein was interpreted by Igor Guberman and then a
 
 Having one obvious but not stated piece of interpretation in place makes it fit very well.
 And there are other text pieces by Igor Guberman that fit exactly this picture!
+Seeing this underlying "structure" is what really allows you to observe the creative process
+of the author and it shows additional details that are not visible otherwise.
