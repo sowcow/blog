@@ -24,7 +24,9 @@ Igor Guberman writing is more open and costed him imprisonment in Soviet Union.
 Then the ultimate inheritance that surprised me the most was visual.
 It looks like a drawing by Piet Hein was interpreted by Igor Guberman and then applied to create a new piece that is still relevant to Russia.
 
-# by Piet Hein (translation for consistency)
+# by Piet Hein
+
+(translation by G. L. Vardenga)
 
 Лишь шутку в шутке замечать<br />
 И лишь серьезное в серьезном –<br />
@@ -45,4 +47,4 @@ It looks like a drawing by Piet Hein was interpreted by Igor Guberman and then a
 Having one obvious but not stated piece of interpretation in place makes it fit very well.
 And there are other text pieces by Igor Guberman that fit exactly this picture!
 Seeing this underlying "structure" is what opens the door to see the creative process
-of the author and it shows additional details that are not there by themselves.
+of the author and it shows additional nuances.
