@@ -26,5 +26,5 @@ It is scary to think about in what ways the moon could communicate the movement
 to people with pathological imagination.
 
 On the other hand the moon is not lying.
-Because there is that basic illusion in everybody's eye
+Because there is that basic illusion and a blind spot in everybody's eye
 and the moon silently reminds you now and then about it.
