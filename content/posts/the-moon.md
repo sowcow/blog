@@ -15,7 +15,7 @@ Movement perception and image perception are somewhat different systems as scien
 But the subjective experience has it's own weight.
 
 And if you are me then surely you would have five interesting hypotheses about how your
-movement vector could have been biased and start writing about it until evidence shows that it wasn't.
+movement vector could have been biased and start writing about it until evidence shows sufficiently that it wasn't.
 
 But to the core experience.
 
