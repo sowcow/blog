@@ -33,7 +33,7 @@ Respectable reading list at the end is one of the great features.
 # Paths Forward
 
 Also there are pre-made collections that overlap with the reading list.
-Gateway to the Great Books has notable excerpts and is meant to be easier path and it is around 5000 pages.
+Gateway to the Great Books has easier and shorter texts/excerpts and it is around 5000 pages.
 Great Books of the Western World has a ten years reading plan with it but it has more authors than one would expect.
 Also there is Syntopicon for the most demanding but topical paths through books.
 
@@ -41,7 +41,10 @@ In the GBWW I noticed that the choice of translation of Iliad might be not the m
 I'm not at the position to judge at this point but likely it was a compromise choice and possibly with accessibility in mind (what implies broad audience and lower barrier for the first read experience).
 
 Ten years plan starts with Plato's Apology.
-The first sentence has such mix of humor and seriousness that I'll go with the lighter path now.
+Given that I have heard it a couple of times,
+looking at the first sentence I see the gravity of it.
+
+The Gateway looks too light for my taste, will see how I can handle Plato.
 
 # Considerations
 
