@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>How to Read a Book - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Then I try to install a habit for reading from time to time. Previous attempt was Faust that weights 2 kilos because of big format and stylistically different but exceptional pictures on every other page. Such pictures were competing with images in the text but I enjoyed both. One notable experience such book can give is when you are trying to analyze through some text and turn the page and see some unexpected picture.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.92.2" />
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">How to Read a Book</h1>
+    <div class="post-meta">Alexander · February 8, 2023</div>
+  </header>
+  <div class="post-content"><h1 id="then">Then</h1>
+<p>I try to install a habit for reading from time to time.
+Previous attempt was Faust that weights 2 kilos because of big format and stylistically different but exceptional pictures on every other page.
+Such pictures were competing with images in the text but I enjoyed both.
+One notable experience such book can give is when you are trying to analyze through some text
+and turn the page and see some unexpected picture.
+Then this picture can sink your active attention as some exit that you grasp and appreciate like you would not expect.</p>
+<h1 id="now">Now</h1>
+<p>I have read How to Read a Book by Mortimer J. Adler and Charles van Doren.
+It is a practical book that keeps you interested.
+On one hand it offers a technique of analysis of texts.
+On the other hand it also has entertaining bits here and there.</p>
+<p>I got some interest in grammar lately.
+And I think this interest is one of contributors to reading interest too.
+Well written books have a virtue in demonstrating grammatical plays among other things.</p>
+<p>Respectable reading list at the end is one of the great features.</p>
+<h1 id="paths-forward">Paths Forward</h1>
+<p>Also there are pre-made collections that overlap with the reading list.
+Gateway to the Great Books has notable excerpts and is meant to be easier path and it is around 5000 pages.
+Great Books of the Western World has a ten years reading plan with it but it has more authors than one would expect.
+Also there is Syntopicon for the most demanding but topical paths through books.</p>
+<p>In the GBWW I noticed that the choice of translation of Iliad might be not the most exciting;
+I&rsquo;m not at the position to judge at this point but likely it was a compromise choice and possibly with accessibility in mind (what implies broad audience and lower barrier for the first read experience).</p>
+<p>Ten years plan starts with Plato&rsquo;s Apology.
+The first sentence has such mix of humor and seriousness that I&rsquo;ll go with the lighter path now.</p>
+<h1 id="considerations">Considerations</h1>
+<p>Of course these days one can not rely on classical books only and one has to mix in the latest scientific findings on topics that have a potential to undo all philosophical books as some say.
+But I assume it is not granted that one can see through biases and ideologies so having overview of what was there makes sense.</p>
+<p>Also AI can make access to information as available to make reading for information less practical.
+Anyway there is ability exercise, certain refined satisfaction and grammatical forms that I&rsquo;m after.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/textual">textual</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/books">books</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2023 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
