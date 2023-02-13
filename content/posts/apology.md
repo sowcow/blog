@@ -16,6 +16,8 @@ Humor lightens the reading while also bringing Socrates closer
 thus increasing the gravity of the question.
 
 Angles obvious to me:
+- character vs shadows
+- duty vs whatever
 - high cost of truth vs mass of conformists
 - individual ethics vs median masses mechanics/(im)morality
 - political/ideological: "undemocratic logic" of considering what is best as opposed to wherever masses go
