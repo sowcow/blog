@@ -4,6 +4,7 @@ date: 2023-02-08T14:21:13+01:00
 draft: false
 author: Alexander
 tags:
+- reading
 - textual
 - books
 ---
