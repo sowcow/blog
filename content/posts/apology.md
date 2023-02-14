@@ -35,7 +35,7 @@ I stopped at that point for whatever reason.
 
 I see how Aristophanes is not wrong in his own way.
 Simple good sounding ideas that are virtuous otherwise can have their own limited use.
-It seems they are not enough/reliable to bring better standards into political/collective setting.
+It seems they are not enough/reliable to bring better standards into political/collective setting. Even though great minds came very close to finally solving the question posed.
 
 Anyway initially I thought about going through classics by some stable plan.
 But the plan got destabilized because my views on philosophy got updated.
