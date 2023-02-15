@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/das-boot/</loc>
+    <lastmod>2023-02-15T18:39:15+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-02-15T18:39:15+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2023-02-15T18:39:15+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-02-15T18:39:15+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-02-15T18:39:15+01:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/tags/ancient/</loc>
     <lastmod>2023-02-13T18:39:57+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/apology/</loc>
     <lastmod>2023-02-13T18:39:57+01:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-02-13T18:39:57+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-02-13T18:39:57+01:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/reading/</loc>
-    <lastmod>2023-02-13T18:39:57+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-02-13T18:39:57+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/books/</loc>
@@ -48,9 +54,6 @@
     <lastmod>2023-01-31T19:42:38+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/emilie-muller/</loc>
-    <lastmod>2023-01-10T16:44:42+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2023-01-10T16:44:42+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/depth/</loc>
