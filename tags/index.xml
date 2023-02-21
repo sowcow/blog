@@ -8,11 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Feb 2023 10:43:02 +0100</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>whatever</title>
-      <link>https://sowcow.github.io/blog/tags/whatever/</link>
+      <title>architecture</title>
+      <link>https://sowcow.github.io/blog/tags/architecture/</link>
       <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
       
-      <guid>https://sowcow.github.io/blog/tags/whatever/</guid>
+      <guid>https://sowcow.github.io/blog/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paths</title>
+      <link>https://sowcow.github.io/blog/tags/paths/</link>
+      <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/paths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perpendicular</title>
+      <link>https://sowcow.github.io/blog/tags/perpendicular/</link>
+      <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/perpendicular/</guid>
       <description></description>
     </item>
     
@@ -319,6 +337,15 @@
       <pubDate>Mon, 13 Jun 2022 14:38:34 +0200</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/premium-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whatever</title>
+      <link>https://sowcow.github.io/blog/tags/whatever/</link>
+      <pubDate>Thu, 05 May 2022 09:54:24 +0200</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/whatever/</guid>
       <description></description>
     </item>
     
