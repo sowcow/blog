@@ -7,6 +7,7 @@ tags:
 - perpendicular
 - paths
 - architecture
+- abstract
 ---
 
 On a crossroads if lights show me green before I get there - I skip this turn regardless of how much time is there.
@@ -16,9 +17,7 @@ But unusually this leads to me crossing the road with a crowd on every crossroad
 Anyway if it shows me green, instead I go check the newspapers I never check or I find something interesting.
 When it gets to red I may get around but I'm not going to look at another side or to stay in the crowd.
 
----
-
-That day I noticed that pavement on a crossroads has certain quality.
+So that day I noticed that pavement on a crossroads has certain quality.
 It is almost nothing special but it gives you impression of respectability every time you make a step.
 I thought that it should sound certain way that I assume but can't clearly recognize.
 
@@ -27,8 +26,6 @@ One is like a tree segment. Another makes a step with big boots.
 
 And architecture.
 If architecture is still music that ascends from the pavement then how should it sound if one walks against these walls?
-
-...
 
 Another crossroads shows red and there is a minute plus.
 Looking somewhere perpendicular.
