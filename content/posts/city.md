@@ -7,7 +7,6 @@ tags:
 - perpendicular
 - paths
 - architecture
-- abstract
 ---
 
 On a crossroads if lights show me green before I get there - I skip this turn regardless of how much time is there.
