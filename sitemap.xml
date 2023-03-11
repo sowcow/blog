@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/tags/collective/</loc>
+    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/notions/</loc>
+    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/polar-positions/</loc>
+    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/tags/architecture/</loc>
     <lastmod>2023-02-20T10:43:02+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/city/</loc>
     <lastmod>2023-02-20T10:43:02+01:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-02-20T10:43:02+01:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/paths/</loc>
     <lastmod>2023-02-20T10:43:02+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/perpendicular/</loc>
-    <lastmod>2023-02-20T10:43:02+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-02-20T10:43:02+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-02-20T10:43:02+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/loading/</loc>
@@ -81,9 +90,6 @@
     <lastmod>2023-01-05T09:28:26+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/horizon/</loc>
-    <lastmod>2023-01-05T09:28:26+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/notions/</loc>
     <lastmod>2023-01-05T09:28:26+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/2023/</loc>
@@ -151,9 +157,6 @@
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/planet-parade/</loc>
     <lastmod>2022-11-15T20:22:22+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/collective/</loc>
-    <lastmod>2022-11-10T09:21:58+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/tolerance/</loc>
     <lastmod>2022-11-10T09:21:58+01:00</lastmod>
