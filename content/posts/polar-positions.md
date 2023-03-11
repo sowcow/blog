@@ -11,5 +11,5 @@ tags:
 On one hand I see that there is value in presence of actually polar positions.
 While on the other hand any polar by itself is likely to be destructive.
 
-It is odd how this necessitates both polarization and tolerance.
+It is odd how this balance necessitates both polarization and tolerance.
 Operational democracy is a demanding beast.
