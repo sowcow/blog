@@ -16,6 +16,6 @@ Operational democracy is a demanding beast.
 
 # Note
 
-My view on this stuff is always very confused.
+I don't pursue the topic systematically while complexities of it get my attention periodically.
 So I highlight some aspects that look new to me but since I don't have a bigger picture yet
-there is a higher risk of misinterpretation and inherent vagueness of statements.
+there is a higher risk of misinterpretation and inherent incompleteness of statements.
