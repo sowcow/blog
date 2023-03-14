@@ -6,6 +6,7 @@ author: Alexander
 tags:
 - mind
 - spot
+- horizon
 ---
 
 In the morning I looked at the the Moon movement against the horizon, spire and the clear sky.
