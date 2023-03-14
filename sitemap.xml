@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/tags/collective/</loc>
-    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
+    <loc>https://sowcow.github.io/blog/tags/horizon/</loc>
+    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/stars/</loc>
+    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/stellar/</loc>
+    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/collective/</loc>
     <lastmod>2023-03-11T09:46:16+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/notions/</loc>
     <lastmod>2023-03-11T09:46:16+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/polar-positions/</loc>
-    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-03-11T09:46:16+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-03-11T09:46:16+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/architecture/</loc>
