@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/tags/horizon/</loc>
-    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+    <loc>https://sowcow.github.io/blog/posts/conversation-piece/</loc>
+    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
+    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/visconti/</loc>
+    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/horizon/</loc>
     <lastmod>2023-03-14T08:37:09+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/stars/</loc>
     <lastmod>2023-03-14T08:37:09+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/stellar/</loc>
-    <lastmod>2023-03-14T08:37:09+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-03-14T08:37:09+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/collective/</loc>
@@ -42,9 +51,6 @@
     <lastmod>2023-02-20T10:43:02+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/loading/</loc>
-    <lastmod>2023-02-19T15:31:12+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2023-02-19T15:31:12+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/new-york-stories/</loc>
@@ -330,9 +336,6 @@
     <lastmod>2022-01-23T11:11:27+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/le-streghe/</loc>
-    <lastmod>2022-01-09T20:16:51+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/visconti/</loc>
     <lastmod>2022-01-09T20:16:51+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/il-giovane-toscanini/</loc>

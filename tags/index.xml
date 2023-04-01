@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Mar 2023 08:37:09 +0100</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 20:54:51 +0200</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>movies</title>
+      <link>https://sowcow.github.io/blog/tags/movies/</link>
+      <pubDate>Sat, 01 Apr 2023 20:54:51 +0200</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visconti</title>
+      <link>https://sowcow.github.io/blog/tags/visconti/</link>
+      <pubDate>Sat, 01 Apr 2023 20:54:51 +0200</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/visconti/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>horizon</title>
       <link>https://sowcow.github.io/blog/tags/horizon/</link>
@@ -67,15 +85,6 @@
       <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/perpendicular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movies</title>
-      <link>https://sowcow.github.io/blog/tags/movies/</link>
-      <pubDate>Sun, 19 Feb 2023 15:31:12 +0100</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/movies/</guid>
       <description></description>
     </item>
     
@@ -535,15 +544,6 @@
       <pubDate>Sun, 23 Jan 2022 11:11:27 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/snapshot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visconti</title>
-      <link>https://sowcow.github.io/blog/tags/visconti/</link>
-      <pubDate>Sun, 09 Jan 2022 20:16:51 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/visconti/</guid>
       <description></description>
     </item>
     
