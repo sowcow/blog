@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/posts/conversation-piece/</loc>
-    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+    <loc>https://sowcow.github.io/blog/posts/insomnia/</loc>
+    <lastmod>2023-04-02T15:18:32+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+    <lastmod>2023-04-02T15:18:32+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+    <lastmod>2023-04-02T15:18:32+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/nolan/</loc>
+    <lastmod>2023-04-02T15:18:32+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-04-01T20:54:51+02:00</lastmod>
+    <lastmod>2023-04-02T15:18:32+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-04-02T15:18:32+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/conversation-piece/</loc>
     <lastmod>2023-04-01T20:54:51+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/visconti/</loc>
