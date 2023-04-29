@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2023 08:03:22 +0200</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 08:00:16 +0200</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>medium</title>
-      <link>https://sowcow.github.io/blog/tags/medium/</link>
-      <pubDate>Fri, 28 Apr 2023 08:03:22 +0200</pubDate>
+      <title>Fellini</title>
+      <link>https://sowcow.github.io/blog/tags/fellini/</link>
+      <pubDate>Sat, 29 Apr 2023 08:00:16 +0200</pubDate>
       
-      <guid>https://sowcow.github.io/blog/tags/medium/</guid>
+      <guid>https://sowcow.github.io/blog/tags/fellini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>movies</title>
       <link>https://sowcow.github.io/blog/tags/movies/</link>
-      <pubDate>Sun, 02 Apr 2023 15:18:32 +0200</pubDate>
+      <pubDate>Sat, 29 Apr 2023 08:00:16 +0200</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium</title>
+      <link>https://sowcow.github.io/blog/tags/medium/</link>
+      <pubDate>Fri, 28 Apr 2023 08:03:22 +0200</pubDate>
+      
+      <guid>https://sowcow.github.io/blog/tags/medium/</guid>
       <description></description>
     </item>
     
@@ -625,15 +634,6 @@
       <pubDate>Sat, 06 Nov 2021 22:52:57 +0500</pubDate>
       
       <guid>https://sowcow.github.io/blog/tags/wenders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fellini</title>
-      <link>https://sowcow.github.io/blog/tags/fellini/</link>
-      <pubDate>Fri, 05 Nov 2021 12:27:38 +0500</pubDate>
-      
-      <guid>https://sowcow.github.io/blog/tags/fellini/</guid>
       <description></description>
     </item>
     
