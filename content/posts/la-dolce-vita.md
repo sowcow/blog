@@ -1,10 +1,13 @@
 ---
 title: "La Dolce Vita"
 date: 2023-04-29T08:00:16+02:00
-draft: true
+draft: false
 author: Alexander
 tags:
 - Fellini
+- movies
 ---
 
-Spectacular movie.
+- Rich movie, unforgettable images
+- Lots of echoes inside
+- Suns and moons, ladders and crosses and rain
