@@ -22,5 +22,5 @@ Level of details and different themes touched makes for a rich mix and questions
 Echoes in the movie helps you compose the picture in non-linear way for even richer composition to go beyond superficial limits of the medium.
 
 Visual language has this inherent feature of allowing additional interpretations.
-Yet the artist can render a picture where even different interperations are in their place.
+Yet the artist weaves a picture where even different interperations are in their place.
 And even though there is ambiguity on the surface, certain clarity shines through it.
