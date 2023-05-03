@@ -11,7 +11,7 @@ tags:
 I didn't plan to have a series of posts on my dentist experiences initially.
 But the times are strange already and fashion is ever changing
 so maybe this is going to be the new thing one day.
-I'll be the least surprised when celebrities start to post their
+In fact I'll be the least surprised when celebrities start to post their
 selfies from dentist chairs with mouths open wide.
 
 So after not seeing dentists for some time that was justified by different uncertainty
