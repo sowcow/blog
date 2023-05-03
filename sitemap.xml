@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/tags/dentist/</loc>
+    <lastmod>2023-05-03T14:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/experience/</loc>
+    <lastmod>2023-05-03T14:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-05-03T14:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-05-03T14:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-05-03T14:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/three-holes/</loc>
+    <lastmod>2023-05-03T14:31:47+02:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/tags/fellini/</loc>
     <lastmod>2023-04-29T08:00:16+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/la-dolce-vita/</loc>
     <lastmod>2023-04-29T08:00:16+02:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-04-29T08:00:16+02:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2023-04-29T08:00:16+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-04-29T08:00:16+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-04-29T08:00:16+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/medium/</loc>
@@ -756,9 +765,6 @@
     <lastmod>2021-03-07T12:37:28+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/archeology/</loc>
-    <lastmod>2020-06-05T20:02:09+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/experience/</loc>
     <lastmod>2020-06-05T20:02:09+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/forgotten/</loc>
