@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - random
+- dentist
 - experience
 ---
 
@@ -14,14 +15,14 @@ So I was about to visit a dentist today.
 It was my last visit in this "session".
 And I needed to fix a wisdom tooth.
 
-And I randomly recollected that at some point in the past when a dentist was injecting anestesia
+And I randomly recollected that at some point in the past when a dentist was injecting anesthesia
 it felt like they are injecting the needle right into the bone.
 
 And since this was my last visit I felt like experimentating and not injecting anything this time.
 But I wasn't sure if I will really decide to not use it.
 
 In the end the decision was not that hard.
-And I got two obesrviations from it.
+And I got two observations from it.
 
 ### 1. Danger overrides pain
 
@@ -41,15 +42,15 @@ I do not plan to have a series of dentist posts at this point.
 But I'd like to record previous experiences as well.
 
 One was when I was really affected by it.
-So I felt like I'm surronded by enemies and every time after they were stopping
+So I felt like I'm surrounded by enemies and every time after they were stopping
 I had to remind myself that everybody around is acting in my interests as well.
 I probably also was kind of vividly focusing on pain and what exactly they were doing.
 And you get some kind of high after it is over.
 
-Another time I got anestesia and it didn't really work.
+Another time I got anesthesia and it didn't really work.
 So I felt it but I was content.
 Either because I was relaxed because I expected it to work (and there was nothing else to do anyway).
-Or because the nature of that anestesia - but that is unlikely.
+Or because the nature of that anesthesia - but that is unlikely.
 
 ## Summary
 
