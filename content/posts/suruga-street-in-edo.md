@@ -8,7 +8,7 @@ tags:
 - Hokusai
 ---
 
-This one has magics going-on.
+Magical picture.
 It shows something so disconnected from the ground on one hand.
 On another hand it touches the human nature deeply.
-Truly animated and monumental.
+Monumental yet alive.
