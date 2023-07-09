@@ -4,7 +4,7 @@ date: 2023-07-09T20:44:05+02:00
 draft: false
 author: Alexander
 tags:
-- audiobook
+- audio-book
 ---
 
 I've been listening to the book little by little.
@@ -13,10 +13,10 @@ One idea as I recall it is that if a war goes for one year,
 assume it will go for another year;
 if it goes for two years then assume additional two.
 
-So, first I got to think about unpredictability of finishing wars.
-Then I got some black-swan suggesting something else.
-And then things "normalized".
-So I got to experience some mutant two-headed black-swan while in the process through this book.
+So first I got to think about unpredictability of finishing wars.
+Then the next day some reality-show coup grabbed everybody's attention.
+Yet at the evening of the same day things "normalized" as if nothing happened.
+So as an illustration to the book I got to experience some mutant two-headed black-swan.
 
 Also there is some odd entertainment value in knowing that the author has
 irrational issue with normal distribution
@@ -30,5 +30,5 @@ but it did not add style.
 Also I was listening at 1.5x speed and that only escalated perceived non-seriousness.
 
 On one hand it is not perfect to not finish books.
-On the other hand one should trust own judgement.
+On the other hand one should trust own judgment.
 So I cut it short.
