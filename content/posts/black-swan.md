@@ -1,0 +1,34 @@
+---
+title: "Black Swan"
+date: 2023-07-09T20:44:05+02:00
+draft: false
+author: Alexander
+tags:
+- audiobook
+---
+
+I've been listening to the book little by little.
+And I there are some interesting ideas in the book.
+One idea as I recall it is that if a war goes for one year,
+assume it will go for another year;
+if it goes for two years then assume additional two.
+
+So, first I got to think about unpredictability of finishing wars.
+Then I got some black-swan suggesting something else.
+And then things "normalized".
+So I got to experience some mutant two-headed black-swan while in the process through this book.
+
+Also there is some odd entertainment value in knowing that the author has
+irrational issue with normal distribution
+so he injects complaining remarks about it all over the place.
+But overall this type of entertainment is not what I'm used to.
+
+And along with the blind-spot author has he loaded the book with different shiny things.
+For example the author surely tied to spice the book with french words all over,
+but it did not add style.
+
+Also I was listening at 1.5x speed and that only escalated perceived non-seriousness.
+
+On one hand it is not perfect to not finish books.
+On the other hand one should trust own judgement.
+So I cut it short.
