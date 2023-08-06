@@ -7,7 +7,7 @@ tags:
 - Antonioni
 ---
 
-I wanted to visit this one for the second time.
+I wanted to visit this one for the second time (with rewinds both forward and back).
 
 There are small scenes that would look arbitrary or meaningless but they are not.
 It is very satisfying to see the director's play and then he confirms it too.
