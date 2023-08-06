@@ -26,3 +26,11 @@ Unexpressed things are bound to disappear.
 - Visual, some shapes just do not take verbal forms
 - Director-ness, Peeping Tom degree of it
 - Your Blue Room - chroma key room
+
+---
+
+P.S.
+
+The nod can also bring bring Clauda Cardinale from Conversation Piece.
+Or asian theme from La Dolce Vita.
+But this must cross a line into some inside language.
