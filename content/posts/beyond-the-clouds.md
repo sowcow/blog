@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - Antonioni
+- Wenders
 ---
 
 I wanted to visit this one for the second time (with rewinds both forward and back).
@@ -31,6 +32,14 @@ Unexpressed things are bound to disappear.
 
 P.S.
 
-The nod can also bring bring Clauda Cardinale from Conversation Piece.
-Or asian theme from La Dolce Vita.
+The nod can also bring bring Claudia Cardinale from Conversation Piece.
+Or Asian theme from La Dolce Vita.
 But this must cross a line into some inside language.
+
+---
+
+P.S.S.
+
+As I understand it Wim Wenders shot framing of the picture and intermissions between the four stories.
+This framing talks own story and there was some disagreement between directors.
+Given the capital of this picture I'm going to have another try of some other work by Wenders.
