@@ -20,7 +20,7 @@ That maybe frees some pattern recognition resources.
 And recognizing patterns should build the ability to recognize them in general.
 
 So my verbal space is always incomplete at least culturally.
-And since I started writing these postis it is always in the backlog for potential work-in-progress.
+And since I started writing these posts it is always in the backlog for potential work-in-progress.
 
 Some background:
 - I got some interesting experience of speech as warfare about two years ago
@@ -36,12 +36,12 @@ So I recently:
 
 But also.
 
-I beleive there is inertia in peoples verbal spaces.
+I believe there is inertia in peoples verbal spaces.
 That is probably related with people learning new languages with religions or with other new values and world-view maybe.
 It is interesting how learning new tongue has a promise of getting new eyes.
 
 Anyway if I put my verbal langscape into visual language then it has:
-- province at poisoned berries bushes that invoke trashy and headless humour
+- province at poisoned berries bushes that invoke trashy and headless humor
 - some rabbit holes that I'm not crossing yet
 - labyrinth of abandoned constructions with graffities on all walls invoking "victory"
 
