@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/langscape/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/space/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/verbal/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/visual/</loc>
+    <lastmod>2023-08-12T09:34:03+02:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/tags/antonioni/</loc>
     <lastmod>2023-08-06T19:36:04+02:00</lastmod>
   </url><url>
@@ -11,16 +32,7 @@
     <loc>https://sowcow.github.io/blog/tags/depth/</loc>
     <lastmod>2023-08-06T19:36:04+02:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-08-06T19:36:04+02:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/notions/</loc>
-    <lastmod>2023-08-06T19:36:04+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2023-08-06T19:36:04+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-08-06T19:36:04+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/wenders/</loc>
@@ -165,9 +177,6 @@
     <lastmod>2023-01-31T19:42:38+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/intellectual/</loc>
-    <lastmod>2023-01-31T19:42:38+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/visual/</loc>
     <lastmod>2023-01-31T19:42:38+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/emilie-muller/</loc>
@@ -549,9 +558,6 @@
     <lastmod>2021-08-22T20:03:06+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/continuity-of-space/</loc>
-    <lastmod>2021-08-21T09:27:24+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/space/</loc>
     <lastmod>2021-08-21T09:27:24+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/viridiana/</loc>
