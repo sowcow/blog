@@ -37,5 +37,8 @@ This may reference the "a camel going through the eye of a needle" but in German
 Even if the specific reference is not confirmed the scene still can be entertaining.
 
 But otherwise this looks like obvious genre and target audience switch.
-And the character of Cassiel has dramatically lost in mystery.
+And the character of Cassiel has traded that darker mystery to fit the role.
 Which means watching this would devalue the first movie experience that still has ripples here and there.
+
+But probably sequeiling the movie did not make sense at all.
+I assume the firt picture is already a balanced picture that leaves the right ammount to be completed by the viewer.
