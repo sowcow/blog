@@ -42,5 +42,19 @@ And the character of Cassiel has traded that darker mystery to fit the role.
 Which means watching this would devalue the first movie experience that still has ripples here and there.
 Also the more consumer-friendly genre is bound to reduce informational density of the movie so this moves it further down the list.
 
-But probably sequeiling the movie did not make sense in the first place.
-I assume the first movie is already a balanced picture that leaves the right ammount to be completed by the viewer.
+But probably sequeling the movie did not make sense in the first place.
+I assume the first movie is already a balanced picture that leaves the right amount to be completed by the viewer.
+
+# Tangent
+
+I watched once some course by a painter in California I believe.
+The course was just introducing the color-wheel and then painting it using oil paints.
+The instructor was bigger jewish guy that was more concerned and detailed on obvious instructions than I expected.
+Anyway after paying some good interactive attention to the gradations on the wheel I got the experience
+that may be compared to seeing colors/gradations for the first time.
+Then you see that color perception is context dependent which makes things more complex than what color-wheel seems to promise.
+
+Also seeing shapes for the fist time is a question of paying attention to them.
+Probably "for the first time" qualifier is about perception having higher broadband then memory/imagination at the moment.
+
+Anyway I bet the director by colors in the most notable faces on the wall scene means not color perception per se.
