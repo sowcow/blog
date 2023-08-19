@@ -8,17 +8,17 @@ tags:
 - Wenders
 ---
 
-Even though the pace of the movie may be not too fast and certain melancholy and lots of internal monologues are there.
-After watching the movie it left positive if not optimistic and very humane impression.
+Even though the pace of the movie may be not too fast and given certain melancholy and lots of internal monologues there.
+After watching the movie it actually left positive if not optimistic and very humane impression.
 
 On the 10-th minute there is explicit visual play with reflected lights.
 And this sets the standard and expectation.
 So the viewer is practically encouraged to analyze other visuals used.
 
 Stimulating and rich picture as by me.
-Story is one thing but I focus on associations and potential connections this brings with non-verbal tools used.
+Story is one thing but I focus on associations and potential connections that are brought by non-verbal tools used.
 
-Also who would expect that Berlin wall with all the weird faces on it makes sense now.
+Also who would expect that Berlin wall with all the weird faces on it to make sense now.
 
 # Story Spoilers
 
@@ -39,6 +39,7 @@ Even if the specific reference is not confirmed the scene still can be entertain
 But otherwise this looks like obvious genre and target audience switch.
 And the character of Cassiel has traded that darker mystery to fit the role.
 Which means watching this would devalue the first movie experience that still has ripples here and there.
+Also the more consumer-friendly genre is bound to reduce informational density of the movie so this moves it further down the list.
 
-But probably sequeiling the movie did not make sense at all.
-I assume the firt picture is already a balanced picture that leaves the right ammount to be completed by the viewer.
+But probably sequeiling the movie did not make sense in the first place.
+I assume the first movie is already a balanced picture that leaves the right ammount to be completed by the viewer.
