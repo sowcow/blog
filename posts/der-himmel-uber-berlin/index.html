@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Der Himmel über Berlin - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Even though the pace of the movie may be not too fast and given certain melancholy and lots of internal monologues there. After watching the movie it actually left positive if not optimistic and very humane impression.
+On the 10-th minute there is explicit visual play with reflected lights. And this sets the standard and expectation. So the viewer is practically encouraged to analyze other visuals used. But also that play by itself may worth a rewatch or two after the fact.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.116.1">
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Der Himmel über Berlin</h1>
+    <div class="post-meta">Alexander · August 18, 2023</div>
+  </header>
+  <div class="post-content"><p>Even though the pace of the movie may be not too fast and given certain melancholy and lots of internal monologues there.
+After watching the movie it actually left positive if not optimistic and very humane impression.</p>
+<p>On the 10-th minute there is explicit visual play with reflected lights.
+And this sets the standard and expectation.
+So the viewer is practically encouraged to analyze other visuals used.
+But also that play by itself may worth a rewatch or two after the fact.</p>
+<p>Stimulating and rich picture as by me.
+Story is one thing but I focus on associations and potential connections that are brought by non-verbal tools used.</p>
+<p>Also who would expect that Berlin wall with all the weird faces on it to make sense now.</p>
+<h1 id="story-spoilers">Story Spoilers</h1>
+<ul>
+<li>Orthogonal worlds, question of meaning and mechanicality</li>
+<li>The artist performing on the edge summons the angel into the world</li>
+<li>The angel proclaims the vision using her like a flag</li>
+</ul>
+<h1 id="sequel">Sequel</h1>
+<p>The first movie left a question potentially to be resolved later.</p>
+<p>I checked only 40 minutes of the sequel and it looks flat, also it lacks any meaningful relation to the first movie.</p>
+<p>I liked the plane through the ear scene.
+This may reference the &ldquo;a camel going through the eye of a needle&rdquo; but in German it is called ear of a needle.
+Even if the specific reference is not confirmed the scene still can be entertaining.</p>
+<p>But otherwise this looks like obvious genre and target audience switch.
+And the character of Cassiel has traded that darker mystery to fit the role.
+Which means watching this would devalue the first movie experience that still has ripples here and there.
+Also the more consumer-friendly genre is bound to reduce informational density of the movie so this moves it further down the list.</p>
+<p>But probably sequeling the movie did not make sense in the first place.
+I assume the first movie is already a balanced picture that leaves the right amount to be completed by the viewer.</p>
+<h1 id="tangent">Tangent</h1>
+<p>I watched once some course by a painter in California I believe.
+The course was just introducing the color-wheel and then painting it using oil paints.
+The instructor was bigger jewish guy that was more concerned and detailed on obvious instructions than I expected.
+Anyway after paying some good interactive attention to the gradations on the wheel I got the experience
+that may be compared to seeing colors/gradations for the first time.
+Then you see that color perception is context dependent which makes things more complex than what color-wheel seems to promise.</p>
+<p>Also seeing shapes for the fist time is a question of paying attention to them.
+Probably &ldquo;for the first time&rdquo; qualifier is about perception having higher broadband then memory/imagination at the moment.</p>
+<p>Anyway I bet the director by colors in the most notable faces on the wall scene means not color perception per se.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/movies">movies</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/wenders">Wenders</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2023 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
