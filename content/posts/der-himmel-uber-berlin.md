@@ -33,7 +33,9 @@ The first movie left a question potentially to be resolved later.
 I checked only 40 minutes of the sequel and it looks flat, also it lacks any meaningful relation to the first movie.
 
 I liked the plane through the ear scene.
-This may reference the "a camel going through the eye of a needle" but in German as in Russian it is called ear of a needle.
+This may reference the "a camel going through the eye of a needle" but in German it is called ear of a needle.
+Even if the specific reference is not confirmed the scene still can be entertaining.
 
-But otherwise it looks like a genre switch and the character of Cassiel has dramatically lost in mystery.
+But otherwise this looks like obvious genre and target audience switch.
+And the character of Cassiel has dramatically lost in mystery.
 Which means watching this would devalue the first movie experience that still has ripples here and there.
