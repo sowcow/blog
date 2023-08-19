@@ -14,6 +14,7 @@ After watching the movie it actually left positive if not optimistic and very hu
 On the 10-th minute there is explicit visual play with reflected lights.
 And this sets the standard and expectation.
 So the viewer is practically encouraged to analyze other visuals used.
+But also that play by itself may worth a rewatch or two after the fact.
 
 Stimulating and rich picture as by me.
 Story is one thing but I focus on associations and potential connections that are brought by non-verbal tools used.
