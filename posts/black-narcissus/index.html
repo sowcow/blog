@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Black Narcissus - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="It is a type of lucid Disney movie crossing into a horror film. The earliest erotic movie. Melodrama about nuns.
+Team In director&rsquo;s commentary M. Powell mentions:
+high quality of the team and art department cases of intrinsic match of actors to roles directors role of believing in the project how the team kind of lived through the movie (without big picture possibly?) And this final point probably assumes a degree of improvisation on actors part in the process and also a degree of freedom during the editing part.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.118.2">
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Black Narcissus</h1>
+    <div class="post-meta">Alexander · September 27, 2023</div>
+  </header>
+  <div class="post-content"><p>It is a type of lucid Disney movie crossing into a horror film. The earliest erotic movie. Melodrama about nuns.</p>
+<h1 id="team">Team</h1>
+<p>In director&rsquo;s commentary M. Powell mentions:</p>
+<ul>
+<li>high quality of the team and art department</li>
+<li>cases of intrinsic match of actors to roles</li>
+<li>directors role of believing in the project</li>
+<li>how the team kind of lived through the movie (without big picture possibly?)</li>
+</ul>
+<p>And this final point probably assumes a degree of improvisation on actors part in the process
+and also a degree of freedom during the editing part.</p>
+<h1 id="dialogues">Dialogues</h1>
+<p>First dialogue between Mr. Dean and sister Clodagh is not plain and that is how they all are going to be.
+There is always undercurrent of either humor or sensuality.</p>
+<p>Because dialogues are &ldquo;interesting&rdquo;, acting therefore has higher resolution to pay attention to.
+I enjoyed acting even though I&rsquo;m not a judge in matters.</p>
+<p>Characters choice looks clear and balanced too given that I only started to pay attention to that aspect with this film.</p>
+<h1 id="cuts">Cuts</h1>
+<p>M. Scorsese as a major director himself pays a lot of attention to cuts in the commentary.
+He points attention and provides references.</p>
+<p>It makes sense because cuts are what directors solve distinctly from static visual artists.
+It is this type of black matter of the movie - you are not supposed to really see it but
+it has it&rsquo;s effect and I believe there is a lot more that happens on cuts level than general audience notices.</p>
+<h1 id="visuals">Visuals</h1>
+<p>Surely there are enjoyable shots, scenes, decisions.</p>
+<p>Nuns are like snowy mountains while Mr. Dean is wearing a kind of black halo over a head.</p>
+<h1 id="screen">Screen</h1>
+<p>In commentary M. Scorsese recommends to watch it specifically on the big screen projected.
+Interestingly BFI will have multiple runs of Black Narcissus on the big screen in October and November in London.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/movies">movies</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/powell">Powell</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2023 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
