@@ -54,5 +54,6 @@ Nuns are like snowy mountains while Mr. Dean is wearing a kind of black halo ove
 
 # Screen
 
-In commentary M. Scorsese recommends to watch it specifically on the big screen projected.
-Interestingly BFI will have multiple runs of Black Narcissus on the big screen in October and November in London.
+In commentary M. Scorsese recommends to watch it specifically on the big screen projected as all of this collaboration movies.
+Interestingly BFI will have multiple runs of Black Narcissus in October and November in London.
+I don't think 9 meter BFI NFT1 qualifies for big but still the event seems rare.
