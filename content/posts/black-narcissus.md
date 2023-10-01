@@ -22,7 +22,7 @@ In director's commentary M. Powell mentions:
 
 And this final point probably assumes a degree of improvisation on actors part in the process
 and also a degree of freedom during the editing part.
-
+Although given harder reliance on editing by another person different dynamics of editing may be there.
 
 # Dialogues
 
@@ -42,7 +42,7 @@ He points attention and provides references.
 
 It makes sense because cuts are what directors solve distinctly from static visual artists.
 It is this type of black matter of the movie - you are not supposed to really see it but
-it has it's effect and I believe there is a lot more that happens on cuts level than general audience notices.
+it has it's effect and I believe there is a lot more that happens on cuts level than general audience attributes to it retrospectively.
 
 
 # Visuals
