@@ -22,7 +22,8 @@ In director's commentary M. Powell mentions:
 
 And this final point probably assumes a degree of improvisation on actors part in the process
 and also a degree of freedom during the editing part.
-Although given harder reliance on editing by another person different dynamics of editing may be there.
+Although I have information about the director being very exacting.
+So I have no idea really.
 
 # Dialogues
 
