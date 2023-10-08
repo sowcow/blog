@@ -48,7 +48,7 @@ It is this type of black matter of the movie - you are not supposed to really se
 it has it's effect and I believe there is a lot more that happens on cuts level than general audience attributes to it retrospectively.
 
 
-# Visuals
+# Visuals (strong visual spoiler)
 
 Surely there are enjoyable shots, scenes, decisions.
 
