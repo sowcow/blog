@@ -11,6 +11,8 @@ tags:
 
 It is a type of lucid Disney movie crossing into a horror film. The earliest erotic movie. Melodrama about nuns.
 
+> Spoilers may lie ahead.
+
 # Team
 
 In director's commentary M. Powell mentions:
