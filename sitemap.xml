@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2023-10-22T09:19:08+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/observable/</loc>
+    <lastmod>2023-10-22T09:19:08+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2023-10-22T09:19:08+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2023-10-22T09:19:08+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/tempest/</loc>
+    <lastmod>2023-10-22T09:19:08+02:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/black-narcissus/</loc>
     <lastmod>2023-09-27T19:31:10+02:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2023-09-27T19:31:10+02:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2023-09-27T19:31:10+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
     <lastmod>2023-09-27T19:31:10+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/powell/</loc>
     <lastmod>2023-09-27T19:31:10+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/pressburger/</loc>
-    <lastmod>2023-09-27T19:31:10+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2023-09-27T19:31:10+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/eyes-wide-shut/</loc>
