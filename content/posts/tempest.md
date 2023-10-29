@@ -18,6 +18,6 @@ It would be entertaining but I don't believe that there is no limit to their acc
 Anyway I haven't yet written on A Matter of Life and Death but I was thinking about it and it's potential relation with The Tempest.
 Anyway I haven't read The Tempest to confirm.
 
-Today I checked myself against the bent glass of the aquarium wall and saw the ceiling of the place.
+Today while moving by I checked myself against the bent glass of the aquarium rounded corner and saw the ceiling of the place.
 It is roughly teal of color and has wires going out grouped from many different points like little lightnings.
 It's almost like they got their own frozen artificial tempest there too.
