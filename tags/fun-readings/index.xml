@@ -6,17 +6,14 @@
     <description>Recent content in fun-readings on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 12:04:19 +0200</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/fun-readings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Sep 2022 12:04:19 +0200</lastBuildDate>
+    <atom:link href="https://sowcow.github.io/blog/tags/fun-readings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing Libraries Is Considered Harmful</title>
       <link>https://sowcow.github.io/blog/posts/writing-libraries-is-considered-harmful/</link>
       <pubDate>Wed, 14 Sep 2022 12:04:19 +0200</pubDate>
-      
       <guid>https://sowcow.github.io/blog/posts/writing-libraries-is-considered-harmful/</guid>
-      <description>All similarities are accidental. All characters are fictional and have no relation to the real world.
-I was reading one book on in a way advanced ruby. And since I know that the ruby community can be quite good the standard of expectations was quite high on my part. I imagine in my mind that the book is by somebody who also is a library writer.
-So it definetly starts with some good stuff from the logics point of view.</description>
+      <description>All similarities are accidental. All characters are fictional and have no relation to the real world.&#xA;I was reading one book on in a way advanced ruby. And since I know that the ruby community can be quite good the standard of expectations was quite high on my part. I imagine in my mind that the book is by somebody who also is a library writer.&#xA;So it definetly starts with some good stuff from the logics point of view.</description>
     </item>
-    
   </channel>
 </rss>

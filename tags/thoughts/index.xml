@@ -6,29 +6,21 @@
     <description>Recent content in thoughts on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 17:31:40 +0500</lastBuildDate><atom:link href="https://sowcow.github.io/blog/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Aug 2019 17:31:40 +0500</lastBuildDate>
+    <atom:link href="https://sowcow.github.io/blog/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Code Thoughts</title>
       <link>https://sowcow.github.io/blog/posts/random-code-thoughts/</link>
       <pubDate>Tue, 06 Aug 2019 17:31:40 +0500</pubDate>
-      
       <guid>https://sowcow.github.io/blog/posts/random-code-thoughts/</guid>
-      <description>So I decided to put some thoughts about my coding here. There are three of them.
-Copy-pasting This is one of my time wasters. I have this expectation that copy-pasted block should just work. But then there are little details that I miss that require a debugging session later.
-Copy pasting by itself is not that evil. It can be avoided by additional abstractions. But you don&amp;rsquo;t want to commit to any random abstraction either.</description>
+      <description>So I decided to put some thoughts about my coding here. There are three of them.&#xA;Copy-pasting This is one of my time wasters. I have this expectation that copy-pasted block should just work. But then there are little details that I miss that require a debugging session later.&#xA;Copy pasting by itself is not that evil. It can be avoided by additional abstractions. But you don&amp;rsquo;t want to commit to any random abstraction either.</description>
     </item>
-    
     <item>
       <title>Till You Make It</title>
       <link>https://sowcow.github.io/blog/posts/till-you-make-it/</link>
       <pubDate>Mon, 05 Aug 2019 12:46:25 +0500</pubDate>
-      
       <guid>https://sowcow.github.io/blog/posts/till-you-make-it/</guid>
-      <description>Today I noticed that I feel unusually proud of myself. I thought that there has to be a reason for that. And indeed I found couple of them.
-Then I thought that feeling of pride is not really concious in it&amp;rsquo;s source.
-And then I thought about artificial sources.
-Given say body positivity. When say fat people are told to feel or pretend to be proud of themselves. This is ambiguous.</description>
+      <description>Today I noticed that I feel unusually proud of myself. I thought that there has to be a reason for that. And indeed I found couple of them.&#xA;Then I thought that feeling of pride is not really concious in it&amp;rsquo;s source.&#xA;And then I thought about artificial sources.&#xA;Given say body positivity. When say fat people are told to feel or pretend to be proud of themselves. This is ambiguous.</description>
     </item>
-    
   </channel>
 </rss>
