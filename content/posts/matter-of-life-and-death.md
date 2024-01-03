@@ -36,3 +36,4 @@ P.S.
 
 Talking about wrapping things up from more visual perspective I found the book returning scene being marvelous.
 The existing book cover is used with one modification I assume.
+So I've changed my mind about incompleteness.
