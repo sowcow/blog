@@ -19,7 +19,7 @@ Also script should have some ideas that did not make it into the movie.
 There is propaganda angle to it which is fine by me. I think it is still strong even if the idea of Anglo-American cooperation in the new world is ignored.
 
 Extremely visual and educating on those matters but as it happens it is not too comfortable experience.
-And I should say that even Peeping Tom was more "polite" when it comes to "uneasieness" than this movie.
+And I should say that even Peeping Tom was more "polite" when it comes to "uneasiness" than this movie.
 So it was almost necessary to analyze how director controls the tension and conjures images at needed moments.
 
 The whole movie is such a complex dissonance that the simple ending
@@ -31,3 +31,8 @@ It is almost like this kind of movies need a more foolish and sunny followup to 
 For example Wings of Desire has one as it seems. But that one was way lighter.
 Also there is a plenty of entertaining parallels between these movies if one is after things not said.
 But I'm not going those rabbit holes.
+
+P.S.
+
+Talking about wrapping things up from more visual perspective I found the book returning scene being marvelous.
+The existing book cover is used with one modification I assume.
