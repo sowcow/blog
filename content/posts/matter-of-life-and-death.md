@@ -19,7 +19,8 @@ Also script should have some ideas that did not make it into the movie.
 There is propaganda angle to it which is fine by me. I think it is still strong even if the idea of Anglo-American cooperation in the new world is ignored.
 
 Extremely visual and educating on those matters but as it happens it is not too comfortable experience.
-It was almost necessary to analyze how director controls the tension and conjures images at needed moments.
+And I should say that even Peeping Tom was more "polite" when it comes to "uneasieness" than this movie.
+So it was almost necessary to analyze how director controls the tension and conjures images at needed moments.
 
 The whole movie is such a complex dissonance that the simple ending
 looks strange after the movie.
