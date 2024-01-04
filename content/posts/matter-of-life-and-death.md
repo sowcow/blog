@@ -37,3 +37,10 @@ P.S.
 Talking about wrapping things up from more visual perspective I found the book returning scene being marvelous.
 The existing book cover is used with one modification I assume.
 So I've changed my mind about incompleteness.
+
+P.P.S.
+
+Also one can find interesting echoes to Cardsharps.
+
+Among other things what was notably for me with this piece is how images or dynamical scenes are retained in memory and are changed over time.
+How good wrapping of such content is a trick on it's own.
