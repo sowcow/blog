@@ -8,7 +8,7 @@ tags:
 - Pressburger
 - movies
 - Caravaggio
-- picture
+- references
 ---
 
 Hypnotic start and common but strange finish.
@@ -45,7 +45,7 @@ P.P.S.
 Among other things what was notably for me with this piece is how images or dynamical scenes are retained in memory and are changed over time.
 How good wrapping of such content is a trick on it's own.
 
-Also one can find interesting echoes to Cardsharps among all.
+Also one can find interesting echoes to Cardsharps among ather references in the movie.
 In a way the director not only referenced but highlighted specific features of the painting.
 Where part of them I perceived and retained I did not pay attention to painters tools initially.
 But after the movie I rechecked the painting and understood more of the technical magics involved.
