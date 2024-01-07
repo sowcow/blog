@@ -36,7 +36,8 @@ But I'm not going those rabbit holes.
 
 P.S.
 
-Talking about wrapping things up from more visual perspective I found the book returning scene being marvelous.
+Talking about wrapping things up from more visual perspective I found the book returning sequence being marvelous.
+It is exceptional but I have missed it because of certain scepticism.
 The existing book cover is used with one modification I assume.
 So I've changed my mind about incompleteness.
 
