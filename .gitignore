@@ -1,3 +1,5 @@
 public
 tags
 *.bak
+*.rb
+*.txt

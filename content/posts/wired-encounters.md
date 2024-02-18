@@ -15,8 +15,8 @@ He had a very attentive look as if at every moment he was looking at spinning sl
 He had a gambling project and he even said that involvement
 in such projects is less ethically challenging than
 being involved in prostitution business.
-But then to support the argument he pulled some retro casino game box with "girl on the front cover".
-He thought that the disclaimer that the casino has no age limit should support his argument.
+But then to support the claim he pulled some retro casino game box with "girl on the front cover".
+He thought that the disclaimer that the casino has no age limit should support his claim.
 
 Another encounter has got to be recurring.
 A recruiter has got into a habit to call me every couple of months
