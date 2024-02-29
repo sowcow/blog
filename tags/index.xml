@@ -6,10 +6,17 @@
     <description>Recent content in Tags on Let&#39;s see what happens.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2024 08:27:02 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:48:04 +0100</lastBuildDate>
     <atom:link href="https://sowcow.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>models</title>
+      <title>Audio</title>
+      <link>https://sowcow.github.io/blog/tags/audio/</link>
+      <pubDate>Thu, 29 Feb 2024 15:48:04 +0100</pubDate>
+      <guid>https://sowcow.github.io/blog/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Models</title>
       <link>https://sowcow.github.io/blog/tags/models/</link>
       <pubDate>Sat, 10 Feb 2024 08:27:02 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/models/</guid>
@@ -23,7 +30,7 @@
       <description></description>
     </item>
     <item>
-      <title>movies</title>
+      <title>Movies</title>
       <link>https://sowcow.github.io/blog/tags/movies/</link>
       <pubDate>Wed, 03 Jan 2024 16:49:56 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/movies/</guid>
@@ -44,21 +51,21 @@
       <description></description>
     </item>
     <item>
-      <title>references</title>
+      <title>References</title>
       <link>https://sowcow.github.io/blog/tags/references/</link>
       <pubDate>Wed, 03 Jan 2024 16:49:56 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/references/</guid>
       <description></description>
     </item>
     <item>
-      <title>noir</title>
+      <title>Noir</title>
       <link>https://sowcow.github.io/blog/tags/noir/</link>
       <pubDate>Fri, 01 Dec 2023 07:49:29 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/noir/</guid>
       <description></description>
     </item>
     <item>
-      <title>observable</title>
+      <title>Observable</title>
       <link>https://sowcow.github.io/blog/tags/observable/</link>
       <pubDate>Sun, 22 Oct 2023 09:19:08 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/observable/</guid>
@@ -72,7 +79,7 @@
       <description></description>
     </item>
     <item>
-      <title>picture</title>
+      <title>Picture</title>
       <link>https://sowcow.github.io/blog/tags/picture/</link>
       <pubDate>Wed, 23 Aug 2023 08:14:59 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/picture/</guid>
@@ -86,21 +93,21 @@
       <description></description>
     </item>
     <item>
-      <title>space</title>
+      <title>Space</title>
       <link>https://sowcow.github.io/blog/tags/space/</link>
       <pubDate>Sat, 12 Aug 2023 09:34:03 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/space/</guid>
       <description></description>
     </item>
     <item>
-      <title>verbal</title>
+      <title>Verbal</title>
       <link>https://sowcow.github.io/blog/tags/verbal/</link>
       <pubDate>Sat, 12 Aug 2023 09:34:03 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/verbal/</guid>
       <description></description>
     </item>
     <item>
-      <title>visual</title>
+      <title>Visual</title>
       <link>https://sowcow.github.io/blog/tags/visual/</link>
       <pubDate>Sat, 12 Aug 2023 09:34:03 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/visual/</guid>
@@ -114,42 +121,42 @@
       <description></description>
     </item>
     <item>
-      <title>depth</title>
+      <title>Depth</title>
       <link>https://sowcow.github.io/blog/tags/depth/</link>
       <pubDate>Sun, 06 Aug 2023 19:36:04 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/depth/</guid>
       <description></description>
     </item>
     <item>
-      <title>notions</title>
+      <title>Notions</title>
       <link>https://sowcow.github.io/blog/tags/notions/</link>
       <pubDate>Sun, 06 Aug 2023 19:36:04 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/notions/</guid>
       <description></description>
     </item>
     <item>
-      <title>dentist</title>
+      <title>Dentist</title>
       <link>https://sowcow.github.io/blog/tags/dentist/</link>
       <pubDate>Sat, 29 Jul 2023 11:27:26 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/dentist/</guid>
       <description></description>
     </item>
     <item>
-      <title>experience</title>
+      <title>Experience</title>
       <link>https://sowcow.github.io/blog/tags/experience/</link>
       <pubDate>Sat, 29 Jul 2023 11:27:26 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/experience/</guid>
       <description></description>
     </item>
     <item>
-      <title>identity</title>
+      <title>Identity</title>
       <link>https://sowcow.github.io/blog/tags/identity/</link>
       <pubDate>Sat, 29 Jul 2023 11:27:26 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/identity/</guid>
       <description></description>
     </item>
     <item>
-      <title>audio-book</title>
+      <title>Audio-Book</title>
       <link>https://sowcow.github.io/blog/tags/audio-book/</link>
       <pubDate>Sun, 09 Jul 2023 20:44:05 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/audio-book/</guid>
@@ -170,7 +177,7 @@
       <description></description>
     </item>
     <item>
-      <title>ugly</title>
+      <title>Ugly</title>
       <link>https://sowcow.github.io/blog/tags/ugly/</link>
       <pubDate>Sat, 06 May 2023 08:39:37 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/ugly/</guid>
@@ -184,7 +191,7 @@
       <description></description>
     </item>
     <item>
-      <title>medium</title>
+      <title>Medium</title>
       <link>https://sowcow.github.io/blog/tags/medium/</link>
       <pubDate>Fri, 28 Apr 2023 08:03:22 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/medium/</guid>
@@ -205,42 +212,42 @@
       <description></description>
     </item>
     <item>
-      <title>horizon</title>
+      <title>Horizon</title>
       <link>https://sowcow.github.io/blog/tags/horizon/</link>
       <pubDate>Tue, 14 Mar 2023 08:37:09 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/horizon/</guid>
       <description></description>
     </item>
     <item>
-      <title>stellar</title>
+      <title>Stellar</title>
       <link>https://sowcow.github.io/blog/tags/stellar/</link>
       <pubDate>Tue, 14 Mar 2023 08:37:09 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/stellar/</guid>
       <description></description>
     </item>
     <item>
-      <title>collective</title>
+      <title>Collective</title>
       <link>https://sowcow.github.io/blog/tags/collective/</link>
       <pubDate>Sat, 11 Mar 2023 09:46:16 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/collective/</guid>
       <description></description>
     </item>
     <item>
-      <title>architecture</title>
+      <title>Architecture</title>
       <link>https://sowcow.github.io/blog/tags/architecture/</link>
       <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/architecture/</guid>
       <description></description>
     </item>
     <item>
-      <title>paths</title>
+      <title>Paths</title>
       <link>https://sowcow.github.io/blog/tags/paths/</link>
       <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/paths/</guid>
       <description></description>
     </item>
     <item>
-      <title>perpendicular</title>
+      <title>Perpendicular</title>
       <link>https://sowcow.github.io/blog/tags/perpendicular/</link>
       <pubDate>Mon, 20 Feb 2023 10:43:02 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/perpendicular/</guid>
@@ -254,49 +261,49 @@
       <description></description>
     </item>
     <item>
-      <title>ancient</title>
+      <title>Ancient</title>
       <link>https://sowcow.github.io/blog/tags/ancient/</link>
       <pubDate>Mon, 13 Feb 2023 18:39:57 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/ancient/</guid>
       <description></description>
     </item>
     <item>
-      <title>reading</title>
+      <title>Reading</title>
       <link>https://sowcow.github.io/blog/tags/reading/</link>
       <pubDate>Mon, 13 Feb 2023 18:39:57 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/reading/</guid>
       <description></description>
     </item>
     <item>
-      <title>books</title>
+      <title>Books</title>
       <link>https://sowcow.github.io/blog/tags/books/</link>
       <pubDate>Wed, 08 Feb 2023 14:21:13 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/books/</guid>
       <description></description>
     </item>
     <item>
-      <title>textual</title>
+      <title>Textual</title>
       <link>https://sowcow.github.io/blog/tags/textual/</link>
       <pubDate>Wed, 08 Feb 2023 14:21:13 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/textual/</guid>
       <description></description>
     </item>
     <item>
-      <title>mind</title>
+      <title>Mind</title>
       <link>https://sowcow.github.io/blog/tags/mind/</link>
       <pubDate>Mon, 06 Feb 2023 09:54:32 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/mind/</guid>
       <description></description>
     </item>
     <item>
-      <title>spot</title>
+      <title>Spot</title>
       <link>https://sowcow.github.io/blog/tags/spot/</link>
       <pubDate>Mon, 06 Feb 2023 09:54:32 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/spot/</guid>
       <description></description>
     </item>
     <item>
-      <title>intellectual</title>
+      <title>Intellectual</title>
       <link>https://sowcow.github.io/blog/tags/intellectual/</link>
       <pubDate>Tue, 31 Jan 2023 19:42:38 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/intellectual/</guid>
@@ -310,35 +317,35 @@
       <description></description>
     </item>
     <item>
-      <title>silencio</title>
+      <title>Silencio</title>
       <link>https://sowcow.github.io/blog/tags/silencio/</link>
       <pubDate>Wed, 28 Dec 2022 14:06:08 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/silencio/</guid>
       <description></description>
     </item>
     <item>
-      <title>verses</title>
+      <title>Verses</title>
       <link>https://sowcow.github.io/blog/tags/verses/</link>
       <pubDate>Mon, 26 Dec 2022 09:07:51 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/verses/</guid>
       <description></description>
     </item>
     <item>
-      <title>propaganda</title>
+      <title>Propaganda</title>
       <link>https://sowcow.github.io/blog/tags/propaganda/</link>
       <pubDate>Thu, 15 Dec 2022 10:19:34 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/propaganda/</guid>
       <description></description>
     </item>
     <item>
-      <title>soviet</title>
+      <title>Soviet</title>
       <link>https://sowcow.github.io/blog/tags/soviet/</link>
       <pubDate>Thu, 15 Dec 2022 10:19:34 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/soviet/</guid>
       <description></description>
     </item>
     <item>
-      <title>zen</title>
+      <title>Zen</title>
       <link>https://sowcow.github.io/blog/tags/zen/</link>
       <pubDate>Thu, 15 Dec 2022 10:19:34 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/zen/</guid>
@@ -352,14 +359,14 @@
       <description></description>
     </item>
     <item>
-      <title>apexes</title>
+      <title>Apexes</title>
       <link>https://sowcow.github.io/blog/tags/apexes/</link>
       <pubDate>Thu, 15 Dec 2022 08:24:42 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/apexes/</guid>
       <description></description>
     </item>
     <item>
-      <title>freedom</title>
+      <title>Freedom</title>
       <link>https://sowcow.github.io/blog/tags/freedom/</link>
       <pubDate>Thu, 15 Dec 2022 08:24:42 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/freedom/</guid>
@@ -373,7 +380,7 @@
       <description></description>
     </item>
     <item>
-      <title>year</title>
+      <title>Year</title>
       <link>https://sowcow.github.io/blog/tags/year/</link>
       <pubDate>Thu, 15 Dec 2022 08:24:42 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/year/</guid>
@@ -387,140 +394,140 @@
       <description></description>
     </item>
     <item>
-      <title>new-materials</title>
+      <title>New-Materials</title>
       <link>https://sowcow.github.io/blog/tags/new-materials/</link>
       <pubDate>Sat, 29 Oct 2022 09:00:38 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/new-materials/</guid>
       <description></description>
     </item>
     <item>
-      <title>artifacts</title>
+      <title>Artifacts</title>
       <link>https://sowcow.github.io/blog/tags/artifacts/</link>
       <pubDate>Thu, 22 Sep 2022 08:06:51 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/artifacts/</guid>
       <description></description>
     </item>
     <item>
-      <title>voodoo</title>
+      <title>Voodoo</title>
       <link>https://sowcow.github.io/blog/tags/voodoo/</link>
       <pubDate>Thu, 22 Sep 2022 08:06:51 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/voodoo/</guid>
       <description></description>
     </item>
     <item>
-      <title>fun-readings</title>
+      <title>Fun-Readings</title>
       <link>https://sowcow.github.io/blog/tags/fun-readings/</link>
       <pubDate>Wed, 14 Sep 2022 12:04:19 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/fun-readings/</guid>
       <description></description>
     </item>
     <item>
-      <title>ruby</title>
+      <title>Ruby</title>
       <link>https://sowcow.github.io/blog/tags/ruby/</link>
       <pubDate>Wed, 14 Sep 2022 12:04:19 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/ruby/</guid>
       <description></description>
     </item>
     <item>
-      <title>pseudo-sciences</title>
+      <title>Pseudo-Sciences</title>
       <link>https://sowcow.github.io/blog/tags/pseudo-sciences/</link>
       <pubDate>Mon, 05 Sep 2022 07:32:34 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/pseudo-sciences/</guid>
       <description></description>
     </item>
     <item>
-      <title>expression</title>
+      <title>Expression</title>
       <link>https://sowcow.github.io/blog/tags/expression/</link>
       <pubDate>Tue, 16 Aug 2022 08:17:22 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/expression/</guid>
       <description></description>
     </item>
     <item>
-      <title>interesting</title>
+      <title>Interesting</title>
       <link>https://sowcow.github.io/blog/tags/interesting/</link>
       <pubDate>Sun, 07 Aug 2022 15:36:06 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/interesting/</guid>
       <description></description>
     </item>
     <item>
-      <title>premium-post</title>
+      <title>Premium-Post</title>
       <link>https://sowcow.github.io/blog/tags/premium-post/</link>
       <pubDate>Mon, 13 Jun 2022 14:38:34 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/premium-post/</guid>
       <description></description>
     </item>
     <item>
-      <title>whatever</title>
+      <title>Whatever</title>
       <link>https://sowcow.github.io/blog/tags/whatever/</link>
       <pubDate>Thu, 05 May 2022 09:54:24 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/whatever/</guid>
       <description></description>
     </item>
     <item>
-      <title>mess</title>
+      <title>Mess</title>
       <link>https://sowcow.github.io/blog/tags/mess/</link>
       <pubDate>Thu, 31 Mar 2022 07:26:59 +0200</pubDate>
       <guid>https://sowcow.github.io/blog/tags/mess/</guid>
       <description></description>
     </item>
     <item>
-      <title>ambiguous</title>
+      <title>Ambiguous</title>
       <link>https://sowcow.github.io/blog/tags/ambiguous/</link>
       <pubDate>Fri, 18 Mar 2022 10:56:46 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/ambiguous/</guid>
       <description></description>
     </item>
     <item>
-      <title>authentic</title>
+      <title>Authentic</title>
       <link>https://sowcow.github.io/blog/tags/authentic/</link>
       <pubDate>Thu, 17 Mar 2022 19:08:16 +0100</pubDate>
       <guid>https://sowcow.github.io/blog/tags/authentic/</guid>
       <description></description>
     </item>
     <item>
-      <title>machiavellian</title>
+      <title>Machiavellian</title>
       <link>https://sowcow.github.io/blog/tags/machiavellian/</link>
       <pubDate>Mon, 28 Feb 2022 11:11:27 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/machiavellian/</guid>
       <description></description>
     </item>
     <item>
-      <title>war</title>
+      <title>War</title>
       <link>https://sowcow.github.io/blog/tags/war/</link>
       <pubDate>Mon, 28 Feb 2022 11:11:27 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/war/</guid>
       <description></description>
     </item>
     <item>
-      <title>today</title>
+      <title>Today</title>
       <link>https://sowcow.github.io/blog/tags/today/</link>
       <pubDate>Sun, 27 Feb 2022 13:44:23 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/today/</guid>
       <description></description>
     </item>
     <item>
-      <title>detached</title>
+      <title>Detached</title>
       <link>https://sowcow.github.io/blog/tags/detached/</link>
       <pubDate>Sat, 26 Feb 2022 13:52:04 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/detached/</guid>
       <description></description>
     </item>
     <item>
-      <title>impressions</title>
+      <title>Impressions</title>
       <link>https://sowcow.github.io/blog/tags/impressions/</link>
       <pubDate>Sat, 26 Feb 2022 13:52:04 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/impressions/</guid>
       <description></description>
     </item>
     <item>
-      <title>too abstract</title>
+      <title>Too Abstract</title>
       <link>https://sowcow.github.io/blog/tags/too-abstract/</link>
       <pubDate>Sat, 26 Feb 2022 13:52:04 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/too-abstract/</guid>
       <description></description>
     </item>
     <item>
-      <title>хорошая погода</title>
+      <title>Хорошая Погода</title>
       <link>https://sowcow.github.io/blog/tags/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0/</link>
       <pubDate>Tue, 15 Feb 2022 12:31:54 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0/</guid>
@@ -534,7 +541,7 @@
       <description></description>
     </item>
     <item>
-      <title>times</title>
+      <title>Times</title>
       <link>https://sowcow.github.io/blog/tags/times/</link>
       <pubDate>Tue, 08 Feb 2022 10:07:58 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/times/</guid>
@@ -548,35 +555,35 @@
       <description></description>
     </item>
     <item>
-      <title>robots</title>
+      <title>Robots</title>
       <link>https://sowcow.github.io/blog/tags/robots/</link>
       <pubDate>Sun, 06 Feb 2022 10:42:55 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/robots/</guid>
       <description></description>
     </item>
     <item>
-      <title>digital</title>
+      <title>Digital</title>
       <link>https://sowcow.github.io/blog/tags/digital/</link>
       <pubDate>Sat, 29 Jan 2022 17:14:37 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/digital/</guid>
       <description></description>
     </item>
     <item>
-      <title>entropy</title>
+      <title>Entropy</title>
       <link>https://sowcow.github.io/blog/tags/entropy/</link>
       <pubDate>Sat, 29 Jan 2022 17:14:37 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/entropy/</guid>
       <description></description>
     </item>
     <item>
-      <title>live</title>
+      <title>Live</title>
       <link>https://sowcow.github.io/blog/tags/live/</link>
       <pubDate>Sun, 23 Jan 2022 12:22:00 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/live/</guid>
       <description></description>
     </item>
     <item>
-      <title>snapshot</title>
+      <title>Snapshot</title>
       <link>https://sowcow.github.io/blog/tags/snapshot/</link>
       <pubDate>Sun, 23 Jan 2022 11:11:27 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/snapshot/</guid>
@@ -597,14 +604,14 @@
       <description></description>
     </item>
     <item>
-      <title>arts</title>
+      <title>Arts</title>
       <link>https://sowcow.github.io/blog/tags/arts/</link>
       <pubDate>Fri, 19 Nov 2021 14:19:18 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/arts/</guid>
       <description></description>
     </item>
     <item>
-      <title>reads</title>
+      <title>Reads</title>
       <link>https://sowcow.github.io/blog/tags/reads/</link>
       <pubDate>Sun, 07 Nov 2021 16:00:00 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/reads/</guid>
@@ -618,21 +625,21 @@
       <description></description>
     </item>
     <item>
-      <title>music</title>
+      <title>Music</title>
       <link>https://sowcow.github.io/blog/tags/music/</link>
       <pubDate>Sat, 06 Nov 2021 22:52:57 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/music/</guid>
       <description></description>
     </item>
     <item>
-      <title>rewatcheable</title>
+      <title>Rewatcheable</title>
       <link>https://sowcow.github.io/blog/tags/rewatcheable/</link>
       <pubDate>Fri, 05 Nov 2021 12:27:38 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/rewatcheable/</guid>
       <description></description>
     </item>
     <item>
-      <title>opera</title>
+      <title>Opera</title>
       <link>https://sowcow.github.io/blog/tags/opera/</link>
       <pubDate>Sat, 30 Oct 2021 18:26:56 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/opera/</guid>
@@ -646,7 +653,7 @@
       <description></description>
     </item>
     <item>
-      <title>in-russian</title>
+      <title>In-Russian</title>
       <link>https://sowcow.github.io/blog/tags/in-russian/</link>
       <pubDate>Sat, 11 Sep 2021 11:27:15 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/in-russian/</guid>
@@ -660,63 +667,63 @@
       <description></description>
     </item>
     <item>
-      <title>literature</title>
+      <title>Literature</title>
       <link>https://sowcow.github.io/blog/tags/literature/</link>
       <pubDate>Sat, 04 Sep 2021 10:32:15 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/literature/</guid>
       <description></description>
     </item>
     <item>
-      <title>taste</title>
+      <title>Taste</title>
       <link>https://sowcow.github.io/blog/tags/taste/</link>
       <pubDate>Sat, 04 Sep 2021 10:32:15 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/taste/</guid>
       <description></description>
     </item>
     <item>
-      <title>dreams</title>
+      <title>Dreams</title>
       <link>https://sowcow.github.io/blog/tags/dreams/</link>
       <pubDate>Wed, 01 Sep 2021 10:15:05 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/dreams/</guid>
       <description></description>
     </item>
     <item>
-      <title>random</title>
+      <title>Random</title>
       <link>https://sowcow.github.io/blog/tags/random/</link>
       <pubDate>Wed, 01 Sep 2021 10:15:05 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/random/</guid>
       <description></description>
     </item>
     <item>
-      <title>german</title>
+      <title>German</title>
       <link>https://sowcow.github.io/blog/tags/german/</link>
       <pubDate>Sun, 29 Aug 2021 16:52:22 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/german/</guid>
       <description></description>
     </item>
     <item>
-      <title>collections</title>
+      <title>Collections</title>
       <link>https://sowcow.github.io/blog/tags/collections/</link>
       <pubDate>Wed, 25 Aug 2021 21:07:31 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/collections/</guid>
       <description></description>
     </item>
     <item>
-      <title>time</title>
+      <title>Time</title>
       <link>https://sowcow.github.io/blog/tags/time/</link>
       <pubDate>Wed, 25 Aug 2021 10:01:47 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/time/</guid>
       <description></description>
     </item>
     <item>
-      <title>air</title>
+      <title>Air</title>
       <link>https://sowcow.github.io/blog/tags/air/</link>
       <pubDate>Wed, 25 Aug 2021 09:31:59 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/air/</guid>
       <description></description>
     </item>
     <item>
-      <title>land</title>
+      <title>Land</title>
       <link>https://sowcow.github.io/blog/tags/land/</link>
       <pubDate>Wed, 25 Aug 2021 09:31:59 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/land/</guid>
@@ -730,266 +737,266 @@
       <description></description>
     </item>
     <item>
-      <title>tools</title>
+      <title>Tools</title>
       <link>https://sowcow.github.io/blog/tags/tools/</link>
       <pubDate>Tue, 24 Aug 2021 17:21:44 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/tools/</guid>
       <description></description>
     </item>
     <item>
-      <title>tangent</title>
+      <title>Tangent</title>
       <link>https://sowcow.github.io/blog/tags/tangent/</link>
       <pubDate>Sun, 22 Aug 2021 20:03:06 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/tangent/</guid>
       <description></description>
     </item>
     <item>
-      <title>thinking</title>
+      <title>Thinking</title>
       <link>https://sowcow.github.io/blog/tags/thinking/</link>
       <pubDate>Sat, 14 Aug 2021 13:00:33 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/thinking/</guid>
       <description></description>
     </item>
     <item>
-      <title>gap</title>
+      <title>Gap</title>
       <link>https://sowcow.github.io/blog/tags/gap/</link>
       <pubDate>Wed, 04 Aug 2021 17:28:14 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/gap/</guid>
       <description></description>
     </item>
     <item>
-      <title>market</title>
+      <title>Market</title>
       <link>https://sowcow.github.io/blog/tags/market/</link>
       <pubDate>Sat, 31 Jul 2021 09:21:31 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/market/</guid>
       <description></description>
     </item>
     <item>
-      <title>sound</title>
+      <title>Sound</title>
       <link>https://sowcow.github.io/blog/tags/sound/</link>
       <pubDate>Thu, 29 Jul 2021 17:53:26 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/sound/</guid>
       <description></description>
     </item>
     <item>
-      <title>stocks</title>
+      <title>Stocks</title>
       <link>https://sowcow.github.io/blog/tags/stocks/</link>
       <pubDate>Tue, 13 Jul 2021 12:04:15 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/stocks/</guid>
       <description></description>
     </item>
     <item>
-      <title>people</title>
+      <title>People</title>
       <link>https://sowcow.github.io/blog/tags/people/</link>
       <pubDate>Mon, 12 Jul 2021 21:47:49 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/people/</guid>
       <description></description>
     </item>
     <item>
-      <title>politics</title>
+      <title>Politics</title>
       <link>https://sowcow.github.io/blog/tags/politics/</link>
       <pubDate>Mon, 12 Jul 2021 21:47:49 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/politics/</guid>
       <description></description>
     </item>
     <item>
-      <title>future</title>
+      <title>Future</title>
       <link>https://sowcow.github.io/blog/tags/future/</link>
       <pubDate>Sun, 11 Jul 2021 09:02:28 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/future/</guid>
       <description></description>
     </item>
     <item>
-      <title>history</title>
+      <title>History</title>
       <link>https://sowcow.github.io/blog/tags/history/</link>
       <pubDate>Sun, 13 Jun 2021 19:13:54 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/history/</guid>
       <description></description>
     </item>
     <item>
-      <title>life</title>
+      <title>Life</title>
       <link>https://sowcow.github.io/blog/tags/life/</link>
       <pubDate>Wed, 09 Jun 2021 15:11:26 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/life/</guid>
       <description></description>
     </item>
     <item>
-      <title>pleasure</title>
+      <title>Pleasure</title>
       <link>https://sowcow.github.io/blog/tags/pleasure/</link>
       <pubDate>Wed, 02 Jun 2021 15:36:08 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/pleasure/</guid>
       <description></description>
     </item>
     <item>
-      <title>this</title>
+      <title>This</title>
       <link>https://sowcow.github.io/blog/tags/this/</link>
       <pubDate>Sat, 22 May 2021 09:58:54 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/this/</guid>
       <description></description>
     </item>
     <item>
-      <title>atmospheric</title>
+      <title>Atmospheric</title>
       <link>https://sowcow.github.io/blog/tags/atmospheric/</link>
       <pubDate>Sun, 18 Apr 2021 18:27:41 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/atmospheric/</guid>
       <description></description>
     </item>
     <item>
-      <title>images</title>
+      <title>Images</title>
       <link>https://sowcow.github.io/blog/tags/images/</link>
       <pubDate>Sun, 28 Mar 2021 08:39:44 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/images/</guid>
       <description></description>
     </item>
     <item>
-      <title>writing</title>
+      <title>Writing</title>
       <link>https://sowcow.github.io/blog/tags/writing/</link>
       <pubDate>Sun, 28 Mar 2021 08:39:44 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/writing/</guid>
       <description></description>
     </item>
     <item>
-      <title>century</title>
+      <title>Century</title>
       <link>https://sowcow.github.io/blog/tags/century/</link>
       <pubDate>Sat, 27 Mar 2021 11:05:23 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/century/</guid>
       <description></description>
     </item>
     <item>
-      <title>fools</title>
+      <title>Fools</title>
       <link>https://sowcow.github.io/blog/tags/fools/</link>
       <pubDate>Sat, 27 Mar 2021 11:05:23 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/fools/</guid>
       <description></description>
     </item>
     <item>
-      <title>patriotic</title>
+      <title>Patriotic</title>
       <link>https://sowcow.github.io/blog/tags/patriotic/</link>
       <pubDate>Thu, 25 Mar 2021 15:38:47 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/patriotic/</guid>
       <description></description>
     </item>
     <item>
-      <title>zoology</title>
+      <title>Zoology</title>
       <link>https://sowcow.github.io/blog/tags/zoology/</link>
       <pubDate>Sun, 21 Mar 2021 08:06:23 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/zoology/</guid>
       <description></description>
     </item>
     <item>
-      <title>art</title>
+      <title>Art</title>
       <link>https://sowcow.github.io/blog/tags/art/</link>
       <pubDate>Fri, 19 Mar 2021 08:06:53 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/art/</guid>
       <description></description>
     </item>
     <item>
-      <title>psyche</title>
+      <title>Psyche</title>
       <link>https://sowcow.github.io/blog/tags/psyche/</link>
       <pubDate>Thu, 11 Mar 2021 13:49:10 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/psyche/</guid>
       <description></description>
     </item>
     <item>
-      <title>watching</title>
+      <title>Watching</title>
       <link>https://sowcow.github.io/blog/tags/watching/</link>
       <pubDate>Wed, 10 Mar 2021 09:46:23 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/watching/</guid>
       <description></description>
     </item>
     <item>
-      <title>idiocy</title>
+      <title>Idiocy</title>
       <link>https://sowcow.github.io/blog/tags/idiocy/</link>
       <pubDate>Mon, 08 Mar 2021 14:03:23 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/idiocy/</guid>
       <description></description>
     </item>
     <item>
-      <title>trash</title>
+      <title>Trash</title>
       <link>https://sowcow.github.io/blog/tags/trash/</link>
       <pubDate>Sun, 07 Mar 2021 12:37:28 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/trash/</guid>
       <description></description>
     </item>
     <item>
-      <title>zombies</title>
+      <title>Zombies</title>
       <link>https://sowcow.github.io/blog/tags/zombies/</link>
       <pubDate>Sun, 07 Mar 2021 12:37:28 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/zombies/</guid>
       <description></description>
     </item>
     <item>
-      <title>forgotten</title>
+      <title>Forgotten</title>
       <link>https://sowcow.github.io/blog/tags/forgotten/</link>
       <pubDate>Fri, 05 Jun 2020 20:02:09 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/forgotten/</guid>
       <description></description>
     </item>
     <item>
-      <title>order</title>
+      <title>Order</title>
       <link>https://sowcow.github.io/blog/tags/order/</link>
       <pubDate>Fri, 05 Jun 2020 20:02:09 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/order/</guid>
       <description></description>
     </item>
     <item>
-      <title>puzzle</title>
+      <title>Puzzle</title>
       <link>https://sowcow.github.io/blog/tags/puzzle/</link>
       <pubDate>Fri, 05 Jun 2020 20:02:09 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/puzzle/</guid>
       <description></description>
     </item>
     <item>
-      <title>review</title>
+      <title>Review</title>
       <link>https://sowcow.github.io/blog/tags/review/</link>
       <pubDate>Wed, 01 Apr 2020 17:57:52 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/review/</guid>
       <description></description>
     </item>
     <item>
-      <title>code</title>
+      <title>Code</title>
       <link>https://sowcow.github.io/blog/tags/code/</link>
       <pubDate>Sat, 01 Feb 2020 18:36:45 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/code/</guid>
       <description></description>
     </item>
     <item>
-      <title>low-iq</title>
+      <title>Low-Iq</title>
       <link>https://sowcow.github.io/blog/tags/low-iq/</link>
       <pubDate>Mon, 30 Sep 2019 18:00:19 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/low-iq/</guid>
       <description></description>
     </item>
     <item>
-      <title>language</title>
+      <title>Language</title>
       <link>https://sowcow.github.io/blog/tags/language/</link>
       <pubDate>Sun, 11 Aug 2019 09:39:49 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/language/</guid>
       <description></description>
     </item>
     <item>
-      <title>thoughts</title>
+      <title>Thoughts</title>
       <link>https://sowcow.github.io/blog/tags/thoughts/</link>
       <pubDate>Tue, 06 Aug 2019 17:31:40 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
-      <title>gtd</title>
+      <title>Gtd</title>
       <link>https://sowcow.github.io/blog/tags/gtd/</link>
       <pubDate>Fri, 26 Jul 2019 12:56:20 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/gtd/</guid>
       <description></description>
     </item>
     <item>
-      <title>games</title>
+      <title>Games</title>
       <link>https://sowcow.github.io/blog/tags/games/</link>
       <pubDate>Thu, 30 May 2019 13:39:02 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/games/</guid>
       <description></description>
     </item>
     <item>
-      <title>trying-new-stuff</title>
+      <title>Trying-New-Stuff</title>
       <link>https://sowcow.github.io/blog/tags/trying-new-stuff/</link>
       <pubDate>Fri, 17 May 2019 14:04:42 +0500</pubDate>
       <guid>https://sowcow.github.io/blog/tags/trying-new-stuff/</guid>
