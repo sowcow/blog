@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Killers of the Flower Moon - Let&#39;s see what happens.</title>
+    
+    <meta name="description" content="Before What got my attention to the movie is unexpected change on one channel. The channel had comments turned off and occasionally different art was posted there. Then there appeared somewhat simplistic yet dissonant review of the movie and comments went turned on. I knew that M. Scorsese looks into ethnical differences and criminal characters and groups. I think I guessed right at the time what moved the channel&rsquo;s author.">
+    <meta name="author" content="Alexander">
+    
+    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
+    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
+    <meta name="generator" content="Hugo 0.123.2">
+    
+    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
+    
+    
+    <script>
+      function setTheme() {
+        const time = new Date();
+
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then(res => res.json())
+            .then(data => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
+        <ul class="menu">
+          <li>
+            <a href="/blog/">Home</a>
+          </li>
+          <li>
+            <a href="/blog/tags-menu/">Tags</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Killers of the Flower Moon</h1>
+    <div class="post-meta">Alexander · March 10, 2024</div>
+  </header>
+  <div class="post-content"><h1 id="before">Before</h1>
+<p>What got my attention to the movie is unexpected change on one channel.
+The channel had comments turned off and occasionally different art was posted there.
+Then there appeared somewhat simplistic yet dissonant review of the movie and comments went turned on.
+I knew that M. Scorsese looks into ethnical differences and criminal characters and groups.
+I think I guessed right at the time what moved the channel&rsquo;s author.</p>
+<p>So now a couple months later I got to see the movie.</p>
+<h1 id="even-before-that">Even before that</h1>
+<p>There was a wave of organized crime after Soviet Union collapsed under own weight.
+This was used to associate lack of authoritarism and lack of law in peoples memory.
+And criminal stuff is still kept alive on TV for example to keep this demand for law+authoritarism fresh in Russia as it looks.
+And in more backwards locations which are many in Russia there is no need to artificially support existence of that &ldquo;culture&rdquo;.
+And you learn random criminal notions in school informally.</p>
+<h1 id="after">After</h1>
+<p>So initially I thought that watching comedy about some psychos is that type of trashy genre one gets to appreciate after post-Soviet experience.
+But with this movie Scorsese moves the genre to one of the highest points I think.</p>
+<p>Not only because it shows so directly people&rsquo;s perception and dangerous misperception of others.
+And also gives this very close and clear experience of criminal &ldquo;mind&rdquo; bias or distortion.
+But also because it touches crimes between different groups of people which is an old genre that is not looking to be going away.
+And also how it puts accent on the more dangerous not explicitly violent crimes, those with words, good sounding lies and gesticulation.</p>
+<h1 id="overall">Overall</h1>
+<p>It is a rich picture so I&rsquo;m not enumerating here all great shots or wild references.</p>
+<p>Abstracting away from described events
+overall I perceive it as a spicy picture. The secret sauce here is uncommon truths.</p>
+<p>At moments I had far-eastern at points near-eastern impression.
+Overall American indigenous impression is new to me.
+That scene about storm is said to be a bit of actual culture there.</p>
+<p>Of course movie features strong shots and imagery.
+And it is the sneaky shots that out of context public would not consider to be strong that do it.</p>
+<p>Striking imagery of that owl as evil that enters houses so freely.
+Got snakes too.</p>
+<p>Most astonishing scene is when Hale as some dark priest does speech and waving of hands over Minnie while talking using her language.</p>
+<p>The ending scene goes for lighter social format and finishes on the note of telling the truth and seeing the truth.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sowcow.github.io/blog/tags/movies">movies</a></li>
+      <li><a href="https://sowcow.github.io/blog/tags/scorsese">Scorsese</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+
