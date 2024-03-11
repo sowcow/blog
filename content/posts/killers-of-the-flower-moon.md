@@ -29,7 +29,7 @@ And you learn random criminal notions in school informally.
 # After
 
 So initially I thought that watching comedy about some psychos is that type of trashy genre one gets to appreciate after post-Soviet experience.
-But with this movie Scorsese moves the genre to one of the highest points I think.
+But with this movie Scorsese moves the genre to the highest point I think.
 
 Not only because it shows so directly people's perception and dangerous misperception of others.
 And also gives this very close and clear experience of criminal "mind" bias or distortion.
@@ -43,7 +43,7 @@ It is a rich picture so I'm not enumerating here all great shots or wild referen
 Abstracting away from described events
 overall I perceive it as a spicy picture. The secret sauce here is uncommon truths.
 
-At moments I had far-eastern at points near-eastern impression.
+At moments I had far-eastern at points middle-eastern impression.
 Overall American indigenous impression is new to me.
 That scene about storm is said to be a bit of actual culture there.
 
