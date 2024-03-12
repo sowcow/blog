@@ -43,9 +43,9 @@ It is a rich picture so I'm not enumerating here all great shots or wild referen
 Abstracting away from described events
 overall I perceive it as a spicy picture. The secret sauce here is uncommon truths.
 
-At moments I had far-eastern at points middle-eastern impression.
 Overall American indigenous impression is new to me.
-That scene about storm is said to be a bit of actual culture there.
+That scene about storm is said to be a bit of actual culture there and I find the idea interesting.
+At moments I had far-eastern at points middle-eastern impression.
 
 Of course movie features strong shots and imagery.
 And it is the sneaky shots that out of context public would not consider to be strong that do it.
