@@ -55,4 +55,6 @@ Got snakes too.
 
 Most astonishing scene is when Hale as some dark priest does speech and waving of hands over Minnie while talking using her language.
 
+The movie has analytical stream too because it pronounces components of the dynamics that is at the root of the problem.
+
 The ending scene goes for lighter social format and finishes on the note of telling the truth and seeing the truth.
