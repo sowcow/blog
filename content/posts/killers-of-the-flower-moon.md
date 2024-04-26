@@ -58,3 +58,14 @@ Most astonishing scene is when Hale as some dark priest does speech and waving o
 The movie has analytical stream too because it pronounces components of the dynamics that is at the root of the problem.
 
 The ending scene goes for lighter social format and finishes on the note of telling the truth and seeing the truth.
+
+# UPD:
+
+Normally I do not update cinema posts because that is a lot of updating.
+But here in the post I didn't cover the final scene fully.
+
+Obviously the scene is dissonant in multiple ways.
+So there is more to it.
+I like how Lucky Strike is not arbitrary there.
+Random unnamed youtubers assume that FBI connection to the brand is the reason it is there.
+But they are waste of time and it is the biggest error to be satisfied by second-hand opinions when it comes to arts.
