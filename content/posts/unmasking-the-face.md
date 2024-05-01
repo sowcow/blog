@@ -20,7 +20,12 @@ and one obvious one at the end.
 I'd say, even if sneaky, they signify key moments to consider.
 
 For whatever questionable reason, I watched Perfect Days by Wim Wenders too recently.
-Somehow, the director even if the he has great work, tends to be mentioned by Russian speaking people who have no idea about cinema but want to make a shade of impression.
+Somehow, the director, even if the he has great work, tends to be mentioned by Russian speaking people who signal sophistication.
+And I'm fine if somebody references, at least after watching it, if the reference is good.
+But in that case, the referencer probably asked chat-gpt and got hallucinated and confused mix of stuff.
+So it was the worst possible reference, and I don't know what to think about that.
+(BTW: I use chat-gpt to put commas around; hopefully, that does not make my references bad).
+
 Anyway, Perfect Days also has one sneaky and one less so instance of breaking the fourth wall.
 So, Wenders finally pushed me to get a book on mimics and facial expression.
 And Chat-GPT gave good advice on the choice of the book.
