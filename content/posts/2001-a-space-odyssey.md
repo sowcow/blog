@@ -13,6 +13,8 @@ The simpler movie so I'll just record first impressions.
 I expected the movie to be about cardinal topic.
 The topic is human state and experience.
 
+The movie feels very humane at certain moments dispite it being not the most cozy watch.
+
 # Spoilers if you like
 
 The topic is shown from two angles overimposed: intelligence and reproduction.
@@ -24,7 +26,3 @@ All four key appearances signify something fundamental to human experience.
 - Second: superficially - artificial intelligence gets discovered, but I'd say there is more to that AI
 - Third: is experience of body generation complexity
 - Fourth: is limit of unacheivable by every previous generation
-
-# How it feels
-
-The movie feels very humane at certain moments dispite it being not the most cozy watch.
