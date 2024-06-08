@@ -1,243 +1,418 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Let&#39;s see what happens.</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
-    <meta name="generator" content="Hugo 0.124.1">
-    
-    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
-    
-    
-    <script>
-      function setTheme() {
-        const time = new Date();
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+  
+  <title>Let&#39;s see what happens.</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  
+  <meta name="theme-color" />
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Let&#39;s see what happens." />
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then(res => res.json())
-            .then(data => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list home">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <h1 class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></h1>
-        <ul class="menu">
-          <li>
-            <a href="/blog/">Home</a>
-          </li>
-          <li>
-            <a href="/blog/tags-menu/">Tags</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main class="main">
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
 
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Stelling&#43;</h2>
-  </header>
-  <section class="entry-content">
-   <p>Non-Stelling First I watched The Godfather, a couple of Nolan movies, Coffee and Cigarettes.
-Concerning The Godfather I also watched a comentary and analysis which also adds weight and value to the understanding of how the movie made.
-Concerning Nolan. I first thought that he is getting old with his Tenet having stamps and otherwise annoying scenes. Even though I liked ideas and realization and the key scenes of course are my kind of content....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 10, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/stelling/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Bats flu</h2>
-  </header>
-  <section class="entry-content">
-   <p>I like how these days humanity have developed many strains of the new flu:
-british south african nigerian I beleive there was an italian one also I like how there is no chinese strain yet....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 8, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/stamm/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Zombie Watch</h2>
-  </header>
-  <section class="entry-content">
-   <p>Got to have a glimpse of what russian socio-patriotical channel “star” or “zvezda” shows on sunday mornings.
-first there was an episode about how many more people will have cancer in the future then they had one with staged excerpts related to people being executed by firing squads and how scout who was around this went into the mental house then they got to international politics and what prospects should be there for the state I do not do hatewatch normally....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 7, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/zombie-watch/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Archeology</h2>
-  </header>
-  <section class="entry-content">
-   <p>It is in a way like in that movie: Inception. There are forgotten situations that has power over you. And there are symbols that you get to have around instead. At some point you decode the symbols back.
-It feels energetic but calming. It is too rare an experience to not record it....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>June 5, 2020</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/archeology/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>March 2020</h2>
-  </header>
-  <section class="entry-content">
-   <p>General I started some new healthy behaviors but otherwise there was no acceleration compared to the previous month.
-Reading I have finished small german language book that was laying around for too long I have started learning a new programming language so I have read a couple of books on it There are more books on it waiting for their turn Code I started playing with a physical engine I started playing with NNs Then I lost interest but I’m going to return this weekend because there are other motivating factors What didn’t Work Sun Tzu realy wasn’t right for me....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>April 1, 2020</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/march-2020/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>February 2020</h2>
-  </header>
-  <section class="entry-content">
-   <p>Reading Concerning reading/audio I have finished Orthodoxy. I wanted to write about it but it is not the case that I am 100% sure about my own view on these topics. Anyway there is a lot of good stuff in the book overall.
-Basically the author likes his choice/experience and consistency is not the only value he needs. Although in public policy I would be aganist things like that. Even though author mildly argues for that also....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 1, 2020</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/february-2020/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>January 2020</h2>
-  </header>
-  <section class="entry-content">
-   <p>I almost stopped reading stuff so I didn’t write about anything interesting.
-Although I have started listening to Chesterton’s Orthodoxy and I have given couple of small attempts to continue/restart reading Droyzen and Livy. I’m not doing it methodically and I’m not really in control of personal time now.
-So I decided to write about what I have in mind to address that.
-First there is an app idea that I develop when I feel like and then I move to something else....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 1, 2020</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/january-2020/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Werk Ohne Autor</h2>
-  </header>
-  <section class="entry-content">
-   <p>I think this post spoils the movie in a way. It can provide different experience to somebody else.
-I have watched the movie. Although art is not somethig I know much, I have a couple of thoughts about art after the movie.
-It is about making a name So the stuff modernists produce by just exploring the medium before others done it is worth as much as random numbers. But the name can make it winning lottery ticket numbers....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>December 19, 2019</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/werk-ohne-autor/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Epictetus</h2>
-  </header>
-  <section class="entry-content">
-   <p>– Hear me today discoursing in the house of Quadratus.
-– Why should I hear you? Do you wish to show me that you put words together cleverly? You put them together man. And what good will it do you?
-So I have finished listening to an audiobook of teachings of Epictetus. The audiobook is performed by Hayward Morse.
-The content is both very sober, straightforward and logical as it is also entertaining and with a lot of humour....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>October 26, 2019</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/epictetus/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Jordan Peterson</h2>
-  </header>
-  <section class="entry-content">
-   <p>I knew about the guy previously but I was avoiding getting into his stuff at all. But this time I decided to look into his content.
-First I got into some debate youtube videos of him. And it was ok.
-So I decided to look into his audiobook.
-I found the first part quite informative for me:
-I really like biological facts about how things work Christianity as a big sacrafice was new information for me I also enjoyed different literary excerpts (Dostoevsky and others) But then after 50% the real fun starts....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>September 30, 2019</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/jordan-peterson/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="/blog/page/15/">← Prev Page</a>
-    <a class="next" href="/blog/page/17/">Next Page →</a>
-  </nav>
-</footer></main>
-<footer class="footer">
-  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.127.0">
+
+  
+  
+  
+  
+  
+
+
+  
+  
+  <meta itemprop="name" content="Let&#39;s see what happens.">
+  <meta itemprop="dateModified" content="2024-06-08T18:30:08+02:00">
+  
+  <meta property="og:url" content="https://sowcow.github.io/blog/">
+  <meta property="og:site_name" content="Let&#39;s see what happens.">
+  <meta property="og:title" content="Let&#39;s see what happens.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Let&#39;s see what happens.">
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://sowcow.github.io/blog/index.xml"
+    title="Let&#39;s see what happens."
+  />
+  
+  
+  <link rel="canonical" href="https://sowcow.github.io/blog/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://sowcow.github.io/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Coffee for love</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 11, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/coffee/">Coffee for love</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Stelling&#43;</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 10, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/stelling/">Stelling&#43;</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Bats flu</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 8, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/stamm/">Bats flu</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Zombie Watch</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 7, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/zombie-watch/">Zombie Watch</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Archeology</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jun 5, 2020</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/archeology/">Archeology</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">March 2020</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Apr 1, 2020</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/march-2020/">March 2020</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">February 2020</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 1, 2020</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/february-2020/">February 2020</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">January 2020</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 1, 2020</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/january-2020/">January 2020</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Werk Ohne Autor</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Dec 19, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/werk-ohne-autor/">Werk Ohne Autor</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Epictetus</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Oct 26, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/epictetus/">Epictetus</a>
+</section>
+
+
+
+
+<nav class="mt-16 flex">
+  
+  <a class="btn" href="/blog/page/15/">← Prev Page</a>
+  
+  
+  <a class="btn ml-auto" href="/blog/page/17/"
+    >Next Page →</a
+  >
+  
+</nav>
+
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
 </footer>
-<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-</body>
-</html>
 
+  </body>
+</html>

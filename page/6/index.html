@@ -1,242 +1,418 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Let&#39;s see what happens.</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
-    <meta name="generator" content="Hugo 0.124.1">
-    
-    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
-    
-    
-    <script>
-      function setTheme() {
-        const time = new Date();
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+  
+  <title>Let&#39;s see what happens.</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  
+  <meta name="theme-color" />
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Let&#39;s see what happens." />
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then(res => res.json())
-            .then(data => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list home">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <h1 class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></h1>
-        <ul class="menu">
-          <li>
-            <a href="/blog/">Home</a>
-          </li>
-          <li>
-            <a href="/blog/tags-menu/">Tags</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main class="main">
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
 
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Animation</h2>
-  </header>
-  <section class="entry-content">
-   <p>Should I thaw under Serbian sun that’s reflected on me from the flowers?
-Traces merge into pictures and flames animating my hours.
-Is it statue making a step or a travler lost in the grass…
-Wanted web for someone like me! Can’t it be other way can’t it be....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>August 16, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/animation/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Peeping Tom</h2>
-  </header>
-  <section class="entry-content">
-   <p>Spoiler alert and all that.
-I watched Peeping Tom a couple of weeks ago. It is now or never I should write-down what I thought about it.
-Key points many things at once is how I see it the idea that fear is the scariest thing is liberating lots of visual language, some just makes you puzzled, some is obvious it succeeded at confusing me at points surely effect: not scared but puzzled (which is good, scaredness would inhibit analysis) high contrast movie: hilarious/odd/interesting scenes, different personalities, direct contrast and directors tools can be seen or you just feel their presence even if not sure what exactly is there; fearless desensitized vs fearless normal magic camera aspect I have not resolved - some positive vision probably topic of desensitization by the industry enjoyed accents Quality all this baits you in for partial-rewatch even though there is some empuzzlement and repulsion present as a general feeling but the director did his work by quality in all regards to cover for the theme effect; the movie is like a shopping stall of goods about directing things and producing effects, “things perceptable and the general level is not distracting your from products”, so there should be rewatch value from that for sure; it is not at all an ADHD fast-paced salad so you have your time to think about stuff, I liked that for sure, yet it leaves an impresson of being filled with quality material; Exceprts That “he is the director” I understood it (but not at that moment) as both:...</p>
-  </section>
-  <footer class="entry-footer">
-    <time>August 7, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/peeping-tom/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Toothpaste of Wisdom</h2>
-  </header>
-  <section class="entry-content">
-   <p>My tooth pase every day recommends me to save water. The problem is that I have a couple of bottles saved and they stand on a visible place too.
-So I follow trends and all that but my paste keeps demanding more…
-So I thought what if I buy not the cheap paste but some premium version, will the banner disappear? Or at least can I get a better more premium-customer advice then?...</p>
-  </section>
-  <footer class="entry-footer">
-    <time>June 13, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/toothpaste-of-wisdom/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Demoralization by Example</h2>
-  </header>
-  <section class="entry-content">
-   <p>There are different meanings of demoralization that I’m aware of:
-Bezmenov meant total war by exporting ideologies that wipe-out moral reference-points and cause fracturing and internal conflict. Arestovich was talking about waves-like dynamics, I assume due to bio-chemistry that is more cyclical and maybe caused by strong stimuli in the first place (interestingly I got some of that observed by myself) There should be more for sure but I like the interesting ones and I got this idea that some signal demoralization (non-consuciously like most of things surely) as some kind of warfare against mirror-neurones of others....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>May 5, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/demoralization-by-example/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Information Warfare</h2>
-  </header>
-  <section class="entry-content">
-   <p>I haven’t read anything on this. So this is just toying around for the sake of seeing where it leads.
-General I assume thinking requires certain context being fixed. So by affecting this context they affect following thinking.
-Scales of Stories/Thinking high-level: geographical: alliances, resources middle level: normal human thinking in the more understandeable/predictable world mechanical scale: short-term or magical thinking in unpredictable conditions Dehumanization* My guess is that propaganda institutions pollute the middle level and provide conditions for thinking in other levels....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 31, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/information-warfare/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Split</h2>
-  </header>
-  <section class="entry-content">
-   <p>Truth is simple for some and simple still. But then there is the real thing....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 18, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/split/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Katastrofa</h2>
-  </header>
-  <section class="entry-content">
-   <p>A week ago walking through some mazes in Belgrade I found a barbershop for myself. Family business, very authentic place and people. What a luck!
-Anyway initially I thought one of the hostesses called my haircut on the photo in the passport a “katastrofa”. Now I’m thinking it was not about the photo or maybe it was.
-It was fun and I enjoyed the experience there. Now I’m thinking about communication and more....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 17, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/katastrofa/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Democracy</h2>
-  </header>
-  <section class="entry-content">
-   <p>As I understand today the notion is applied to anything where elections are not obviously bought/stolen/taken by force.
-And I have an impression that this word has really big halo not only among the demos but also part of some basic assumed ideology of talking/thinking classes.
-Obviously it is too subvertable to be anything that can be called “good”. But the recent war shows that in competition against more “archaic” system it wins (as it looks now)....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 17, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/democracy/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Wing/Mind</h2>
-  </header>
-  <section class="entry-content">
-   <p>Overall I avoided flying before. So flying to Belgrade was a mixed experience for me.
-I have this anchored to the planes wing.
-When I looked at the wing it was like more technical mind switches-on and starts modelling reality near me. And that was not very comfortable mode.
-Looking at the clouds and the Black Sea likely switched-on more relaxed and more aesthetical mind and the observed reality was having less of me....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 12, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/wing/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Civilians</h2>
-  </header>
-  <section class="entry-content">
-   <p>There are two videos that are related in a way.
-One is an old Ukrainian man showing destroyed military mashinery column part right around shattered village Another is Ukrainian civillians who have maneged to talk-off a column to take a route not through their living place I watched the first one only and the man curses alot. He praises Ukrainian military and curses Russian military. While showing his house is destroyed by Ukrainians right with Russian mashinery....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 28, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/civilians/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="/blog/page/5/">← Prev Page</a>
-    <a class="next" href="/blog/page/7/">Next Page →</a>
-  </nav>
-</footer></main>
-<footer class="footer">
-  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.127.0">
+
+  
+  
+  
+  
+  
+
+
+  
+  
+  <meta itemprop="name" content="Let&#39;s see what happens.">
+  <meta itemprop="dateModified" content="2024-06-08T18:30:08+02:00">
+  
+  <meta property="og:url" content="https://sowcow.github.io/blog/">
+  <meta property="og:site_name" content="Let&#39;s see what happens.">
+  <meta property="og:title" content="Let&#39;s see what happens.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Let&#39;s see what happens.">
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://sowcow.github.io/blog/index.xml"
+    title="Let&#39;s see what happens."
+  />
+  
+  
+  <link rel="canonical" href="https://sowcow.github.io/blog/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://sowcow.github.io/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Fræuds</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Sep 5, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/fraeuds/">Fræuds</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Animation</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Aug 16, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/animation/">Animation</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Peeping Tom</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Aug 7, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/peeping-tom/">Peeping Tom</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Toothpaste of Wisdom</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jun 13, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/toothpaste-of-wisdom/">Toothpaste of Wisdom</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Demoralization by Example</h2>
+  <time class="text-sm antialiased opacity-60"
+    >May 5, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/demoralization-by-example/">Demoralization by Example</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Information Warfare</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 31, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/information-warfare/">Information Warfare</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Split</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 18, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/split/">Split</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Katastrofa</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 17, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/katastrofa/">Katastrofa</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Democracy</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 17, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/democracy/">Democracy</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Wing/Mind</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 12, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/wing/">Wing/Mind</a>
+</section>
+
+
+
+
+<nav class="mt-16 flex">
+  
+  <a class="btn" href="/blog/page/5/">← Prev Page</a>
+  
+  
+  <a class="btn ml-auto" href="/blog/page/7/"
+    >Next Page →</a
+  >
+  
+</nav>
+
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
 </footer>
-<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-</body>
-</html>
 
+  </body>
+</html>

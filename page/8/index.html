@@ -1,242 +1,418 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Let&#39;s see what happens.</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
-    <meta name="generator" content="Hugo 0.124.1">
-    
-    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
-    
-    
-    <script>
-      function setTheme() {
-        const time = new Date();
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+  
+  <title>Let&#39;s see what happens.</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  
+  <meta name="theme-color" />
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Let&#39;s see what happens." />
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then(res => res.json())
-            .then(data => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list home">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <h1 class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></h1>
-        <ul class="menu">
-          <li>
-            <a href="/blog/">Home</a>
-          </li>
-          <li>
-            <a href="/blog/tags-menu/">Tags</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main class="main">
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
 
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Le Streghe (Visconti part)</h2>
-  </header>
-  <section class="entry-content">
-   <p>Spoilers Land
-The movie has multiple parts. I accidentially started watching the one by Visconti that I had already seen at that point and got sucked-in. And then to write more gave another look. And then I could not resisit another look…
-The setting is in the Alps. Alot of botanical framed pictures everywhere represent the topic on the walls. Lack of acquaintance with arts limits the viewer at different points… Red color is favored there....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>January 9, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/le-streghe/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Il Giovane Toscanini</h2>
-  </header>
-  <section class="entry-content">
-   <p>There are always visuals that I enjoy in Zeffirelli movies and I think it is just my taste being very simple in a way. I’m not at the point where I can be specific about visual styles of directors.
-The plot offers a streak of victories to the protagonist.
-First at La Scala when he gets a better opportinity where he is more valued; Second when he revives the diva; Third when he again exchanges the conventional success for the soulmate and a new undertaking; And then becomes a conductor too, saving and even altering the performance, making it feel more like a historic event; I think one theme that goes through the movie is how new generation finds and takes it’s place....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>January 5, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/il-giovane-toscanini/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Simon of Desert</h2>
-  </header>
-  <section class="entry-content">
-   <p>I watched alot of stuff in 2021 that I’d like to write something about just to see how it goes. But there should be a starting point somewhere and the most recent movie is the subject of the post.
-The movie is short so the post should follow the shape of the movie.
-What I have seen is lots of patches with with some light humour everywhere in between. Patches are different and that may be confusing because it looks like there are serious topics interwoven....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>January 3, 2022</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/simon-of-desert/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Ghost Dragon</h2>
-  </header>
-  <section class="entry-content">
-   <p>Back in a day I liked heroes of might and magic game. Overall it was not right to get me addicted but I really liked some parts.
-One thing I found odd is that there are like ten types of dragons. Most of them I considered to be nonsensical - created just to fill some gaps in ideas.
-One particular kind of dragons I liked irrationally is the Skeleton Dragon that can be upgraded to the Ghost Dragon....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>December 5, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/ghost-dragon/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Orange Clouds</h2>
-  </header>
-  <section class="entry-content">
-   <p>This post is like a smell of a level-up of a kind.
-For some time I wanted to write a post about where this simple writing experiment got me. Surely interest in arts is involved too.
-What got me to that idea is that everytime I go for a walk I see something new. Something worth recording or trying to analyse in a post. So there is plenty of simple-looking experiences but in limited time non obvious how to approach in a contained way....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>November 19, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/orange-clouds/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Mind of the Raven</h2>
-  </header>
-  <section class="entry-content">
-   <p>I decided to finally check on how smarter animals organize their groups. I decided to start with ravens because they came to the mind recently. This one was the first that came-out of the google although I know there is a recommendation on this kind of books that I need to dig-out.
-I’m in the beginning and there is that feeling that I’m not going to be told anything organizational. Because the book goes into details on peculiar stuff that is cool from another point of view....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>November 7, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/mind-of-the-raven/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>The Blues</h2>
-  </header>
-  <section class="entry-content">
-   <p>Looking into Blues and got this series produced by Scorsese. I liked Vinyl series so checking this too sounded like a good idea. I watch it in the order of my own relevance/preference.
-The part by Clint Eastwood got me interested from some unexpected angle. Most of the time music itself did not attract me. And that got me interested even more.
-Possibly he tried to capture some of that atmosphere so brought those characters to convey it for themselves....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>November 6, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/the-blues/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Otto E Mezzo</h2>
-  </header>
-  <section class="entry-content">
-   <p>You see quality from the start. A movie about life and play that says it for itself.
-From the director tools point of view I have noticed that the director conveys some things before actualy revealing them. So there is a rewatch value added just by that.
-Also some scenes are spectacular for unknown reasons - this must have been studied well already. But that I think is not what plain rewatch helps with....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>November 5, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/otto-e-mezzo/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Pagliacci</h2>
-  </header>
-  <section class="entry-content">
-   <p>Watched this one without knowledge of libretto and without understanding of language and that was not the best idea.
-Visually and overall I’m attracted to the topic of such strange wandering performers. But as very often happens - you get the shape but there is something else joined to it and you don’t get enough of the thing you expected initially. So one may think that the first thing was there just to create an illusion of something new....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>October 30, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/pagliacci/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Cavalleria Rusticana</h2>
-  </header>
-  <section class="entry-content">
-   <p>Watched it without subtitles or anything. Actually didn’t even know the libretto and the name of what I was watching.
-Normally tragedy is not the genre I watch or even understand. I’m repulced by the ending of Lakme for example. Some things should not be played because they can’t be played truthfully I believe. But probably I’m getting to be more open minded about the genre.
-This time I found myself being very empathetic to Elena Obrazcova so I believe she played well....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>October 23, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/cavalleria-rusticana/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="/blog/page/7/">← Prev Page</a>
-    <a class="next" href="/blog/page/9/">Next Page →</a>
-  </nav>
-</footer></main>
-<footer class="footer">
-  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.127.0">
+
+  
+  
+  
+  
+  
+
+
+  
+  
+  <meta itemprop="name" content="Let&#39;s see what happens.">
+  <meta itemprop="dateModified" content="2024-06-08T18:30:08+02:00">
+  
+  <meta property="og:url" content="https://sowcow.github.io/blog/">
+  <meta property="og:site_name" content="Let&#39;s see what happens.">
+  <meta property="og:title" content="Let&#39;s see what happens.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Let&#39;s see what happens.">
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://sowcow.github.io/blog/index.xml"
+    title="Let&#39;s see what happens."
+  />
+  
+  
+  <link rel="canonical" href="https://sowcow.github.io/blog/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://sowcow.github.io/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Habitat</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jan 23, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/habitat/">Habitat</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Le Streghe (Visconti part)</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jan 9, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/le-streghe/">Le Streghe (Visconti part)</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Il Giovane Toscanini</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jan 5, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/il-giovane-toscanini/">Il Giovane Toscanini</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Simon of Desert</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jan 3, 2022</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/simon-of-desert/">Simon of Desert</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Ghost Dragon</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Dec 5, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/ghost-dragon/">Ghost Dragon</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Orange Clouds</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Nov 19, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/orange-clouds/">Orange Clouds</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Mind of the Raven</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Nov 7, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/mind-of-the-raven/">Mind of the Raven</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">The Blues</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Nov 6, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/the-blues/">The Blues</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Otto E Mezzo</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Nov 5, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/otto-e-mezzo/">Otto E Mezzo</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Pagliacci</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Oct 30, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/pagliacci/">Pagliacci</a>
+</section>
+
+
+
+
+<nav class="mt-16 flex">
+  
+  <a class="btn" href="/blog/page/7/">← Prev Page</a>
+  
+  
+  <a class="btn ml-auto" href="/blog/page/9/"
+    >Next Page →</a
+  >
+  
+</nav>
+
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
 </footer>
-<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-</body>
-</html>
 
+  </body>
+</html>

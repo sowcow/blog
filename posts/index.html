@@ -1,242 +1,414 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Tags - Let&#39;s see what happens.</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
-    <meta name="generator" content="Hugo 0.124.1">
-    
-    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
-    
-    
-    <script>
-      function setTheme() {
-        const time = new Date();
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+  
+  <title>Posts - Let&#39;s see what happens.</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  
+  <meta name="theme-color" />
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Let&#39;s see what happens." />
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then(res => res.json())
-            .then(data => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
-        <ul class="menu">
-          <li>
-            <a href="/blog/">Home</a>
-          </li>
-          <li>
-            <a href="/blog/tags-menu/">Tags</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main class="main">
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
 
-<header class="page-header">
-  <h1>Tags</h1>
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.127.0">
+
+  
+  
+  
+  
+  
+
+
+  
+  
+  <meta itemprop="name" content="Posts">
+  <meta itemprop="dateModified" content="2024-06-08T18:30:08+02:00">
+  
+  <meta property="og:url" content="https://sowcow.github.io/blog/posts/">
+  <meta property="og:site_name" content="Let&#39;s see what happens.">
+  <meta property="og:title" content="Posts">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Posts">
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://sowcow.github.io/blog/posts/index.xml"
+    title="Let&#39;s see what happens."
+  />
+  
+  
+  <link rel="canonical" href="https://sowcow.github.io/blog/posts/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://sowcow.github.io/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
 </header>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Unmasking the Face</h2>
-  </header>
-  <section class="entry-content">
-   <p>Context There is a breaking of the fourth wall element in theater/cinema. I recall the name only after I start to see significance of such tools. For example, in Killer’s of the Flower Moon, there are at least two sneaky breakings of the fourth wall and one obvious one at the end. I’d say, even if sneaky, they signify key moments to consider.
-For whatever questionable reason, I watched Perfect Days by Wim Wenders too recently....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>April 26, 2024</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/unmasking-the-face/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Killers of the Flower Moon</h2>
-  </header>
-  <section class="entry-content">
-   <p>Before What got my attention to the movie is unexpected change on one channel. The channel had comments turned off and occasionally different art was posted there. Then there appeared somewhat simplistic yet dissonant review of the movie and comments went turned on. I knew that M. Scorsese looks into ethnical differences and criminal characters and groups. I think I guessed right at the time what moved the channel’s author....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 10, 2024</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/killers-of-the-flower-moon/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Audible</h2>
-  </header>
-  <section class="entry-content">
-   <p>I’ve been checking Audible lately. It does not make good impression on the outset. So I decided to search for Quigley there. Instead search got me some parody to his book that has the same name with “101” added at the end.
-There are present actual quotes of Quigley so the book can not be called absolute waste of time. While of course everything else in it is. Notably:
-quotes from Wikipedia quotes from fiction own opinions of that 101 author The way that “author” repeats themselves shows how low of an opinion they are about the audience of that “book”....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 29, 2024</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/audible/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Quigley</h2>
-  </header>
-  <section class="entry-content">
-   <p>I’ve read The Evolution of Civilizations by C. Quigley.
-scientific approach insightful content yet very available: clear language and simple sentences Author explains scientific method, dynamics of development of civilizations in terms of instruments and institutions, morphology between levels of abstraction, also he only mentions at the end law vs fact model of understanding. The way author ends the book compels one to check more of his content.
-Anyway I’ve moved to other authors because there are sizable gaps of understanding to fill-in....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 10, 2024</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/quigley/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Matter of Life and Death</h2>
-  </header>
-  <section class="entry-content">
-   <p>Hypnotic start and common but strange finish.
-Sometimes things not said or not shown are interesting.
-Here I see ideas about thunderbolt, neuron growth, ladder, and “flight from Berlin”. Also script should have some ideas that did not make it into the movie.
-There is propaganda angle to it which is fine by me. I think it is still strong even if the idea of Anglo-American cooperation in the new world is ignored....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>January 3, 2024</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/matter-of-life-and-death/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Wired Encounters</h2>
-  </header>
-  <section class="entry-content">
-   <p>I was looking for a project this summer so I had some random interactions over the internet. Two of interactions had some strange quality.
-One is what I recall as short and bald guy from post-Soviet territory. He had a very attentive look as if at every moment he was looking at spinning slots. He had a gambling project and he even said that involvement in such projects is less ethically challenging than being involved in prostitution business....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>December 1, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/wired-encounters/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Tempest</h2>
-  </header>
-  <section class="entry-content">
-   <p>I’ve noticed new and unexpected juice-making machine in the shop I visit periodically. But also my path to shop goes near a juice-drinking joint that got closed a couple of months ago.
-Now since the joint got closed there are dead bugs that seem to accumulate inside. And it has a very good overview with a wall of glass. So it is in a way like this big insect aquarium. It would be entertaining but I don’t believe that there is no limit to their accumulation....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>October 22, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/tempest/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Black Narcissus</h2>
-  </header>
-  <section class="entry-content">
-   <p>It is a type of lucid Disney movie crossing into a horror film. The earliest erotic movie. Melodrama about nuns.
-Spoilers may lie ahead.
-Team In director’s commentary M. Powell mentions:
-high quality of the team and art department cases of intrinsic match of actors to roles directors role of believing in the project how the team kind of lived through the movie (without big picture possibly?) And this final point probably assumes a degree of improvisation on actors part in the process and also a degree of freedom during the editing part....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>September 27, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/black-narcissus/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Eyes Wide Shut</h2>
-  </header>
-  <section class="entry-content">
-   <p>Context Even though I’ve seen some of this director and I recall some things to be interesting I otherwise avoided watching his work because the name seemed too popular. Checked this one for a random reason. I wasn’t sure about the choice for the first half maybe. But then the director delivered technically. And then I got to see the conception that is brilliant too.
-Summary Delivered in colorful and crinkling packaging to distract the viewer; simultaneously Christmas and Halloween joke played right on the viewer; yet also having a personal down to earth snapshot of not obvious family business management at one point....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>September 12, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/eyes-wide-shut/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>The Cardsharps</h2>
-  </header>
-  <section class="entry-content">
-   <p>I have experienced the sudden escalation effect of the picture. I wonder if background information and other pictures influenced that experience too or the picture is self-contained.
-I assume this picture for me has opened the door for other works of the author. I wonder if it casts a shadow too.
-Spoilers the artist was involved in stabbing a person to death over gambling matters English naming of picture sounds sharp other paintings too often have or imply sharp objects ...</p>
-  </section>
-  <footer class="entry-footer">
-    <time>August 23, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/the-cardsharps/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="next" href="/blog/posts/page/2/">Next Page →</a>
-  </nav>
-</footer></main>
-<footer class="footer">
-  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
-</footer>
-<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-</body>
-</html>
 
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">2001: A Space Odyssey</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jun 8, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/2001-a-space-odyssey/">2001: A Space Odyssey</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Unmasking the Face</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Apr 26, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/unmasking-the-face/">Unmasking the Face</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Killers of the Flower Moon</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 10, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/killers-of-the-flower-moon/">Killers of the Flower Moon</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Audible</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 29, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/audible/">Audible</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Quigley</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 10, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/quigley/">Quigley</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Matter of Life and Death</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jan 3, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/matter-of-life-and-death/">Matter of Life and Death</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Wired Encounters</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Dec 1, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/wired-encounters/">Wired Encounters</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Tempest</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Oct 22, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/tempest/">Tempest</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Black Narcissus</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Sep 27, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/black-narcissus/">Black Narcissus</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Eyes Wide Shut</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Sep 12, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/eyes-wide-shut/">Eyes Wide Shut</a>
+</section>
+
+
+
+
+<nav class="mt-16 flex">
+  
+  
+  <a class="btn ml-auto" href="/blog/posts/page/2/"
+    >Next Page →</a
+  >
+  
+</nav>
+
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>

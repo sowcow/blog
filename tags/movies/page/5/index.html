@@ -1,243 +1,418 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>movies - Let&#39;s see what happens.</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
-    <meta name="generator" content="Hugo 0.124.1">
-    
-    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
-    
-    
-    <script>
-      function setTheme() {
-        const time = new Date();
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+  
+  <title>Movies - Let&#39;s see what happens.</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  
+  <meta name="theme-color" />
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Let&#39;s see what happens." />
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then(res => res.json())
-            .then(data => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
-        <ul class="menu">
-          <li>
-            <a href="/blog/">Home</a>
-          </li>
-          <li>
-            <a href="/blog/tags-menu/">Tags</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main class="main">
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
 
-<header class="page-header">
-  <h1>movies</h1>
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.127.0">
+
+  
+  
+  
+  
+  
+
+
+  
+  
+  <meta itemprop="name" content="Movies">
+  <meta itemprop="dateModified" content="2024-06-08T18:30:08+02:00">
+  
+  <meta property="og:url" content="https://sowcow.github.io/blog/tags/movies/">
+  <meta property="og:site_name" content="Let&#39;s see what happens.">
+  <meta property="og:title" content="Movies">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Movies">
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://sowcow.github.io/blog/tags/movies/index.xml"
+    title="Let&#39;s see what happens."
+  />
+  
+  
+  <link rel="canonical" href="https://sowcow.github.io/blog/tags/movies/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://sowcow.github.io/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
 </header>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>The Taming of the Shrew</h2>
-  </header>
-  <section class="entry-content">
-   <p>The one by Zeffirelli. Planned to watch this in two session but got too interested and watched in one.
-The first impression is what is called “Tube sound” in Russia at least. So it is more warm and comfortable quality of picture in this case. After watching two modern space movies previously there is no surprise, but I beleive it is quality of the movie too. It is wild but in more natural way because it is a comedy....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>July 16, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/taming/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Brother Sun, Sister Moon</h2>
-  </header>
-  <section class="entry-content">
-   <p>I watched it some time ago so I may forget someting that I wanted to say here.
-It is exalted. I remember that there are some nice images. As a viewer I did beleive that the guy has a vision. And it was compelling in some way to me.
-I remembered very obvious scene when the ceremony when hair being cut is followed by sheep flock with some of them being cut too....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>July 12, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/brother-sun/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Gravity</h2>
-  </header>
-  <section class="entry-content">
-   <p>Watched the movie. It seems more balanced than Interstellar. It has both cheesy stuff like males self-sacraficing while looking into females face (Interstellar also has exactly that). But it also has more like that will and action against entropy and even gravity itself.
-It has some naked legs Lara Croft action too.
-It has some of what can be commonly referred as psychological. Initially Lara :) is being handled like a baby in that sense....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>July 12, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/gravity/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Interstellar</h2>
-  </header>
-  <section class="entry-content">
-   <p>Yesterday, one day before the historic Unity22 launch I decided to watch Inception. I remembered that the movie was annoying alot of times but stil gave it a try. So this post is about that experience.
-Positives I’ll start with positives to not be too harsh.
-The plot seems to be more interesting that I remembered initially. There were a couple of cool visuals, some nice scenes overall or even I appreciated how certain scenes were directed....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>July 11, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/interstellar/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Tea with Mussolini</h2>
-  </header>
-  <section class="entry-content">
-   <p>The movie is like a story with different aspects to it. It has a bit of everything from nice views to light comedy and interesting people in odd situations. But then it turned to be a small puzzle that I got solved here while writing the post.
-One thing I got to remember are how imposing Mussolini’s table is. Another thing is how nicely and lightly trashy art is being advertised in one scene....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>June 20, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/tea-mussolini/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Blowup</h2>
-  </header>
-  <section class="entry-content">
-   <p>My first movie of the director. I have seen some time ago and now decided to give a try to works of Antonioni overall. I put there thoughts I got from it.
-Scenes: In the beginning credits are shown in an interesting way you kind of see somethnig by through letters but you only see the gist. The movie starts with fun-car, and then death-camp-looking corridor - contrast from the start....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>June 4, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/blowup/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>L Innocente</h2>
-  </header>
-  <section class="entry-content">
-   <p>I don’t use names here because they does not matter. It is not a movie for rewatching for me. I feel that that “dark freedom” mixed with good looks is a bit repulsive. One the other hand it still takes it’s own place. With it’s own confused ugliness in a nice shaped environment. But still roles do not deserve names from my point of view. No idea why.
-TLDR: Crazy miscommunication between genders....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>May 27, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/l-innocente/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Senso</h2>
-  </header>
-  <section class="entry-content">
-   <p>Beautiful aesthetics. Not to say about views of Venice and Italy. Both strong feelings and something different also.
-My version of the movie was missing Livia money explanation scene :). The actress plays very well if you ask me. But she convincingly plays something very different. So I can not imagine that scene and would like to see that!
-There is a class difference that I see in different movies. Also there is blindness that is imposed on Livia by her nature....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>May 26, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/senso/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Lo Straniero / The Stranger</h2>
-  </header>
-  <section class="entry-content">
-   <p>NOTE: I have found out that it is by a novel by Camus so I bet this stuff is already analysed well. But I write my thoughts on the movie for myself partially to remember it better and partially to analyze it better in the process of writing/watching. Also writing stuff is not a bad idea by itself.
-Due to me confusing this movie with another I considered comments on the internet odd so I wasn’t excited to start watching it and delayed this movie....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>May 16, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/lo-straniero/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Ossessione</h2>
-  </header>
-  <section class="entry-content">
-   <p>Watched Obsession by Visconti. I did it in two sessions and the movie is divided in two parts by itself also.
-Spoilers ahead of course. I write stuf in two sessions so I may forgot something.
-Lightning I like that at the time movies were made with lightning being used at the maximal capacity. You see it being used remarkably through the movie (from mine beginner-enthusiast point of view).
-There are different small scenes that I noticed visually even if I don’t remember dialogs: only the theme or direction plus some visual clues....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>April 26, 2021</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/ossessione/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="/blog/tags/movies/page/4/">← Prev Page</a>
-    <a class="next" href="/blog/tags/movies/page/6/">Next Page →</a>
-  </nav>
-</footer></main>
-<footer class="footer">
-  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
-</footer>
-<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-</body>
-</html>
 
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+
+
+<h1 class="mb-16">#Movies</h1>
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">The Eclipse</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jul 18, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/eclipse/">The Eclipse</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">The Taming of the Shrew</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jul 16, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/taming/">The Taming of the Shrew</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Brother Sun, Sister Moon</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jul 12, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/brother-sun/">Brother Sun, Sister Moon</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Gravity</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jul 12, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/gravity/">Gravity</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Interstellar</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jul 11, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/interstellar/">Interstellar</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Tea with Mussolini</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jun 20, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/tea-mussolini/">Tea with Mussolini</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Blowup</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Jun 4, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/blowup/">Blowup</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">L Innocente</h2>
+  <time class="text-sm antialiased opacity-60"
+    >May 27, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/l-innocente/">L Innocente</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Senso</h2>
+  <time class="text-sm antialiased opacity-60"
+    >May 26, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/senso/">Senso</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Lo Straniero / The Stranger</h2>
+  <time class="text-sm antialiased opacity-60"
+    >May 16, 2021</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/lo-straniero/">Lo Straniero / The Stranger</a>
+</section>
+
+
+
+
+<nav class="mt-16 flex">
+  
+  <a class="btn" href="/blog/tags/movies/page/4/">← Prev Page</a>
+  
+  
+  <a class="btn ml-auto" href="/blog/tags/movies/page/6/"
+    >Next Page →</a
+  >
+  
+</nav>
+
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>

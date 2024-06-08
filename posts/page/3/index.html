@@ -1,239 +1,416 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title>Tags - Let&#39;s see what happens.</title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="https://sowcow.github.io/blog/an-old-hope.min.css" rel="stylesheet">
-    <link href="https://sowcow.github.io/blog/style.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png">
-    <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico">
-    <meta name="generator" content="Hugo 0.124.1">
-    
-    <link rel="alternate" type="application/atom+xml" href="https://sowcow.github.io/blog/index.xml" title="Let&#39;s see what happens.">
-    
-    
-    <script>
-      function setTheme() {
-        const time = new Date();
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+  
+  <title>Posts - Let&#39;s see what happens.</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  
+  <meta name="theme-color" />
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Let&#39;s see what happens." />
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then(res => res.json())
-            .then(data => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <p class="logo"><a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></p>
-        <ul class="menu">
-          <li>
-            <a href="/blog/">Home</a>
-          </li>
-          <li>
-            <a href="/blog/tags-menu/">Tags</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <main class="main">
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
 
-<header class="page-header">
-  <h1>Tags</h1>
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="https://sowcow.github.io/blog/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://sowcow.github.io/blog/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.127.0">
+
+  
+  
+  
+  
+  
+
+
+  
+  
+  <meta itemprop="name" content="Posts">
+  <meta itemprop="dateModified" content="2024-06-08T18:30:08+02:00">
+  
+  <meta property="og:url" content="https://sowcow.github.io/blog/posts/">
+  <meta property="og:site_name" content="Let&#39;s see what happens.">
+  <meta property="og:title" content="Posts">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Posts">
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://sowcow.github.io/blog/posts/index.xml"
+    title="Let&#39;s see what happens."
+  />
+  
+  
+  <link rel="canonical" href="https://sowcow.github.io/blog/posts/" />
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="https://sowcow.github.io/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
 </header>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>River</h2>
-  </header>
-  <section class="entry-content">
-   <p>Previously I had this assumption that the most valuable language to learn must be most different from the native tongue. Now while learning some Serbian I got to see that learning similar language has it own advantages. Because of similarities it is easier to see parallels and to reflect back on parts of the native language that you were not aware of. And even though actual etymology may be not as straight-forward as it seems, the current picture of a language matters....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>April 28, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/river/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Insomnia</h2>
-  </header>
-  <section class="entry-content">
-   <p>I have seen both Insomnias - first the one by Nolan and then the one by Skjoldbjærg. I wanted to record something on this so Nolan goes first.
-First I recognized some Twin Peaks atmosphere to it. Then also Nolan very explicitly plays with one straightforward idea and you can’t unsee it. This adds entertainment value all over the movie however slow it seems to be. Interestingly it makes some scenes way more memorable because you have more structure to them....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>April 2, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/insomnia/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Conversation Piece</h2>
-  </header>
-  <section class="entry-content">
-   <p>Watched the piece again and saw some of it’s riches.
-The most obvious, simple yet exceptional scene that shows what can be called “unveiling”. Enjoyable echo to Vaghe stelle dell’Orsa right there. But the scene is crisp clear even by itself in the context of one movie.
-Secondly there are scenes before and after it that have some non-obvious play too.
-Not to say that I believe there is a mini-ghost in the movie too and I don’t know why yet....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>April 1, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/conversation-piece/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Stars</h2>
-  </header>
-  <section class="entry-content">
-   <p>Awoke and looked at the starts in the night. Eyes may be more relaxed and sensitive at that time. Also I assume they may move slower and movements may be less calibrated.
-Some stars are clear, some are twinkling, and other are faint. While clear stars make a space with landmarks. Through twinkling one comes to faint and they are the interesting ones. They are both fish and water of the night sky....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 14, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/stars/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Polar Positions</h2>
-  </header>
-  <section class="entry-content">
-   <p>On one hand I see that there is value in presence of actually polar positions. While on the other hand any polar by itself is likely to be destructive.
-It is odd how this balance necessitates both polarization and tolerance. Operational democracy is a demanding beast.
-Note I don’t pursue the topic systematically while complexities of it get my attention periodically. So I highlight some aspects that look new to me but since I don’t have a bigger picture yet there is a higher risk of misinterpretation and inherent incompleteness of statements....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>March 11, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/polar-positions/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>City (Lights)</h2>
-  </header>
-  <section class="entry-content">
-   <p>On a crossroads if lights show me green before I get there - I skip this turn regardless of how much time is there. It doesn’t sound like a “herd behavior” on one hand. But unusually this leads to me crossing the road with a crowd on every crossroads this way.
-Anyway if it shows me green, instead I go check the newspapers I never check or I find something interesting....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 20, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/city/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Loading</h2>
-  </header>
-  <section class="entry-content">
-   <p>After getting excited by New York Stories. I thought a bit about whether co-creation in form of potentially loading posts about movies with my at times far reaching interpretations or implications is the right thing to do.
-I say it can’t be other way. Authentic and entertaining go together in my mind. So the genre of this personal blog should be something around: random observations and imaginations well-mixed in a skull shaped bowl and sprinkled with grammar errors....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 19, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/loading/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>New York Stories</h2>
-  </header>
-  <section class="entry-content">
-   <p>Talking about the first segment here. Awesome and controversial piece. Watching this only one time is not getting the value. And general context of watching should be different too so I&#39;d recommend arbitrary time gap between sessions. Also spoilers here may spoil the second watch too.
-The first segment of New York Stories is by Martin Scorsese. I watched the segment twice with some delay and wrote this later still....</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 16, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/new-york-stories/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Das Boot</h2>
-  </header>
-  <section class="entry-content">
-   <p> Eyes of war Also about human state in general Religious theme at one point sounds almost as if they are not sure if God sees them underwater Heroism, leadership, team dynamics, failure of administration: absurdity and sabotage Notably silent communication and how everybody understands and predicts others Impressive opening sequence ...</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 15, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/das-boot/"></a>
-</article>
-<article class="post-entry">
-  <header class="entry-header">
-    <h2>Apology</h2>
-  </header>
-  <section class="entry-content">
-   <p>Overview Best known piece where Plato poses big question vividly. The question touches many topics and can be seen from different angles. Humor lightens the reading while also bringing Socrates closer thus increasing the gravity of the question.
-Angles obvious to me:
-character vs shadows duty vs whatever high cost of truth vs mass of conformists individual ethics vs median masses mechanics/(im)morality political/ideological: “undemocratic logic” of considering what is best as opposed to wherever masses go political/class: rich young followers intergenerational and other decay/corruption of Athens inadequate court process, circus by definition Unforgettable quote: “by the dog I swear!...</p>
-  </section>
-  <footer class="entry-footer">
-    <time>February 13, 2023</time>
-  </footer>
-  <a class="entry-link" href="https://sowcow.github.io/blog/posts/apology/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="prev" href="/blog/posts/page/2/">← Prev Page</a>
-    <a class="next" href="/blog/posts/page/4/">Next Page →</a>
-  </nav>
-</footer></main>
-<footer class="footer">
-  <span>&copy; 2024 <a href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
-</footer>
-<script src="https://sowcow.github.io/blog/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-</body>
-</html>
 
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">La Dolce Vita</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Apr 29, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/la-dolce-vita/">La Dolce Vita</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">River</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Apr 28, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/river/">River</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Insomnia</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Apr 2, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/insomnia/">Insomnia</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Conversation Piece</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Apr 1, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/conversation-piece/">Conversation Piece</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Stars</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 14, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/stars/">Stars</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Polar Positions</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 11, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/polar-positions/">Polar Positions</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">City (Lights)</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 20, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/city/">City (Lights)</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Loading</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 19, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/loading/">Loading</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">New York Stories</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 16, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/new-york-stories/">New York Stories</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Das Boot</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Feb 15, 2023</time
+  >
+  <a class="absolute inset-0 text-[0]" href="https://sowcow.github.io/blog/posts/das-boot/">Das Boot</a>
+</section>
+
+
+
+
+<nav class="mt-16 flex">
+  
+  <a class="btn" href="/blog/posts/page/2/">← Prev Page</a>
+  
+  
+  <a class="btn ml-auto" href="/blog/posts/page/4/"
+    >Next Page →</a
+  >
+  
+</nav>
+
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="https://sowcow.github.io/blog/">Let&#39;s see what happens.</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>
