@@ -8,7 +8,7 @@ tags:
 - Kubrick
 ---
 
-The simpler movie so I'll just record first impressions.
+The simpler/more-explicit movie so I'll try to stick to just first impressions.
 
 I expected the movie to be about cardinal topic.
 The topic is human state and experience.
@@ -29,3 +29,4 @@ All four key appearances signify something fundamental to human experience.
 
 The movie feels very humane at certain moments dispite it being not the most cozy watch.
 Understanding the whole thing makes it a comedy too.
+This makes for an interesting depth in it.
