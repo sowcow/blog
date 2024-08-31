@@ -16,7 +16,7 @@ It could be seen as an overview and an introduction to the cinema of Powel and P
 I like how creative paths of that collaboration and M. Scorsese are interwoven in different ways.
 So, it can be seen as double documentary to some extent.
 
-Of course this is not a documentary in any dull sense because the subject cinema is so creative, expressive and strong.
+Of course this is not a documentary in any dull sense because the subject cinema is so creative, expressive and as strong or as subtle as one allows it to be.
 In 2023 BFI called the event celebrating the artists "Cinema Unbound".
 
 Yet, I enjoyed black and white photos and stage documentary tapes here and there.
