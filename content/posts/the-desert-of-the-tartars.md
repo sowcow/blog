@@ -29,4 +29,4 @@ Then after a couple of weeks some new transport appears that will surely do it.
 What happens is that you stop believing any such news and do not believe until the last moment.
 
 On the last day I looked around to remember things and it is not that I visually recall anything I do not reconstruct.
-Instead of the building where we lived the memory retrieves the fort from the book as I imagined it.
+Instead of the building where we lived the memory retrieves the fort from the movie or from the book as I imagined it.
