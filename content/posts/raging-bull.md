@@ -12,8 +12,9 @@ I think there was general context of hearing how this was one of the movies nota
 The movie's title sequence by itself confirms that art-cinema aspect being there.
 And actually it confirms the reference, if one wants to see it from that angle.
 
-Watching it from that perspective ain't obviously satisactory entertainment, but it actually gave me some enjoyable parallels.
-And it gave some of own picture's language that could be missed without that kind of attention.
+Watching it from that perspective ain't guaranteed satisaction kind of entertainment, but it actually gave me some enjoyable parallels.
+And that development and difference compared to the reference tool used is what enriches overall cinema experience by structuring it more.
+Also it gave some of own picture's language that could be missed without that kind of attention.
 
 Anyway, I think this movie is like it's own animal unlike some ideally casted creation.
 That's why I enjoyed different perspectives and insights from commentary material.
