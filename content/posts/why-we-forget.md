@@ -19,7 +19,7 @@ Another piece of the puzzle is the video on "Consciousness as a Memory System" p
 I saw it somewhere during the year.
 I think it is generally available explanation touching a lot of interesting non-fiction topics.
 
-Authors of the presentation also wrote a book that I have read: Why We Forget and How To Remember Better: The Science Behind Memory.
+The author of the presentation also wrote a book that I have read: Why We Forget and How To Remember Better: The Science Behind Memory.
 
 So now I got the idea to write about what I remembered from the book.
 
