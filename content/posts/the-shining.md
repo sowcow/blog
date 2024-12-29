@@ -49,5 +49,7 @@ I've heard something about Indigenous American references to be relevant for int
 Hair-splitting about such details is not useful in interpreting the movie.
 They have some suggestion power, but they are far from the subject and are not necessary for understanding it.
 
-I didn't read the original novel.
-But some fundamental literary images are interwoven into the movie's fabric.
+There is a novel by the same name, but it has no use in interpreting the the movie.
+In fact, it should be actively ignored since its author completely failed to appreciate the picture.
+
+Talking about more serious and fundamental literature, there are images from it that are interwoven into the movie's fabric.
