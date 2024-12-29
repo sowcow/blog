@@ -17,7 +17,7 @@ may have the illusion that you can't see it with fresh eyes.
 Maybe the whole remote Hotel theme invokes that feeling that there
 are experiences remote in the past that you can't even recall, not to say about making sense of.
 
-# Got scared off
+# Realism
 
 I watched the movie in a headset.
 I generally control fear response by having controlled volume and being analytical.
