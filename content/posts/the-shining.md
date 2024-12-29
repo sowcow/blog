@@ -51,5 +51,9 @@ They have some suggestion power, but they are far from the subject and are not n
 
 There is a novel by the same name, but it has no use in interpreting the the movie.
 In fact, it should be actively ignored since its author completely failed to appreciate the picture.
+Instead, that fella went into petty remarks mode about the movie, which is the most disgusting way to treat other people's creative work.
 
-Talking about more serious and fundamental literature, there are images from it that are interwoven into the movie's fabric.
+Talking about more serious literature, there are fundamental references that are interwoven into the movie's fabric.
+And that layer I found to be most enjoyable.
+It offers plenty of what is not exactly shown, yet it is there.
+That makes it for actually a haunted hotel, and shining is an actual faculty on part of the viewer, that allows to reconstruct that layer.
