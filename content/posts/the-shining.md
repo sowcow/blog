@@ -43,6 +43,11 @@ I say these two movies can be seen as contrasting.
 I do not consider this movie to be simply a scary movie.
 And I may want to check if some other good instances exist in that genre.
 
+# Tragedy
+
+There are a couple of real reasons to be scared.
+With all the comedy and grandeur there is quite a tragedy at the depth of it too.
+
 # Interpretation
 
 I've heard something about Indigenous American references to be relevant for interpretation.
