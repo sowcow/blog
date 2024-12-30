@@ -47,6 +47,7 @@ And I may want to check if some other good instances exist in that genre.
 
 There are a couple of real reasons to be scared.
 With all the comedy and grandeur there is quite a tragedy at the depth of it too.
+At that point the movie looks solved.
 
 # Interpretation
 
