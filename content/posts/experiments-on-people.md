@@ -24,5 +24,5 @@ My observations at this point:
 I'm lately thinking about the idea of shadow archetype-wise very abstractly.
 Looking into these dynamics is in a way that shadow area for me.
 
-I consider interpretations of Eyes Wide Shut to be more degenerate than the content.
+I consider interpretations of Eyes Wide Shut to be more degenerate than the content at it's deepest.
 But the real sewer of interest is the dynamics that produces them.
