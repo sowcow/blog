@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Let&#39;s see what happens.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 08:34:51 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 12:56:37 +0100</lastBuildDate>
     <atom:link href="https://sowcow.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HAL Moment</title>
+      <link>https://sowcow.github.io/blog/posts/hal-moment/</link>
+      <pubDate>Tue, 14 Jan 2025 12:56:37 +0100</pubDate>
+      <guid>https://sowcow.github.io/blog/posts/hal-moment/</guid>
+      <description>&lt;p&gt;Got to have a point, where the only way to express it is by quoting some of the HAL monologue.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Experiments on People</title>
       <link>https://sowcow.github.io/blog/posts/experiments-on-people/</link>
