@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2025-01-25T21:42:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2025-01-25T21:42:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2025-01-25T21:42:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
+    <lastmod>2025-01-25T21:42:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/shutter-island/</loc>
+    <lastmod>2025-01-25T21:42:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-01-25T21:42:36+01:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/hal-moment/</loc>
     <lastmod>2025-01-14T12:56:37+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/kubrick/</loc>
-    <lastmod>2025-01-14T12:56:37+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-01-14T12:56:37+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-01-14T12:56:37+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-01-14T12:56:37+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2025-01-14T12:56:37+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/experiments-on-people/</loc>
@@ -42,9 +48,6 @@
     <lastmod>2024-10-20T12:17:15+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/raging-bull/</loc>
-    <lastmod>2024-10-13T12:05:06+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
     <lastmod>2024-10-13T12:05:06+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-desert-of-the-tartars/</loc>
