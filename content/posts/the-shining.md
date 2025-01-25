@@ -63,3 +63,10 @@ Talking about more serious literature, there are fundamental references that are
 And that layer I found to be most enjoyable.
 It offers plenty of what is not exactly shown, yet it is there.
 That makes it for actually a haunted hotel, and shining is an actual faculty on part of the viewer, that allows to reconstruct that layer.
+
+# Theory
+
+My favorite theory is that Jack hallucinated the closed door scene,
+because he ate a load of poppies that Halloran stashed in that room,
+because he was running smuggling operation.
+Rangers were also involved in it.
