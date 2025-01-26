@@ -27,4 +27,4 @@ The lighthouse is a strong, not to say violent, image signifying this point.
 
 Some cinema can be seen as implanted memories or experiences.
 Other cinema can bring actual memories.
-This movie is like a tool of forgetting, violent gift of God.
+This picture is like a tool of forgetting, violent gift of God.
