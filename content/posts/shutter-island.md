@@ -8,6 +8,10 @@ tags:
 - Scorsese
 ---
 
+> Abstractest spoilers warning possible. AK
+
+# Content
+
 The movie works with contradiction coming from impossibility of full truth and perfect justice.
 It shows how violence defines what truth is and the dead end of that way if any justice is to be assumed.
 
@@ -18,3 +22,9 @@ What mirrors the German officer from his memories, but this time the roles have 
 
 I think the movie makes an argument for ultimate justice and forgiveness coming from outside of this world.
 The lighthouse is a strong, not to say violent, image signifying this point.
+
+# Context
+
+Some cinema can be seen as implanted memories or experiences.
+Other cinema can bring actual memories.
+This movie is like a tool of forgetting, violent gift of God.
