@@ -66,7 +66,9 @@ That makes it for actually a haunted hotel, and shining is an actual faculty on 
 
 # Theory
 
-My favorite theory is that Jack hallucinated the closed door scene,
+I don't spoil the movie interpretation, because I myself have most fun in discovering it, and there is always something new.
+
+But my favorite own funny theory is that Jack hallucinated the closed door scene,
 because he ate a load of poppies that Halloran stashed in that room,
 because he was running smuggling operation.
 Rangers were also involved in it.
