@@ -26,3 +26,12 @@ So technically there is rewatch potential, but I think I got enough of the gist.
 # Image
 
 Missing string is the image that rings true on different levels for the picture.
+
+# Upd
+
+De Niro's role is too colorful not to rewatch the movie, so I ended-up solving the ending too.
+Anyway, I'm consistent with The Shining; I like how these movies interact.
+
+The final shoot of the eyes is so simple and effective.
+Even that by itself demonstrates how Cape Fear is a more wholesome picture.
+Which is a good thing.
