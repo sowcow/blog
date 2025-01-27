@@ -35,3 +35,5 @@ Anyway, I'm consistent with The Shining; I like how these movies interact.
 The final shoot of the eyes is so simple and effective.
 Even that by itself demonstrates how Cape Fear is a more wholesome picture at a human scale.
 Which is a good thing.
+
+Religious angle in the picture is quite strong and is painted with contrasting colors.
