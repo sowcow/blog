@@ -17,8 +17,8 @@ Some parts are funny (~in a good way), the core action ain't so (in a bad way).
 
 Looking into such movies makes me think that there is a unified structure behind them.
 Different movies focus on different parts of it, explore different settings' expressive tools, explore alternative possibilities, have different ambiguities.
-This means some details just positionally correspond between such different renderings, creating a type of "anti-reference", I guess.
-So there is a layer of implicit if not accidental references that together build language of the medium.
+This means some details just positionally correspond between such different renderings, creating a type of "anti-reference".
+So there is also a layer of implicit if not accidental references groups that together build language of the medium.
 Or roughly speaking: if you've seen only one picture, you've seen none.
 
 To a different degree, it applies to rewatching the same picture too.
