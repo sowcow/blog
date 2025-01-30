@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/last-temptation-of-christ/</loc>
+    <lastmod>2025-01-30T10:36:10+01:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-01-28T21:20:10+01:00</lastmod>
+    <lastmod>2025-01-30T10:36:10+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-01-28T21:20:10+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/open-water/</loc>
-    <lastmod>2025-01-28T21:20:10+01:00</lastmod>
+    <lastmod>2025-01-30T10:36:10+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-01-28T21:20:10+01:00</lastmod>
+    <lastmod>2025-01-30T10:36:10+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
+    <lastmod>2025-01-30T10:36:10+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-01-30T10:36:10+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/open-water/</loc>
     <lastmod>2025-01-28T21:20:10+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/session-9/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2025-01-26T13:36:27+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/kubrick/</loc>
-    <lastmod>2025-01-26T13:36:27+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
     <lastmod>2025-01-26T13:36:27+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/shutter-island/</loc>
