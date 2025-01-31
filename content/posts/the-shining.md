@@ -73,6 +73,8 @@ because he ate a load of poppies that Halloran stashed in that room,
 because he was running smuggling operation.
 Rangers were also involved in it.
 
-# Fast-Forward Conclusion
+# Fast-Forward to Conclusion
 
-There is Black Square "painting". The movie is the same. It lacks core, but has a bunch of stimulants and abstractions instead.
+There is Black Square "painting". The movie is the same: it lacks core but has a bunch of stimulants and abstractions instead.
+
+So, it is what is lacking is of interest. Captured consciousness is what makes the maze/hotel alive.
