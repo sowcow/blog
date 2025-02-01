@@ -20,6 +20,10 @@ Now my impression is that opportunities are seemingly infinite in it.
 So one can read the picture similar to reading coffee residue.
 At some point I get too much caffeine to the extent that it physically does not feel good.
 
+On one hand ideas were coming easier, and they were stimuli in themselve.
+On another hand there were no perceivable limit or end where it would go.
+So at that point I was thinking about just abandoning any further investigation and leaving it in the existing form as it was.
+
 This and a couple of external inputs on the movie made me solve it at satisfactory for me level.
 
 https://sowcow.github.io/blog/posts/the-shining/
