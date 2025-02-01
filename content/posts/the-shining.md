@@ -78,3 +78,7 @@ Rangers were also involved in it.
 There is Black Square "painting". The movie is the same: it lacks core but has a bunch of stimulants and abstractions instead.
 
 So, it is what is lacking is of interest. Captured consciousness is what makes the maze/hotel alive.
+
+So I simply abstain from watching the picture.
+
+Peer post: https://sowcow.github.io/blog/posts/the-choking/
