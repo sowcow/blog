@@ -64,7 +64,7 @@ And that layer I found to be most enjoyable.
 It offers plenty of what is not exactly shown, yet it is there.
 That makes it for actually a haunted hotel, and shining is an actual faculty on part of the viewer, that allows to reconstruct that layer.
 
-# Funny Theory
+# Update #1: Funny Theory
 
 I don't spoil the movie interpretation, because I myself have most fun in discovering it, and there is always something new.
 
@@ -73,7 +73,7 @@ because he ate a load of poppies that Halloran stashed in that room,
 because he was running smuggling operation.
 Rangers were also involved in it.
 
-# Fast-Forward to Conclusion
+# Update #2: Fast-Forward to Conclusion
 
 There is Black Square "painting". The movie is the same: it lacks core but has a bunch of stimulants and abstractions instead.
 
