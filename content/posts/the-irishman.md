@@ -13,7 +13,7 @@ Not that I watched too closely, but on the obvious side are these:
 
 - fish
 - big ears
-- Raging Bull clothes hanger and other small references
+- Raging Bull clothes hanger and other small references (accidental or not)
 - clock from The Shining -> cyan marriage
 
 The picture obviously features some interesting characters.
