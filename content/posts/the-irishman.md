@@ -23,4 +23,4 @@ So, I'm reluctant to dive into that right now.
 Overall, it shows alpha and beta dynamics in criminal systems.
 
 I think the viewer is more likely to identify with beta.
-So those who intuitively dislike the movie are not wrong.
+So those who intuitively dislike the movie are not entirely wrong.
