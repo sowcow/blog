@@ -16,7 +16,8 @@ I say characters and interactions are not meaningfully reducible because this is
 Mean Streets is a completely different world.
 
 Having said that, I can see it as a comment on the misuse of religion, and the character development arc.
-So I see rewatch value within this frame.
+But then, the next idea is that Charlie's downfall was deterministic.
+So, there are layers I missed that created rewatch value.
 
 # Aside
 
