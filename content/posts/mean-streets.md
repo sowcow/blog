@@ -18,7 +18,7 @@ Mean Streets is a completely different world.
 Having said that, I can see it as a comment on the misuse of religion,
 and the obvious character development is: "queen getting balls".
 But then, the next idea is that Charlie's downfall was deterministic.
-So, there are layers I missed that created rewatch value.
+So, there are layers I missed that created rewatch value and a kind of play-of-shadows dynamic.
 
 # Aside
 
