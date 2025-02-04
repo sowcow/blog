@@ -15,3 +15,4 @@ Mean Streets is a completely different world.
 
 Having said that, I can see it as a comment on the misuse of religion,
 and the obvious character development is: "queen getting balls".
+So I see rewatch value now.
