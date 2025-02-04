@@ -8,6 +8,8 @@ tags:
 - Scorsese
 ---
 
+# Picture
+
 I think the movie is meant to give general impressions, without making too many points.
 This means that somewhat loose characters and plot are just what they are.
 I say characters and interactions are not meaningfully reducible because this is not The Irishman, where you have plenty of time to analyze.
@@ -15,3 +17,9 @@ Mean Streets is a completely different world.
 
 Having said that, I can see it as a comment on the misuse of religion, and the character development arc.
 So I see rewatch value now.
+
+# Aside
+
+My favorite posts start with having no clear idea and end with having the movie solved.
+I hope it is not having no idea that is being gratified here.
+I think it is about the first step, as with everything.
