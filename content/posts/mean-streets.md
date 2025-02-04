@@ -20,6 +20,5 @@ So I see rewatch value now.
 
 # Aside
 
-My favorite posts start with having no clear idea and end with having the movie solved.
-I hope it is not having no idea that is being gratified here.
-I think it is about the first step, as with everything.
+My favorite posts start with having no clear idea and end with having the movie solved in specifics.
+I hope that "System Two" thinking gets "gratified" in this still.
