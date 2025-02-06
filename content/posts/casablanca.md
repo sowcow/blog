@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - movies
+- Curtiz
 - Kubrick
 - Scorsese
 ---
