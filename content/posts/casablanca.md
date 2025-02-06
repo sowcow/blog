@@ -18,7 +18,7 @@ There is so much alcohol in Casablanca that movie disc boxes should be tagged wi
 I don't know if that final bottle drop has any subconscious effect from that perspective,
 but I observed some dynamics in my own relation to alcohol that was changing with the level of conscious understanding of other pictures.
 
-I assume Jack having drinks in the bar scene from The Shining made Stephen King's throat dry.
+I bet Jack having drinks in the bar scene from The Shining made Stephen King's mouth dry.
 Despite the kind of reduced look of Jack in that scene,
 I myself got an idea to maybe check the brand, even though it is not my thing in any way.
 Then when I got to made 2+2 about different details of different scenes,
