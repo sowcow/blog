@@ -36,3 +36,5 @@ If you can see that, then it's negative reinforcement on par with The Shining.
 Anyway, I lost interest in trying brands or anything at all.
 What got my attention is that the effect required conscious recognition/interpretation.
 So my own sample suggests that recognition at a conscious level is a requirement for virtuous advertisement or propaganda.
+
+From this perspective I should interpret Casablanca as a long road out of the bar by Rick.
