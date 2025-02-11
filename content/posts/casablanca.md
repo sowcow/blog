@@ -29,7 +29,7 @@ So what I'm saying is that movie is both an ad and anti-ad, depending on the lev
 
 Another picture is Cape Fear.
 I don't believe it features any ad-like alcohol scenes, which is good.
-But then if you look across, considering either both movies, or book background, or general human thing,
+But then if you look across, considering either both movies, or book background, or otherwise got enough of the second layer solved + general human thing,
 then you could interpret the final scene with alcohol in mind as one aspect of reality packed into the scene.
 If you can see that, then it's negative reinforcement on par with The Shining.
 
