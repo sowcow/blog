@@ -30,4 +30,4 @@ Other pictures may be seen as detalizations or versions of alternative answers b
 
 The thing to consider also is the oppsite side of the spectrum.
 Pictures that do not pose questions.
-I need to find one like that.
+Shutter Island just closes it.
