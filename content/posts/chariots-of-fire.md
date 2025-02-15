@@ -7,7 +7,7 @@ tags:
 - movies
 ---
 
-Watched running movie in VR.
+Watched runners movie in VR.
 I wonder if they sell a kind of haptic feedback shoes.
 So when the guy runs on the video you get whatever tapping feeling on soles, left and right:
 step, step, step, step.
