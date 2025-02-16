@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/posts/chariots-of-fire/</loc>
-    <lastmod>2025-02-15T07:37:19+01:00</lastmod>
+    <loc>https://sowcow.github.io/blog/posts/bringing-out-the-dead/</loc>
+    <lastmod>2025-02-16T10:27:52+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-02-15T07:37:19+01:00</lastmod>
+    <lastmod>2025-02-16T10:27:52+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-02-15T07:37:19+01:00</lastmod>
+    <lastmod>2025-02-16T10:27:52+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-02-15T07:37:19+01:00</lastmod>
+    <lastmod>2025-02-16T10:27:52+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
+    <lastmod>2025-02-16T10:27:52+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-02-16T10:27:52+01:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/chariots-of-fire/</loc>
     <lastmod>2025-02-15T07:37:19+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-cabinet-of-dr-caligari/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2025-02-06T15:22:43+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/kubrick/</loc>
-    <lastmod>2025-02-06T15:22:43+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
     <lastmod>2025-02-06T15:22:43+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/grizzly-man/</loc>
