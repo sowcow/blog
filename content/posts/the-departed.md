@@ -9,5 +9,6 @@ tags:
 ---
 
 Spectacular rat race.
-I probably missed all the fun in the first half,
+It seems that I missed all the fun in the first half,
 but then it gets metaphorical all over the place.
+So, it is my kind of movie, despite initially being in disguise.
