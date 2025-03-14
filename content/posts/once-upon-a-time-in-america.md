@@ -7,6 +7,6 @@ tags:
 - movies
 ---
 
-Starts lightly, gets heavier.
-It delivers a range.
+Three Jewish fellas walk into a bar... but four hours is no joke.
+Starts lightly, gets heavier, delivers a range.
 I guess things are called classics when they are too rich to summarize.
