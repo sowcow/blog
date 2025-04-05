@@ -73,6 +73,8 @@ because he ate a load of poppies that Halloran stashed in that room,
 because he was running smuggling operation.
 Rangers were also involved in it.
 
+Another one is that Hallorann is a spirit of "Uncle Ben's" burried under the hotel.
+
 # Update #2: Fast-Forward to Conclusion
 
 There is Black Square "painting". The movie is the same: it lacks core but has a bunch of stimulants and abstractions instead.
