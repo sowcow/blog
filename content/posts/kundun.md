@@ -21,7 +21,7 @@ So whoever knows some Buddhism and likes finding things on their own shouldn't r
 Roughly speaking, the reference is this: a person should guard the doors of the senses to attain the right attitude, and with the right action, achieve the right consequence (reincarnation is relevant here).
 So, toward the end, "safe journey and safe return" aren’t about physical safety.
 And at that point, the movie can be seen in two ways — it could be the Dalai Lama moving out or a random soldier moving in.
-It's a bit of an unorthodox move but the Chinese must be red-jealous.
+It's a bit of an unorthodox move but the Chinese must be red-jealous/envious.
 
 # Overall
 
@@ -31,3 +31,8 @@ I think this aligns with Northern Buddhism notions about the reality.
 Overall, there is a younger audience aspect (PG-13), but it brings both internal and external politics/war and gets existential (in general sense).
 
 The oracle is my favorite for all the wrong reasons.
+
+# Visconti
+
+There is always that part for dessert that is not being said.
+So, common sensibilities are safe today.
