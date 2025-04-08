@@ -21,7 +21,7 @@ So whoever knows some Buddhism and likes finding things on their own shouldn't r
 Roughly speaking, the reference is this: a person should guard the doors of the senses to attain the right attitude, and with the right action, achieve the right consequence (reincarnation is relevant here).
 So, toward the end, "safe journey and safe return" aren’t about physical safety.
 And at that point, the movie can be seen in two ways — it could be the Dalai Lama moving out or a random soldier moving in.
-It's a bit of an unorthodox move but the Chinese must be red-jealous/envious.
+It's a bit of an unorthodox move, but the red Chinese must feel green with envy.
 
 # Overall
 
