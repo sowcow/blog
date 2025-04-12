@@ -10,3 +10,6 @@ tags:
 
 Scorsese dealing gateway drugs in a NY ghetto.
 Primal flavour stays.
+
+Some of suspense of imagination moments.
+The real such suspense opportunity would be in comparing this movie to the previous here.

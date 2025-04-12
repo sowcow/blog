@@ -7,7 +7,9 @@ tags:
 - movies
 ---
 
+```
 Exemplary mental BDSM facility.
 Chief mistress gets neck bondage.
 Chief mischief learns a new breath play exercise.
 And the chief, per se, gets a brainwash with a happy ending.
+```
