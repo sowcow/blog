@@ -7,4 +7,4 @@ tags:
 - movies
 ---
 
-Horror that is back-stabbing you like that...
+Strong cinema and interesting horror specimen.
