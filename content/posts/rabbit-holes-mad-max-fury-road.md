@@ -36,7 +36,7 @@ The creator position should be more involving, yet maybe there is this extra sla
 
 This is my bet.
 The Shining integrated different sources, now other movies integrate it as part of their bundle.
-This integration has significance, it made me stop watching at one point.
+This integration has significance for my context, it made me stop watching at one point.
 So I say it has an axe and it is conceptually thrown into the viewer badly.
 
 This fast-paced genre fits well for doing such "shallow" painting on top of other movies.
