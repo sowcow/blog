@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/eraserhead/</loc>
+    <lastmod>2025-05-08T07:25:22+02:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-05-06T19:26:04+02:00</lastmod>
+    <lastmod>2025-05-08T07:25:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/lynch/</loc>
+    <lastmod>2025-05-08T07:25:22+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-05-06T19:26:04+02:00</lastmod>
+    <lastmod>2025-05-08T07:25:22+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-05-06T19:26:04+02:00</lastmod>
+    <lastmod>2025-05-08T07:25:22+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2025-05-06T19:26:04+02:00</lastmod>
+    <lastmod>2025-05-08T07:25:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/rabbit-holes-mad-max-fury-road/</loc>
+    <lastmod>2025-05-07T11:52:18+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-maltese-falcon/</loc>
     <lastmod>2025-05-06T19:26:04+02:00</lastmod>
