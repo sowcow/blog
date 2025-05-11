@@ -8,4 +8,4 @@ tags:
 ---
 
 Classy and light cinema. It seems that the movie originates the catchlights effect used so creatively since then.
-Anyway, it is imaginative movie but without being "in your eyes" or trying to be overpowering.
+Anyway, it is imaginative, maybe even stimulating movie but without being "in your eyes" or trying to be overpowering.
