@@ -7,5 +7,5 @@ tags:
 - movies
 ---
 
-Classy and light cinema. It seems that the movie originates the catchlights effect used so creatively since then.
+Classy and light cinema. It seems that the movie originates the catchlights effect (upd: Gaslight post) used so creatively since then.
 It is imaginative and lightly stimulating movie but without being "in your eyes" or trying to be overpowering.
