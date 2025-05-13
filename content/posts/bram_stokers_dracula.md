@@ -8,7 +8,7 @@ tags:
 - Coppola
 ---
 
-The movie is bleeding the world of darkness.
+The movie is bleeding the World of Darkness.
 Indeed, if one lets their mind see the word "undead" without cliché,
 then it's apparent how unnaturally opposite to the dead it must be.
 
