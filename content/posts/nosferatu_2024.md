@@ -26,9 +26,9 @@ And there is build-up toward the end.
 
 I definitely see why Marty recommended it.
 I can even see how he influenced the movie.
-I really like seeing this rolling snowball action, it has so much explanatory power.
+I really like seeing this rolling snowball action; it has so much explanatory power.
 
-The meduim significance of this movie is that it joins the unnamed movie to quite an old story and does it so naturally as if there is this natural fit.
+The big picture significance of this movie is that it joins the unnamed movie to quite an old story and does it so naturally as if there is this natural fit.
 While the unnamed movie is so hazy, this one goes very primal and direct.
 
 Movies can be seen as making arguments in the conversation between different previously created pieces.
