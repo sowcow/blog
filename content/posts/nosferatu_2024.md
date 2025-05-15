@@ -24,6 +24,7 @@ This movie uses them plenty of times.
 Particularly the movie I decided to stop mentioning.
 And there is build-up toward the end.
 
+Overall the movie approaches perfection with any momentary inconveniences.
 I definitely see why Marty recommended it.
 I can even see how he influenced the movie.
 I really like seeing this rolling snowball action; it has so much explanatory power.
