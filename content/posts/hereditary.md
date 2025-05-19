@@ -10,4 +10,7 @@ tags:
 It has another level gaslighting with catchlights.
 Also birch trees are my favorite.
 Overall, it's hypnotic yet plain.
+
 Unlike Midsommar, this one is not funny.
+Yet there is still the sacrifice aspect, but the negative perspective.
+I assume it's The Wicker Man one way or another.
