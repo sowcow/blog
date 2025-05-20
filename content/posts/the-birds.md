@@ -8,4 +8,4 @@ tags:
 - Hitchcock
 ---
 
-Such a nice cinema. I'd say it's a classy and original take on the same subject as Hereditary.
+Such a nice cinema. It's a classy and original take on the same subject as Hereditary.
