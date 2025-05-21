@@ -16,5 +16,5 @@ I guess the odd border between horror and dark comedy and the position of the vi
 
 # Ending interpretation (spoilers)
 
-I guess the shock of the ending is that the rapist ends up being more moral/better than her.
-Because he acts in accordance with laws of nature even if against laws of men, but she, however involuntarily, defies both.
+The shock of the ending is that the rapist ends up being more moral/better than her.
+Because he acts in accordance with laws of nature, even if against laws of men, but she, however involuntarily, defies both.
