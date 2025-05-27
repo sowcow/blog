@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2025-05-27T19:37:29+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2025-05-27T19:37:29+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/polanski/</loc>
+    <lastmod>2025-05-27T19:37:29+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2025-05-27T19:37:29+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-05-27T19:37:29+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/the-tenant/</loc>
+    <lastmod>2025-05-27T19:37:29+02:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/repulsion/</loc>
+    <lastmod>2025-05-27T19:37:01+02:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/dumbland/</loc>
     <lastmod>2025-05-26T06:15:21+02:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-05-26T06:15:21+02:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/tags/lynch/</loc>
-    <lastmod>2025-05-26T06:15:21+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-05-26T06:15:21+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-05-26T06:15:21+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2025-05-26T06:15:21+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/coppola/</loc>
@@ -255,9 +264,6 @@
     <lastmod>2024-12-28T12:04:12+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/chinatown/</loc>
-    <lastmod>2024-12-21T14:06:39+01:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/polanski/</loc>
     <lastmod>2024-12-21T14:06:39+01:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/reading/</loc>
