@@ -15,7 +15,7 @@ Then the third also gets more understandable for me.
 
 The first part seems to be my favorite due to its humor and conceptual elements.
 The second is remembered for horror elements and overall the form of parallel if not comparative narrative.
-The third part plays with false memory, feels less detached, and explores grander theme of Godfather coming to believe in God.
+The third part plays with false memory, feels less detached, and explores grander theme of Godfather discorvers God above him.
 Maybe it even grounds the image of orange as a symbol of original sin, but sin for power instead of knowledge.
 
 # Reflection
