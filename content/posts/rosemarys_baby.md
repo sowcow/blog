@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - movies
+- Polanski
 ---
 
 Quality cinema, merciless specimen of the genre.
