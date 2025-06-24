@@ -21,7 +21,7 @@ So I get hooked on it periodically, find a way to quit, then relapse.
 Currently, my movieholic log looks like this:
 
 1. My first quitting attempt was a cognitive solution: I explained the conception to myself from the director’s perspective and not from the events inside the movie. To forget/dilute The Shining, I started watching more different movies, mostly horror.  
-2. The second time, after relapsing, I did a creative way of exiting: first, I found an actual exit point for the viewer in the movie (it’s quite elaborate), then I also arranged the Snakes and Ladders post that has evolved in meaning for me since then. Then, later, I quit watching anything.  
+2. The second time, after relapsing, I did a creative way of exiting: first, I found the actual exit point for the viewer in the movie (it’s quite elaborate), then I also arranged the Snakes and Ladders post that has evolved in meaning for me since then. Then, later, I quit watching anything.
 3. My current attempt is a pre-cognitive mechanism: by simply solving the disgust layer in the movie, I’d get repelled. Instead, it got humorous, and I’m happy with in even more.
 
 ## Traumatic partying
