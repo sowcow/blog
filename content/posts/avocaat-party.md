@@ -1,5 +1,5 @@
 ---
-title: "Avocaat Party"
+title: "Avocaat Party (don't choke or throw up)"
 date: 2025-06-23T18:59:37+05:00
 draft: false
 author: Alexander
