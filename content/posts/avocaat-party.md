@@ -52,7 +52,7 @@ The Native American profile with feathers then indicates that these cuts are int
 What means that Jack can't function because of insecurity inside of his family.
 
 There is a web of such metaphors, frames and clues that give ideas about ways of looking at the movie or characters.
-So by choosing your metaphor or clues of interest you choose your own cinema.
+So by choosing some metaphors and clues and denying others, you choose your own cinema.
 
 But overall the point is, your understanding is always incomplete, because the movie is bigger than you think.
 So however rich in the moment it is, it's inherintly unsatisfactory, and therefore should either be mastered or abandoned, while things in the middle are indecision and are of horror genre in themselves.
