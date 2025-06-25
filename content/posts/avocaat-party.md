@@ -46,10 +46,10 @@ My first notable gratification with The Shining was when I connected these eleme
 Together, they confirm the metaphor of the Labyrinth and the Minotaur.
 Now, the director can do with it whatever he wants, but knowing he played with the metaphor gives the viewer a framework to interpret the picture.
 
-From this metaphor, you see a Jack-centric perspective.
+From this metaphor, you see a Jack-centric perspective, but everybody gets their fair share of action.
 When Danny throws darts, it references corrida and the concept of "death from a thousand small cuts."
-The Native American profile with feathers then indicates that these cuts are into the head.
-What means that Jack can't function because of insecurity inside of his family.
+The Native American profile with feathers then shows that these cuts are into the head.
+Then Jack's dysfunction is caused by insecurity within his family.
 
 There is a web of such metaphors, frames and clues that give ideas about ways of looking at the movie or characters.
 So by choosing some metaphors and clues and denying others, you choose your own cinema.
