@@ -4,7 +4,6 @@ date: 2025-06-23T18:59:37+05:00
 draft: false
 author: Alexander
 tags:
-- whatever
 - movies
 ---
 
@@ -56,3 +55,8 @@ So by choosing some metaphors and clues and denying others, you choose your own 
 
 But overall the point is, your understanding is always incomplete, because the movie is bigger than you think.
 So however rich in the moment it is, it's inherintly unsatisfactory, and therefore should either be mastered or abandoned, while things in the middle are indecision and are of horror genre in themselves.
+
+## UPD
+
+I feel like I've exited the movie, so it has taken me six months on the wagon.
+Talking about "irreparable harm", I'd mention another level of the ability to see faces anywhere.
