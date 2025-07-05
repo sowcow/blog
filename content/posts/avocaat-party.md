@@ -61,3 +61,8 @@ So however rich in the moment it is, it's inherintly unsatisfactory, and therefo
 
 I feel like I've exited the movie, so it has taken me six months on the wagon.
 Talking about "irreparable harm", I'd mention another level of the ability to see faces anywhere.
+
+## UPD3
+
+I did a victory lap on the movie, so I have an excuse to update this.
+The humor doesn't get lighter and plenty of entertainment is still there.
