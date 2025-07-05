@@ -66,3 +66,6 @@ Talking about "irreparable harm", I'd mention another level of the ability to se
 
 I did a victory lap on the movie, so I have an excuse to update this.
 The humor doesn't get lighter and plenty of entertainment is still there.
+
+Also calling it a victory lap is odd since the experience is so ambiguous.
+It's not the trophy cup one wished for.
