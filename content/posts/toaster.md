@@ -20,4 +20,4 @@ Well, I guess now I have an excuse not to buy those big breads.
 Added to that, when burned toast pops out, it produces that scratch like the girls sound from the movie.
 So now, in order not to get traumatized, I have to wait behind two closed doors from it.
 
-Maybe I should put it in the bathroom -- I haven't decided yet.
+I'll put it in the bathroom.
