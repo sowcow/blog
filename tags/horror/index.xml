@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horror on Let&#39;s see what happens.</title>
+    <link>http://localhost:1313/blog/tags/horror/</link>
+    <description>Recent content in Horror on Let&#39;s see what happens.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2025 08:49:39 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/horror/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toaster</title>
+      <link>http://localhost:1313/blog/posts/toaster/</link>
+      <pubDate>Sun, 20 Jul 2025 08:49:39 +0500</pubDate>
+      <guid>http://localhost:1313/blog/posts/toaster/</guid>
+      <description>&lt;p&gt;I thought I&amp;rsquo;d get a toaster &amp;ndash; maybe start my day like a civilized person.&#xA;I had to pay a bit more, so I wouldn&amp;rsquo;t have to think about quality, but not so much that I&amp;rsquo;d be a fool.&lt;/p&gt;&#xA;&lt;p&gt;So I got this Bosch in metal case (mostly).&#xA;It ended-up being metal only half-way since they had to have the control panel from black plastic.&#xA;Anyway assuming European obsession with ecology I assume it&amp;rsquo;s not that bad.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
