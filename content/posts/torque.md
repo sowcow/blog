@@ -20,7 +20,7 @@ Seven months on the wagon, I think I got back to the starting point.
 
 My sequence of understanding the movie:
 
-1. Generally horror was caused by over entanglement in details and/or abstractions (Jack writing, Wendy reading)
+1. Generally horror was caused by over entanglement in details (abstractions/ideas too) (Jack writing, Wendy reading)
 1. Then resolved by action and external feedback/connection ((director -> viewer ->) Grady -> Jack)
 1. Yet it was caused by the accumulation of small errors, the lack of simple things (most of them had happened already, I assume)
 1. So the movie's value must not be complex/analytical but obvious/exemplary in showing how things fail
