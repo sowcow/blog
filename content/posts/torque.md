@@ -9,6 +9,10 @@ tags:
 - Kubrick
 ---
 
+## TLDR
+
+Digging maze vs actually solving.
+
 ## What's missing
 
 The original Avocaat Party post was written on the spot and was not as analytical but more descriptive.
