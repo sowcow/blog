@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/after-hours/</loc>
+    <lastmod>2025-07-24T06:17:39+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-07-21T18:59:16+05:00</lastmod>
+    <lastmod>2025-07-24T06:17:39+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2025-07-24T06:17:39+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-07-21T18:59:16+05:00</lastmod>
+    <lastmod>2025-07-24T06:17:39+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
+    <lastmod>2025-07-24T06:17:39+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-07-24T06:17:39+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/kubrick/</loc>
     <lastmod>2025-07-21T18:59:16+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/torque/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2025-07-20T08:49:39+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/bunuel/</loc>
-    <lastmod>2025-07-06T09:51:27+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2025-07-06T09:51:27+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-phantom-of-liberty/</loc>
@@ -143,9 +152,6 @@
     <loc>https://sowcow.github.io/blog/posts/the-maltese-falcon/</loc>
     <lastmod>2025-05-06T19:26:04+02:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/tags/kubrick/</loc>
-    <lastmod>2025-05-05T10:56:14+02:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/posts/snakes-and-ladders/</loc>
     <lastmod>2025-05-05T10:56:14+02:00</lastmod>
   </url><url>
@@ -171,9 +177,6 @@
     <lastmod>2025-04-13T17:28:05+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/gangs-of-new-york/</loc>
-    <lastmod>2025-04-12T09:03:36+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/scorsese/</loc>
     <lastmod>2025-04-12T09:03:36+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/one-flew-over-the-cuckoos-nest/</loc>
