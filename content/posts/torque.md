@@ -5,6 +5,8 @@ draft: false
 author: Alexander
 tags:
 - trends_and_corrections
+- movies
+- Kubrick
 ---
 
 ## What's missing
