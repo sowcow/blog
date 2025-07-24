@@ -30,3 +30,7 @@ My sequence of understanding the movie:
    Jack and Wendy are the ideal parents to demonstrate how not to do things.
 
 I've deleted the movie from all devices, so I'm not elaborating more than that.
+
+## Upd
+
+Of course denial mechanisms are rich with the movie. It's unusual experience.
