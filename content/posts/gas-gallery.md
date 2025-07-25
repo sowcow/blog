@@ -50,3 +50,9 @@ Somehow they make an impression of determination even when it is in absurdities 
 
 Anyway, I had to go and rewatch EWS to tune back into the intelligent wave.
 EWS feels like an island of sanity after such encounters.
+
+## Upd
+
+The Shining was quite an argument against keeping the head in the clouds, and this level of argument I can take.
+If wanted to borrow, then I'd use creators as a model, not the sellers.
+Then instead of exploring mazes or visiting marketplaces, I'd need to consider sea-creatures.
