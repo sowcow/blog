@@ -13,7 +13,7 @@ Exactly the next day after watching After Hours, I visited a free painting galle
 The first thing I noticed was patched carpet on the floor -- not exactly The Shining style but still a notable detail.
 
 The corridor led me into the first small room.
-While I was checking pictures there alone, a guy passed nearby.
+While I was checking pictures there alone, a middle aged guy passed nearby.
 He was moving as if holding and looking into an invisible mobile phone in his hand; he greeted me and made an odd meaningless pause near me.
 
 When he went back he went on about the author being exposed -- just a laundry list of things that don't matter.
