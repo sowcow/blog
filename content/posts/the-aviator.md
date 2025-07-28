@@ -6,6 +6,7 @@ author: Alexander
 tags:
 - movies
 - Scorsese
+- interactive_cinema
 ---
 
 A scar and an ethos/spiritual statement.
