@@ -7,6 +7,34 @@ tags:
 - movies
 ---
 
+# 1st Warnung: The Shining spoilers ahead
+# 2nd Warnung: The Shining spoilers ahead
+# 3rd Warnung: The Shining spoilers ahead
+# 4th Warnung: The Shining spoilers ahead
+# 5th Warnung: The Shining spoilers ahead
+# 6th Warnung: The Shining spoilers ahead
+# 7th Warnung: The Shining spoilers ahead
+# 8th Warnung: The Shining spoilers ahead
+# 9th Warnung: The Shining spoilers ahead
+# 10th Warnung: The Shining spoilers ahead
+
+~~~
+The post is to appreciate creativity by having a part in it.
+Whoever already has appreciation and understanding of cinema
+should run away.
+~~~
+
+# 10th Margin
+# 9th Margin
+# 8th Margin
+# 7th Margin
+# 6th Margin
+# 5th Margin
+# 4th Margin
+# 3rd Margin
+# 2nd Margin
+# 1st Margin
+
 ![Jack avaits](/blog/avocaat-1.jpg)
 ![Grady got](/blog/avocaat-2.jpg)
 ![Jack high](/blog/avocaat-3.jpg)
