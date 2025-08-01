@@ -104,3 +104,9 @@ There is one thing to note, so there is no ambiguity.
 The thing was created on the spot in the same day with discovery.
 The range of meanings is not cosciously arranged in it by me.
 It's all on the spot intuitive expression.
+
+And the text is an on-the-spot attempt to record and maybe cautiously, to make sense of it -- without being forced to rewatch it again.
+
+The whole thing caused me mostly managable laughter fits for some days afterward.
+
+After the fact overall experience I consider to be positive. I've learned some visual language. I've even found some practical use for it.
