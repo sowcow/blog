@@ -19,6 +19,8 @@ tags:
 # 10th Warnung: The Shining experience spoilers ahead
 
 ~~~
+Give up your inquiries unless you've seen The Shining 30+ times.
+We hope, for your own good, you are to close this page if the number is not sufficient.
 You have been warned.
 ~~~
 
