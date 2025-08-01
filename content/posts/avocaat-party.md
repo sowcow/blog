@@ -7,21 +7,19 @@ tags:
 - movies
 ---
 
-# 1st Warnung: The Shining spoilers ahead
-# 2nd Warnung: The Shining spoilers ahead
-# 3rd Warnung: The Shining spoilers ahead
-# 4th Warnung: The Shining spoilers ahead
-# 5th Warnung: The Shining spoilers ahead
-# 6th Warnung: The Shining spoilers ahead
-# 7th Warnung: The Shining spoilers ahead
-# 8th Warnung: The Shining spoilers ahead
-# 9th Warnung: The Shining spoilers ahead
-# 10th Warnung: The Shining spoilers ahead
+# 1st Warnung: The Shining experience spoilers ahead
+# 2nd Warnung: The Shining experience spoilers ahead
+# 3rd Warnung: The Shining experience spoilers ahead
+# 4th Warnung: The Shining experience spoilers ahead
+# 5th Warnung: The Shining experience spoilers ahead
+# 6th Warnung: The Shining experience spoilers ahead
+# 7th Warnung: The Shining experience spoilers ahead
+# 8th Warnung: The Shining experience spoilers ahead
+# 9th Warnung: The Shining experience spoilers ahead
+# 10th Warnung: The Shining experience spoilers ahead
 
 ~~~
-The post is to appreciate creativity by having a part in it.
-Whoever already has appreciation and understanding of cinema
-should run away.
+You have been warned.
 ~~~
 
 # 10th Margin
