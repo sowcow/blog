@@ -97,3 +97,10 @@ The humor doesn't get lighter and plenty of entertainment is still there.
 
 Also calling it a victory lap is odd since the experience is so ambiguous.
 It's not exactly the trophy cup one wished for.
+
+## UPD4
+
+There is one thing to note, so there is no ambiguity.
+The thing was created on the spot in the same day with discovery.
+The range of meanings is not cosciously arranged in it by me.
+It's all on the spot intuitive expression.
