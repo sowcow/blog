@@ -105,7 +105,7 @@ The thing was created on the spot in the same day with discovery.
 The range of meanings is not cosciously arranged in it by me.
 It's all on the spot intuitive expression.
 
-And the text is an on-the-spot attempt to record and maybe cautiously, to make sense of it -- without being forced to rewatch it again.
+And the text is an on-the-spot attempt to record and maybe cautiously, to make sense of it -- without being forced to rewatch it again, ideally, just to solve it finally.
 
 The whole thing caused me mostly managable laughter fits for some days afterward.
 
