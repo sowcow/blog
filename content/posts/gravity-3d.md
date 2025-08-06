@@ -13,4 +13,4 @@ I see it as a screwed take on Space Odyssey by a Mexican director targeting Asia
 It's a funny thing to scroll through with that perspective in mind.
 I wasn't too impressed by the 3D conversion, but it adds some reflection effects here and there.
 
-The thing getting any Oscars is an insult to the intelligent life on this planet.
+The thing getting any Oscars is an insult to the remaining intelligent life on this planet.
