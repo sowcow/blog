@@ -9,3 +9,6 @@ tags:
 
 There is something unique about the movie -- probably all the madmen around, making the antagonist seem sane comparatively.
 It's comparatively light movie since it does not ask for the second watch unlike some other movie.
+
+Black and white medium has it's magics.
+It's the same point as the other movie has via-negativa: about simplicity and enjoying the time together.
