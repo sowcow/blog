@@ -1,0 +1,11 @@
+---
+title: "The Night of the Hunter"
+date: 2025-08-07T20:59:23+05:00
+draft: false
+author: Alexander
+tags:
+- movies
+---
+
+There is something unique about the movie -- probably all the madmen around, making the antagonist seem sane comparatively.
+It's comparatively light movie since it does not ask for the second watch unlike some other movie.
