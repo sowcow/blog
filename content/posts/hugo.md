@@ -12,3 +12,6 @@ Dreamy pace and enjoyable 3D experience.
 
 I think it's peak 3D experience -- it's high quality and balanced despite certain sadness aspect.
 Conceptually it's a gift of perspective at the cinema medium.
+
+After Hugo and A Trip to the Moon I cheked some books and got some cinema-related impossible dreams.
+It's proof of magic there.
