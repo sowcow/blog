@@ -8,4 +8,4 @@ tags:
 - Losey
 ---
 
-Top tier cinema.
+Top-tier cinema.
