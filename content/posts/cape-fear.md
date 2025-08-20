@@ -6,7 +6,6 @@ author: Alexander
 tags:
 - movies
 - Scorsese
-- Kubrick
 ---
 
 # Overall

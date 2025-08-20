@@ -5,7 +5,6 @@ draft: false
 author: Alexander
 tags:
 - movies
-- Kubrick
 ---
 
 The whole experience with the movie for me was Snakes and Ladders.
