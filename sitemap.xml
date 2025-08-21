@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/posts/herzog-blaubarts-burg/</loc>
+    <lastmod>2025-08-21T21:31:51+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-08-20T10:31:43+05:00</lastmod>
+    <lastmod>2025-08-21T21:31:51+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2025-08-21T21:31:51+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2025-08-21T21:31:51+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/powell/</loc>
+    <lastmod>2025-08-21T21:31:51+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-08-21T21:31:51+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/lit/</loc>
     <lastmod>2025-08-20T10:31:43+05:00</lastmod>
@@ -11,16 +26,7 @@
     <loc>https://sowcow.github.io/blog/posts/most-obscure-reference/</loc>
     <lastmod>2025-08-20T10:31:43+05:00</lastmod>
   </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-08-20T10:31:43+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
-    <lastmod>2025-08-20T10:31:43+05:00</lastmod>
-  </url><url>
     <loc>https://sowcow.github.io/blog/posts/greed/</loc>
-    <lastmod>2025-08-18T19:22:37+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
     <lastmod>2025-08-18T19:22:37+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/stroheim/</loc>
@@ -357,9 +363,6 @@
     <lastmod>2024-08-31T06:47:49+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/made-in-england-the-films-of-powell-and-pressburger/</loc>
-    <lastmod>2024-08-19T07:36:02+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/powell/</loc>
     <lastmod>2024-08-19T07:36:02+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/pressburger/</loc>
