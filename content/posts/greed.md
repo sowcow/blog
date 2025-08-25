@@ -11,3 +11,5 @@ tags:
 Good stuff, I enjoyed the mixed medium of silent cinema and plain photography.
 It's one of the complex pictures with funny visual language all over and even having interactivity.
 It took me some time to finish that 4 hour watch.
+
+UPD: of course my favorite impression is the theatricality of it.
