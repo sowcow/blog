@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2025-08-26T06:18:21+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/losey/</loc>
+    <lastmod>2025-08-26T06:18:21+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/monsieur-klein/</loc>
+    <lastmod>2025-08-26T06:18:21+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2025-08-26T06:18:21+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2025-08-26T06:18:21+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-08-26T06:18:21+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/fidelio/</loc>
     <lastmod>2025-08-25T11:27:35+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/kubrick/</loc>
-    <lastmod>2025-08-25T11:27:35+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-08-25T11:27:35+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-08-25T11:27:35+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-08-25T11:27:35+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2025-08-25T11:27:35+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/herzog-blaubarts-burg/</loc>
@@ -37,9 +43,6 @@
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/stroheim/</loc>
     <lastmod>2025-08-18T19:22:37+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/losey/</loc>
-    <lastmod>2025-08-11T18:33:22+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-servant/</loc>
     <lastmod>2025-08-11T18:33:22+05:00</lastmod>
