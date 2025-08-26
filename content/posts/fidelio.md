@@ -13,4 +13,4 @@ it really represents the director's fidelity to the arts.
 I expect to get around the 4K and have a blast closer to the new year.
 
 The used cover art is on the disgusting side from the point of view above.
-But it's what you expect from a jealous wife.
+But it's what you would expect from a jealous wife.
