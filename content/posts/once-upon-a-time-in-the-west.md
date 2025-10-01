@@ -12,7 +12,7 @@ I've watched it with unmeant overtones around the early Claudia Cardinale scenes
 So the timing of watching was strange, and it was the first watch.
 
 The Western genre seems to offer directness but not at the cost of imagination, wit, and humor.
-Of course there is also the metaphysics of the time and the place.
+Of course there is also the metaphysics of the time, the place, and the character.
 But I like to see/infer actual human experience that is packed into the artifact of cinema.
 And given the ambiguity of the medium, it seems to be delivered relatively directly.
 
