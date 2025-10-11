@@ -10,6 +10,6 @@ tags:
 ---
 
 Good The Archers movie with:
-- director's games and expressionism elements
+- director's games and expressionism influence
 - conception is powerful, whether it is from the book or if it was edited
 - ethical (social) aspect, that is not losing relevance
