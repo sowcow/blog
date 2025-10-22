@@ -1,5 +1,5 @@
 ---
-title: "The Wages of Fear"
+title: "The Wages of Fear (1953)"
 date: 2025-10-22T07:54:50+05:00
 draft: false
 author: Alexander
@@ -20,3 +20,14 @@ This means rewatching the first half of it now (the next day) and then whether/h
 - One question to AI and this good reference comes out: de leurs épées, ils forgeront des socs.
 
 Second half-watch worked well.
+
+# ...
+
+So I watched the Sorcerer also...
+I'm glad I didn't wait because it's such a parody.
+
+If the original movie is a bowl of Foie Gras then this is French fries soaked in ketchup.
+I assume the director made this as psychotherapy after watching the original, but he lost the whole point and instead loaded it with everything from Palestine to anime.
+
+So the rule of thumb is to always watch the original movie first.
+This way you are immune to bullshit in advance.
