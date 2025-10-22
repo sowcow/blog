@@ -16,7 +16,7 @@ This means rewatching the first half of it now (the next day) and then whether/h
 # Deux (references/abstract-spoilers)
 
 - Not an intentful reference but SOC in Russian translation sounds directly like juice.
-- I always like to encounter translations into Russian from European languages that do have more juice than often dry English subs. In this case multiple translations and subs just failed to get Donald Duck reference.
+- I always like to encounter translations into Russian from European languages that do have more juice than often dry English subs. In this case only one tranlation got it but multiple other translations and the English subs I've seen just failed to get Donald Duck reference.
 - One question to AI and this good reference comes out: de leurs épées, ils forgeront des socs.
 
 Second half-watch worked well.
