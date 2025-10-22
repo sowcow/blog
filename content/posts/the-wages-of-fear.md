@@ -7,13 +7,13 @@ tags:
 - movies
 ---
 
-# Un
+# Un (process spoilers)
 
 To me, it's some advanced horror with a timer.
 As with fireworks, in case of accidental explosion, a small, controlled follow-up explosion may calm the nerves.
 This means rewatching the first half of it now (the next day) and then whether/how/when to watch the Sorcerer movie is some question down the line.
 
-# Deux (references/abstract-spoilers)
+# Deux (concept spoilers)
 
 - Not an intentful reference but SOC in Russian translation sounds directly like juice.
 - I always like to encounter translations into Russian from European languages that do have more juice than often dry English subs. In this case only one tranlation got it but multiple other translations and the English subs I've seen just failed to get Donald Duck reference.
