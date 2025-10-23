@@ -26,7 +26,7 @@ Second half-watch worked well.
 So I watched the Sorcerer also...
 I'm glad I didn't wait because it's such a parody.
 
-If the original movie is an overflowing bowl of Foie Gras then this one contains French fries soaked in ketchup.
+If the original movie is an overflowing bowl of liquid Foie Gras then this one has French fries soaked in ketchup.
 I assume the director made this as psychotherapy after watching the original, but he lost the whole point and instead loaded it with everything from Palestine to anime.
 
 So the rule of thumb is to always watch the original movie first.
