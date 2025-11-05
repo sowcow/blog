@@ -17,6 +17,6 @@ One criticism not of the movie but of the context of overproduction of trashy co
 is that the format of this movie is so overused by the cheapest series, games and whatnot.
 So it became inherently spoiled by seeming predictable.
 
-It's the right decision to watch these in the chronological order.
+It's the right decision to watch these in the chronological order, it plays out meaningfully.
 Interestingly this colored movie seems more visibly retro to me than the black-and-white one.
-Also Reagan playing a villain in the working class people's movie is historically ironic.
+I like how Reagan playing a villain in the working class people's movie implies historical irony.
