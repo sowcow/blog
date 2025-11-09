@@ -15,7 +15,7 @@ So while meeting the obligation and observing birds I got some ideas and decided
 
 Of course the movie is not only about birds.
 On the first watch I thought it was a bit on the off-balance show-off side because it seemed too serious, even though not unconceptual.
-This second watch was a bit cynical and I consider the movie to be even more conceptual and with humor too.
+This second watch was a bit cynical and I consider the movie to be even more conceptual and with significant points and out of range humor.
 
 Anyway, the point of writing the post is so that I can think about images in the movie.
 The post has served the function, but spoiling any thinking process would devalue the movie and is not sought here.
