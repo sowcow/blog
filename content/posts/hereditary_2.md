@@ -19,3 +19,14 @@ This second watch was a bit cynical and I consider the movie to be even more con
 
 Anyway, the point of writing the post is so that I can think about images in the movie.
 The post has served the function, but spoiling any thinking process would devalue the movie and is not sought here.
+
+# References
+
+I've watched it in a headset, so I missed all the gasping in the dark moments.
+Also, I didn't read any posts or rabbitholes.
+There are barriers to sanity in some movies that you don't want to cross regardless.
+
+For example, watching backwards is the obvious barrier.
+With this movie, reading any nonsense must be similar.
+I assume there is a fake sense of solvedness when the mind is overloaded by that.
+Anyway maybe some nonsense is not meant to be resolvable in any too reasonable way anyway.
