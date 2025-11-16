@@ -9,7 +9,7 @@ tags:
 
 Good spirited creative documentary.
 I love how The Passion of the Christ received newly decorated framing in the third episode.
-Somehow it's New York, New York that caught my attention; it must be the hight of something.
+New York, New York that I haven't seen yet that caught my attention; it must be the hight of something.
 It would be one of the spiritual movies also if, say, corruption shows, but not by director's design.
 
 Of course the bigger picture is that back in the day it was about criminal families,
