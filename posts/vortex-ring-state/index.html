@@ -1,0 +1,243 @@
+<!doctype html>
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg:#faf8f1"
+  lang="en-us"
+  dir="ltr"
+><head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>Vortex Ring State - Let&#39;s see what happens.</title>
+
+  
+  <meta name="theme-color" />
+
+  <meta name="description" content="I&rsquo;ve been checking some aviation simulators.
+The gateway drug was the free Falcon BMS with its strong focus on F-16.
+Then Huey helicopter model in DCS got me intrigued. So I&rsquo;ve been trying it for a couple of days.
+In helicopters that are not overly automated, stability is not granted at all and requires special attention from the pilot.
+That makes them interesting.
+Flying over the Cold War Berlin made some Der Himmel über Berlin associations.
+Considering the technicalities of the flight I saw Apocalypse Now, too.
+Mixing technology and the arts, I wanted to bring odd can of soup painting into the post but maybe I was just hungry." />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/blog/main.min.css" />
+
+  
+  <link rel="preload" as="image" href="http://localhost:1313/blog/theme.png" />
+
+  
+
+  
+
+  <script
+    defer
+    src="http://localhost:1313/blog/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+
+  
+  <link
+    rel="icon"
+    href="http://localhost:1313/blog/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/blog/apple-touch-icon.png"
+  />
+
+  <meta name="generator" content="Hugo 0.152.2">
+</head>
+<body
+    class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
+  ><header
+  class="mx-auto flex h-[4.5rem] max-w-(--w) px-8 whitespace-nowrap lg:justify-center"
+>
+  <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+    <a
+      class="-translate-y-[1px] text-2xl font-medium"
+      href="http://localhost:1313/blog/"
+      >Let&#39;s see what happens.</a
+    >
+    <div
+      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden ltr:-mr-8 rtl:-ml-8"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full flex-col justify-center bg-(--bg) pb-16 duration-200 select-none lg:static lg:h-auto lg:flex-row lg:bg-transparent! lg:pb-0 lg:transition-none"
+  ><nav
+      class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse"
+    ><a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/"
+        >Home</a
+      ><a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/blog/tags-menu/"
+        >Tags</a
+      ></nav>
+  </div>
+</header>
+<main
+      class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
+    ><article>
+  <header class="mb-14">
+    <h1 class="my-0! pb-2.5">Vortex Ring State</h1><div class="text-xs antialiased opacity-60"><time>Nov 17, 2025</time><span class="mx-1">&middot;</span>
+      <span>Alexander</span></div></header>
+
+  <section><p>I&rsquo;ve been checking some aviation simulators.
+The gateway drug was the free Falcon BMS with its strong focus on F-16.
+Then Huey helicopter model in DCS got me intrigued. So I&rsquo;ve been trying it for a couple of days.
+In helicopters that are not overly automated, stability is not granted at all and requires special attention from the pilot.
+That makes them interesting.</p>
+<p>Flying over the Cold War Berlin made some Der Himmel über Berlin associations.
+Considering the technicalities of the flight I saw Apocalypse Now, too.
+Mixing technology and the arts, I wanted to bring odd can of soup painting into the post but maybe I was just hungry.</p>
+<h1 id="vortex-ring-state">Vortex Ring State</h1>
+<p><img src="/blog/VRS.png" alt="heli and airflow in a vortex ring state"></p>
+<blockquote>
+<p>VRS happens when you are trapped in a column of disrupted air created by your own rotor blades, and this (unfortunately) often occurs at the most critical part of flight: on LANDING.</p>
+</blockquote>
+<blockquote>
+<p>A fully developed vortex ring state is characterized by an unstable condition in which the helicopter experiences
+uncommanded pitch and roll oscillations, has little or no collective authority, and achieves a descent rate that may approach
+6,000 feet per minute (fpm) if allowed to develop.</p>
+</blockquote>
+<p>The idea is that &ldquo;new air&rdquo; input allows the system to move/climb, but inside the vortex ring state it&rsquo;s only the &ldquo;old air&rdquo; circulation.
+The point is that if the condition is allowed to develop then powering out of it does not work, because it only rotates the pattern of air faster and gives it more energy for sinking down, but does not introduce new input, so fall continues.</p>
+<p>So there seem to be two ways out - by gaining forward momentum while still losing height/energy so it may not bo applicable, or by more economical side maneuver using tail rotor unaffected by the vortices.</p>
+<h1 id="autorotation">Autorotation</h1>
+<p><img src="/blog/Autorotation.jpg" alt="airflow in autorotation"></p>
+<p>This one can be used when the engine loses power and the rotor is kept rotating only by the airflow coming from a controlled descent/fall, to reduce the rate of falling.
+It requires good control over the parameters by the pilot and even using stopping power of flares at certain points.</p>
+<h1 id="if-you-are-crazy">If you are crazy</h1>
+<p>Hardware is quite a cost sink when it comes to simulators.
+Otherwise, the helicopter is free to play for two weeks;
+the Germany map is not free to play yet;
+Chuck&rsquo;s Guides: Huey Guide is the go-to guide.</p>
+<ul>
+<li>Image 1 credit:</li>
+<li>Image 2 credit:</li>
+<li>Animation credit: <a href="https://www.youtube.com/watch?v=HjeRSDsy-nE">https://www.youtube.com/watch?v=HjeRSDsy-nE</a></li>
+</ul>
+<hr>
+<p>I&rsquo;ve been entertaining some flight dynamics recently.
+Vortex Ring State may cause chopper to fall despite the power it applies.
+I really like how VRS applies as metaphor to the movie so I&rsquo;m not spoiling the experience of finding out by explaining too much.
+Instead the post outlines fascinating bits I&rsquo;ve found about the phenomenon.</p>
+<p>is about/outlines[visual fun]/goes-into/goes-about
+helicopter &hellip;</p>
+<p>, it can applies at personal or country scale.</p>
+<p>VRS applies so well to the movie if one thinks about it.</p>
+<h2 id="so-i-thought-id-apply-vrs-metaphor-to-the-movie">So I thought I&rsquo;d apply VRS metaphor to the movie.</h2>
+<p>I&rsquo;d say there is both personal and country-wise.</p>
+<p>One could say there is personal aspect.</p>
+<p>So I thought to propose one metap</p>
+<h2 id="id-say-valkyres-is-just-how-it-feels-at-the-height-of-it">Could it be that valkyres
+I&rsquo;d say valkyres is just how it feels at the height of it.</h2>
+</section>
+
+  <footer class="mt-12 flex flex-wrap"><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/blog/tags/movies"
+      >movies</a
+    ><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/blog/tags/wenders"
+      >Wenders</a
+    ><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/blog/tags/coppola"
+      >Coppola</a
+    ><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/blog/tags/more"
+      >more?</a
+    ></footer><nav
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg leading-[1.2]! *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
+  ><a
+      class="justify-end pl-3 ltr:ml-auto rtl:mr-auto"
+      href="http://localhost:1313/blog/posts/mr.scorsese/"
+      ><span>Mr. Scorsese</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
+    ></nav></article></main><footer
+  class="mx-auto flex h-[4.5rem] max-w-(--w) items-center px-8 text-xs tracking-wider uppercase opacity-60"
+>
+  <div class="mr-auto">&copy;2025
+    <a class="link" href="http://localhost:1313/blog/">Let&#39;s see what happens.</a></div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >powered by hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >hugo-paper</a
+  >
+</footer>
+</body>
+</html>
