@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sowcow.github.io/blog/posts/birdman-of-alcatraz/</loc>
-    <lastmod>2025-11-20T08:33:12+05:00</lastmod>
+    <loc>https://sowcow.github.io/blog/posts/journalism/</loc>
+    <lastmod>2025-11-21T10:50:24+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2025-11-20T08:33:12+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2025-11-20T08:33:12+05:00</lastmod>
+    <lastmod>2025-11-21T10:50:24+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2025-11-20T08:33:12+05:00</lastmod>
+    <lastmod>2025-11-21T10:50:24+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/coppola/</loc>
+    <lastmod>2025-11-21T08:54:42+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/more/</loc>
+    <lastmod>2025-11-21T08:54:42+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2025-11-21T08:54:42+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2025-11-21T08:54:42+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/vortex-ring-state/</loc>
+    <lastmod>2025-11-21T08:54:42+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/wenders/</loc>
+    <lastmod>2025-11-21T08:54:42+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/birdman-of-alcatraz/</loc>
     <lastmod>2025-11-20T08:33:12+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/mr.scorsese/</loc>
@@ -196,9 +211,6 @@
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/dumbland/</loc>
     <lastmod>2025-05-26T06:15:21+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/coppola/</loc>
-    <lastmod>2025-05-25T18:25:28+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-godfather/</loc>
     <lastmod>2025-05-25T18:25:28+02:00</lastmod>
@@ -453,9 +465,6 @@
     <lastmod>2024-04-26T13:14:46+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/unmasking-the-face/</loc>
-    <lastmod>2024-04-26T13:14:46+02:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/wenders/</loc>
     <lastmod>2024-04-26T13:14:46+02:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/killers-of-the-flower-moon/</loc>
