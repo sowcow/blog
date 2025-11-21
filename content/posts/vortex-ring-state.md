@@ -33,7 +33,7 @@ Mixing technology and the arts, I wanted to bring odd can of soup painting into 
 The idea is that "new air" input allows the system to move/climb, but inside the vortex ring state it's only the "old air" circulation.
 The point is that if the condition is allowed to develop then powering out of it would not work in aircraft of interest, because it only rotates the pattern of air faster and gives it more energy for sinking down, but does not introduce new input, so fall continues.
 
-So there seem to be two ways out - by gaining forward momentum while still losing height/energy so it may not be applicable, or by more economical side maneuver using tail rotor unaffected by the vortices.
+So there seem to be two ways out - by gaining forward momentum while still losing height/energy so it may not be applicable, or by more economical side maneuver using tail rotor unaffected by the vortex ring.
 
 Normally one corrects it early because it's noticable in different ways including low-g feel of accelerating down.
 
