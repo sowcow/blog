@@ -3,7 +3,8 @@ title: "Journalism"
 date: 2025-11-21T10:50:24+05:00
 draft: false
 author: Alexander
-tags: []
+tags:
+- movies
 ---
 
 I've consciously watched Apocalypse Now three times.
