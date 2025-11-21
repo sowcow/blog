@@ -6,7 +6,7 @@ author: Alexander
 tags: []
 ---
 
-I've consciously watched Apocalypsis Now three times.
+I've consciously watched Apocalypse Now three times.
 First was the movie, then the documentary at some point, then later the movie with the director's commentary audio track.
 These are three different lenses on the same project.
 
