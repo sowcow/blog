@@ -11,7 +11,7 @@ tags:
 ---
 
 I've been checking some aviation simulators.
-The gateway drug was the free Falcon BMS with its strong focus on F-16.
+The gateway drug was the free(ish) Falcon BMS with its strong focus on F-16.
 Then Huey helicopter model in DCS got me intrigued. So I've been trying it for a couple of days.
 In helicopters that are not overly automated, stability is not granted at all and requires special attention from the pilot.
 That makes them interesting.
