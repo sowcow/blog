@@ -110,3 +110,9 @@ And the text is an on-the-spot attempt to record and maybe cautiously, to make s
 The whole thing caused me mostly managable laughter fits for some days afterward.
 
 After the fact overall experience I consider to be positive. I've learned some visual language. I've even found some practical use for it.
+
+# UPD5
+
+BTW I posted this on a social network at one point and it was hanging there for a week.
+It got 31 net likes over 6.5k views and notably zero comments.
+So it truly was avocaat, intersubjectively verified so.
