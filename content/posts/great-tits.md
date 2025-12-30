@@ -32,7 +32,7 @@ They block the feeder because they like to eat on the spot, and if space allows,
 Accidentally, I came up with this simple feeder design that allows some freedom of rotational movement.
 I think it works because it's:
 - small, slippery and, rotates so it isn't straight and a pigeon can't sit on it
-- less stable for sparrows; also, the noise scares them away when birds push against the loose construction hile jumping on/off
+- less stable for sparrows; also, the noise scares them away when birds push against the loose construction while jumping on/off
 - great tits are more acrobatic and are exploratory, so they do get around the inconvenience and find a way to use it
 
 Sparrows can still use this design, but they sit only for a short time.
