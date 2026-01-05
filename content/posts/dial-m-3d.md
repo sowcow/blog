@@ -8,6 +8,6 @@ tags:
 - Hitchcock
 ---
 
-Bad movie with good references.
+Unforgettably bad movie with good references.
 I love how things referred to range from the very exact to very hazy.
 It's a must-rewatch movie.
