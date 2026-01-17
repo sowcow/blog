@@ -17,4 +17,4 @@ So I'll rate them.
 
 1. Ikiru goes first because rabbits can jump and they'd smash the competitors
 2. The Blob takes the second place because it destroys dinosaurs
-3. Pee-Wee is the last because he was riding in the wrong direction
+3. Pee-wee is the last because he was riding in the wrong direction
