@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sowcow.github.io/blog/tags/bunuel/</loc>
+    <lastmod>2026-01-21T19:01:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/</loc>
+    <lastmod>2026-01-21T19:01:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
+    <lastmod>2026-01-21T19:01:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/</loc>
+    <lastmod>2026-01-21T19:01:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/tags/</loc>
+    <lastmod>2026-01-21T19:01:11+05:00</lastmod>
+  </url><url>
+    <loc>https://sowcow.github.io/blog/posts/un-chien-andalou/</loc>
+    <lastmod>2026-01-21T19:01:11+05:00</lastmod>
+  </url><url>
     <loc>https://sowcow.github.io/blog/posts/ikiru/</loc>
     <lastmod>2026-01-17T19:46:33+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/kurosawa/</loc>
-    <lastmod>2026-01-17T19:46:33+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/</loc>
-    <lastmod>2026-01-17T19:46:33+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/movies/</loc>
-    <lastmod>2026-01-17T19:46:33+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/posts/</loc>
-    <lastmod>2026-01-17T19:46:33+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/</loc>
     <lastmod>2026-01-17T19:46:33+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/tags/lang/</loc>
@@ -232,9 +238,6 @@
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/toaster/</loc>
     <lastmod>2025-07-20T08:49:39+05:00</lastmod>
-  </url><url>
-    <loc>https://sowcow.github.io/blog/tags/bunuel/</loc>
-    <lastmod>2025-07-06T09:51:27+05:00</lastmod>
   </url><url>
     <loc>https://sowcow.github.io/blog/posts/the-phantom-of-liberty/</loc>
     <lastmod>2025-07-06T09:51:27+05:00</lastmod>
