@@ -5,6 +5,7 @@ draft: false
 author: Alexander
 tags:
 - movies
+- Rossellini
 ---
 
 Unnice movie with memorable scenes. Some are too on the surface, while others are buried.
