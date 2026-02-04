@@ -1,5 +1,5 @@
 ---
-title: "Paisà"
+title: "Paisà (1946)"
 date: 2026-02-04T09:11:40+05:00
 draft: false
 author: Alexander
