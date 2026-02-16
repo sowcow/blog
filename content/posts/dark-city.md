@@ -1,5 +1,5 @@
 ---
-title: "Dark City"
+title: "Dark City (Director's cut)"
 date: 2026-02-16T09:23:58+05:00
 draft: false
 author: Alexander
