@@ -16,6 +16,8 @@ css = <<~END
 .upside-down-letters span {
   display: inline-block;
   white-space: preserve;
+  width: 1em;
+  height: 1em;
 }
 
 #{items * ?\n}
@@ -35,4 +37,4 @@ IO.popen("xsel", "w") { |pipe| pipe.print text }
 
 __END__
 Alright movie.
-I'm not going to watch the next one for some time.
+I must reconsider watching the next one.
