@@ -7,8 +7,6 @@ tags:
 - ☰
 ---
 
-<pre>
-Should I conceive of change
+<span style='white-space:pre'>Should I conceive of change
 in the medium of this blog,
-what would I write and do.
-</pre>
+what would I write and do.</span>
