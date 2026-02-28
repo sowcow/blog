@@ -36,7 +36,7 @@ The way author ends the book compels one to check more of his content.
 Anyway I&rsquo;ve moved to other authors because there are sizable gaps of understanding to fill-in.
 On one hand there are models by G. Becker and other behavior-related first principles.
 On another hand there is general production processes interest." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -48,7 +48,7 @@ On another hand there is general production processes interest." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -61,7 +61,7 @@ On another hand there is general production processes interest." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Quigley">
   <meta itemprop="description" content="I’ve read The Evolution of Civilizations by C. Quigley.
 scientific approach insightful content yet very available: clear language and simple sentences Author explains scientific method, dynamics of development of civilizations in terms of instruments and institutions, morphology between levels of abstraction, also he only mentions at the end law vs fact model of understanding. The way author ends the book compels one to check more of his content.
@@ -131,7 +131,7 @@ Anyway I’ve moved to other authors because there are sizable gaps of understan
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

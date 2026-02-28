@@ -30,7 +30,7 @@ I decided to have some stuff written.
 Possibly not very important one but I feel like writing stuff can have some value by itself.
 Maybe because the writing itself can help me to think and produce some analysis now or even if I will want to add something later.
 Also I can&rsquo;t be certain if I keep this with or without spoilers." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -42,7 +42,7 @@ Also I can&rsquo;t be certain if I keep this with or without spoilers." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -55,7 +55,7 @@ Also I can&rsquo;t be certain if I keep this with or without spoilers." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Visconti">
   <meta itemprop="description" content="I’ve been watching different Visconti movies these days for the first time.
 I decided to have some stuff written. Possibly not very important one but I feel like writing stuff can have some value by itself. Maybe because the writing itself can help me to think and produce some analysis now or even if I will want to add something later.
@@ -126,7 +126,7 @@ Also I can’t be certain if I keep this with or without spoilers.">
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

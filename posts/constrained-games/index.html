@@ -31,7 +31,7 @@ I have no idea why people voluntary accept constraints.
 Maybe because there are &ldquo;opportunities&rdquo; available around the constraints.
 Somebody has to make a game where number of opportunities is decreacing all the time.
 To observe the influence." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -43,7 +43,7 @@ To observe the influence." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -56,7 +56,7 @@ To observe the influence." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Constrained Games">
   <meta itemprop="description" content="Constraints in mobile games are everywhere. And they are so explicit.
 I have no idea why people voluntary accept constraints. Maybe because there are “opportunities” available around the constraints.
@@ -126,7 +126,7 @@ Somebody has to make a game where number of opportunities is decreacing all the 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

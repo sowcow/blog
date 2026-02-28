@@ -28,7 +28,7 @@
   <meta name="description" content="Overall it&rsquo;s great.
 It&rsquo;s a bit controversial to cut the ending like that,
 but it means all the fun of a more complete ending is left to the imagination." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -40,7 +40,7 @@ but it means all the fun of a more complete ending is left to the imagination." 
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -53,7 +53,7 @@ but it means all the fun of a more complete ending is left to the imagination." 
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Bride of Frankenstein">
   <meta itemprop="description" content="Overall it’s great. It’s a bit controversial to cut the ending like that, but it means all the fun of a more complete ending is left to the imagination.">
   <meta itemprop="datePublished" content="2025-05-18T12:05:16+02:00">
@@ -117,7 +117,7 @@ but it means all the fun of a more complete ending is left to the imagination." 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

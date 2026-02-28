@@ -36,7 +36,7 @@ Picture
 I enjoyed the piece for sure.
 If Gombrich abstains from giving away key findings then it is a good standard to adhere for me as well.
 But I want to comment on the leftmost figure because the figure could not be understood without understanding the core of the scene." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -48,7 +48,7 @@ But I want to comment on the leftmost figure because the figure could not be und
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -61,7 +61,7 @@ But I want to comment on the leftmost figure because the figure could not be und
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Et in Arcadia ego">
   <meta itemprop="description" content="Context I’ve got a bit distracted into different nonsense lately. Then I’ve read some Gombrich and there he features the painting. The painting straightened me up a bit.
 Gombrich gives enough tips to get you to find the answer but rightfully he does not offer the direct answer himself. This way he keeps magic of art for viewers to discover on their own.
@@ -132,7 +132,7 @@ Picture I enjoyed the piece for sure. If Gombrich abstains from giving away key 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

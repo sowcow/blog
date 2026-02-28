@@ -32,7 +32,7 @@ Add the notion of planning/time horizon and the difference it makes to how mind 
 And this makes things interesting.
 This has to be a profound idea or image at least.
 I&rsquo;ll keep it as is." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -44,7 +44,7 @@ I&rsquo;ll keep it as is." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -57,7 +57,7 @@ I&rsquo;ll keep it as is." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Horizon">
   <meta itemprop="description" content="Checked OED and Britannica as I have them. Also asked ChatGPT a bit but it wasn’t useful in this regard. One definition of horizon is a boundary line at which the earth and sky appear to meet. Other connotations are: boundary, limit, stage/level.
 Add the notion of planning/time horizon and the difference it makes to how mind processes things. And this makes things interesting. This has to be a profound idea or image at least. I’ll keep it as is.">
@@ -126,7 +126,7 @@ Add the notion of planning/time horizon and the difference it makes to how mind 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

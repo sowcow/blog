@@ -44,7 +44,7 @@ And there is something more I believe.
 Maybe it is that you can alter the speed of the show
 when you are not constrained by the short format.
 And Charlie uses that option to have scenes of different pace." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -56,7 +56,7 @@ And Charlie uses that option to have scenes of different pace." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -69,7 +69,7 @@ And Charlie uses that option to have scenes of different pace." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="City Lights">
   <meta itemprop="description" content="Some Context Got the bats flu the most recent stemm as it seems. Charlie Chaplin was on my list to check - out. So the opportunity to do that was realized.
 Also Charlie Chaplin is such a phenomenon. And there is this familiarity to his character that you develop. So it feels totally ok to just use Charlie.
@@ -143,7 +143,7 @@ Charlie had his own independent studio at the time of shooting. And compared to 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

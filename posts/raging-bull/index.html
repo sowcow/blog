@@ -31,7 +31,7 @@ And actually it confirms the reference, if one wants to see it from that angle.
 Watching it from that perspective ain&rsquo;t satisaction guaranteed kind of entertainment, but it actually gave me some enjoyable parallels.
 And that development and difference compared to the reference tool used is what enriches overall cinema experience by structuring it more.
 Also it gave some of own picture&rsquo;s language that could be missed without that kind of attention." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -43,7 +43,7 @@ Also it gave some of own picture&rsquo;s language that could be missed without t
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -56,7 +56,7 @@ Also it gave some of own picture&rsquo;s language that could be missed without t
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Raging Bull">
   <meta itemprop="description" content="I think there was general context of hearing how this was one of the movies notably influenced by Powell and Pressburger cinema. The movie’s title sequence by itself confirms that art-cinema aspect being there. And actually it confirms the reference, if one wants to see it from that angle.
 Watching it from that perspective ain’t satisaction guaranteed kind of entertainment, but it actually gave me some enjoyable parallels. And that development and difference compared to the reference tool used is what enriches overall cinema experience by structuring it more. Also it gave some of own picture’s language that could be missed without that kind of attention.">
@@ -124,7 +124,7 @@ Watching it from that perspective ain’t satisaction guaranteed kind of enterta
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -33,7 +33,7 @@ This adds entertainment value all over the movie however slow it seems to be.
 Interestingly it makes some scenes way more memorable because you have more structure to them.
 Then surely given unusual state of affairs of roles Al Pacino offers another entertaining piece of the picture.
 Also I think innate visual fabric of the movie may suggest some further ideas but it is as if some frame or composition is not there to be sure." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ Also I think innate visual fabric of the movie may suggest some further ideas bu
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ Also I think innate visual fabric of the movie may suggest some further ideas bu
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Insomnia">
   <meta itemprop="description" content="I have seen both Insomnias - first the one by Nolan and then the one by Skjoldbjærg. I wanted to record something on this so Nolan goes first.
 First I recognized some Twin Peaks atmosphere to it. Then also Nolan very explicitly plays with one straightforward idea and you can’t unsee it. This adds entertainment value all over the movie however slow it seems to be. Interestingly it makes some scenes way more memorable because you have more structure to them. Then surely given unusual state of affairs of roles Al Pacino offers another entertaining piece of the picture. Also I think innate visual fabric of the movie may suggest some further ideas but it is as if some frame or composition is not there to be sure.">
@@ -126,7 +126,7 @@ First I recognized some Twin Peaks atmosphere to it. Then also Nolan very explic
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

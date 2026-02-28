@@ -31,7 +31,7 @@ So I got the &ldquo;creative&rdquo; answers, but analytical breadth is still the
 And digging it analytically is irrational and risks overstretching it at this point (again).
 Now in order to conclude such a complex &ldquo;relationship&rdquo; with a movie it asks to be terminated in some expressive or creative action also.
 So I follow the example and express it by ordering visuals." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -43,7 +43,7 @@ So I follow the example and express it by ordering visuals." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -56,7 +56,7 @@ So I follow the example and express it by ordering visuals." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Snakes and Ladders">
   <meta itemprop="description" content="The whole experience with the movie for me was Snakes and Ladders. And it took me some time to finish the maze.
 So I got the “creative” answers, but analytical breadth is still there. And digging it analytically is irrational and risks overstretching it at this point (again).
@@ -126,7 +126,7 @@ Now in order to conclude such a complex “relationship” with a movie it asks 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

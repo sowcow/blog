@@ -33,7 +33,7 @@ I&rsquo;m getting to know meditation again.
 With the first breathes you get to observe/experience Tanha directly.
 Also the alternative &ldquo;object&rdquo; is available.
 This is something new for me." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ This is something new for me." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ This is something new for me." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Meditating again">
   <meta itemprop="description" content="Background facts I have not practiced consistently. And I consumed alot of content about it at some point and have forgotten most of it.
 Thoughts I’m getting to know meditation again. With the first breathes you get to observe/experience Tanha directly. Also the alternative “object” is available. This is something new for me.">
@@ -127,7 +127,7 @@ Thoughts I’m getting to know meditation again. With the first breathes you get
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

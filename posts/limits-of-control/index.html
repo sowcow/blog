@@ -27,7 +27,7 @@
 
   <meta name="description" content="I keep getting annoyed by my garbage phone doing ugly UX changes completely without my decision and repeatedly.
 Small gratifications and small annoyances, the game of reduction." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -39,7 +39,7 @@ Small gratifications and small annoyances, the game of reduction." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -52,7 +52,7 @@ Small gratifications and small annoyances, the game of reduction." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Limits of Control">
   <meta itemprop="description" content="I keep getting annoyed by my garbage phone doing ugly UX changes completely without my decision and repeatedly. Small gratifications and small annoyances, the game of reduction.">
   <meta itemprop="datePublished" content="2023-05-06T08:39:37+02:00">
@@ -116,7 +116,7 @@ Small gratifications and small annoyances, the game of reduction." />
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

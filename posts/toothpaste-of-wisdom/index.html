@@ -33,7 +33,7 @@ but my paste keeps demanding more&hellip;
 So I thought what if I buy not the cheap paste
 but some premium version, will the banner disappear?
 Or at least can I get a better more premium-customer advice then?" />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ Or at least can I get a better more premium-customer advice then?" />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ Or at least can I get a better more premium-customer advice then?" />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Toothpaste of Wisdom">
   <meta itemprop="description" content="My tooth pase every day recommends me to save water. The problem is that I have a couple of bottles saved and they stand on a visible place too.
 So I follow trends and all that but my paste keeps demanding more…
@@ -128,7 +128,7 @@ So I thought what if I buy not the cheap paste but some premium version, will th
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

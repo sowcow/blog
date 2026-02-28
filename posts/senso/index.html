@@ -33,7 +33,7 @@ The actress plays very well if you ask me. But she convincingly plays something 
 So I can not imagine that scene and would like to see that!
 There is a class difference that I see in different movies.
 Also there is blindness that is imposed on Livia by her nature." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ Also there is blindness that is imposed on Livia by her nature." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ Also there is blindness that is imposed on Livia by her nature." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Senso">
   <meta itemprop="description" content="Beautiful aesthetics. Not to say about views of Venice and Italy. Both strong feelings and something different also.
 My version of the movie was missing Livia money explanation scene :). The actress plays very well if you ask me. But she convincingly plays something very different. So I can not imagine that scene and would like to see that!
@@ -128,7 +128,7 @@ There is a class difference that I see in different movies. Also there is blindn
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

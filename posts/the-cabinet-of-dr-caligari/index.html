@@ -33,7 +33,7 @@ From this perspective of continuity, there is a point in watching/reading within
 Of course reading/watching a specific creator also has a value.
 In both cases one gets a more complete picture I think.
 I think, I&rsquo;ll deal with Silent Cinema and Scorsese concurrently." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ I think, I&rsquo;ll deal with Silent Cinema and Scorsese concurrently." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ I think, I&rsquo;ll deal with Silent Cinema and Scorsese concurrently." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="The Cabinet of Dr. Caligari">
   <meta itemprop="description" content="Vorsicht, es folgen Spoiler zum Film!
 I like how Shutter Island is already there in an early form in this movie. From this perspective of continuity, there is a point in watching/reading within those strains to see the development. Of course reading/watching a specific creator also has a value. In both cases one gets a more complete picture I think.
@@ -128,7 +128,7 @@ I think, I’ll deal with Silent Cinema and Scorsese concurrently.">
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -42,7 +42,7 @@ because there are other motivating factors
 
 What didn&rsquo;t Work
 Sun Tzu realy wasn&rsquo;t right for me. It requires certain state of mind/engagement to read for me. I can&rsquo;t just push through such book so I have put it off for now." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -54,7 +54,7 @@ Sun Tzu realy wasn&rsquo;t right for me. It requires certain state of mind/engag
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -67,7 +67,7 @@ Sun Tzu realy wasn&rsquo;t right for me. It requires certain state of mind/engag
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="March 2020">
   <meta itemprop="description" content="General I started some new healthy behaviors but otherwise there was no acceleration compared to the previous month.
 Reading I have finished small german language book that was laying around for too long I have started learning a new programming language so I have read a couple of books on it There are more books on it waiting for their turn Code I started playing with a physical engine I started playing with NNs Then I lost interest but I’m going to return this weekend because there are other motivating factors What didn’t Work Sun Tzu realy wasn’t right for me. It requires certain state of mind/engagement to read for me. I can’t just push through such book so I have put it off for now.">
@@ -134,7 +134,7 @@ Reading I have finished small german language book that was laying around for to
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

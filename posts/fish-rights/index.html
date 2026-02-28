@@ -32,7 +32,7 @@ My favorite flock in political waters are certain kind of individualists.
 Those who are all very unique of course but also equal for sure.
 I bet those owning social networks hide alot of information about such flocks.
 From the zoological point of view it should be very interesting and even scientifically necessary to have this information out." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -44,7 +44,7 @@ From the zoological point of view it should be very interesting and even scienti
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -57,7 +57,7 @@ From the zoological point of view it should be very interesting and even scienti
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Fish Rights">
   <meta itemprop="description" content="Fishes moving in a flock.
 Since humans are more advanced than fish I assume they are even better at such movements and maneuvers. They have more options to do that and have cool creative explanations for doing that.
@@ -130,7 +130,7 @@ I bet those owning social networks hide alot of information about such flocks. F
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -34,7 +34,7 @@ are experiences remote in the past that you can&rsquo;t even recall, not to say 
 Realism
 I watched the movie in a headset.
 I generally control fear response by having controlled volume and being analytical." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -46,7 +46,7 @@ I generally control fear response by having controlled volume and being analytic
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -59,7 +59,7 @@ I generally control fear response by having controlled volume and being analytic
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="The Shining">
   <meta itemprop="description" content="Mist I don’t recall my first experience of the movie. So there is this interesting state when you got some cinema literacy and may have the illusion that you can’t see it with fresh eyes.
 Maybe the whole remote Hotel theme invokes that feeling that there are experiences remote in the past that you can’t even recall, not to say about making sense of.
@@ -130,7 +130,7 @@ Realism I watched the movie in a headset. I generally control fear response by h
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

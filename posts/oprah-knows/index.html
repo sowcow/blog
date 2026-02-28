@@ -34,7 +34,7 @@ Today the first time in my life google pointed me to oprah.com.
 It is hard to imagine my excitement and confusion at the time.
 Openinig the link will be like entering the live studio.
 Am I ready for the answer?" />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -46,7 +46,7 @@ Am I ready for the answer?" />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -59,7 +59,7 @@ Am I ready for the answer?" />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Oprah Knows">
   <meta itemprop="description" content="I have heard that there was this show ran by Oprah. At that point I didn’t know the language. Now I don’t watch shows.
 But still somehow indirectly through environment I got this impression that if you got a really hard question and you don’t know what to do then there is always Oprah to answer it. And the final answer to any question is: Oprah knows.
@@ -129,7 +129,7 @@ Today the first time in my life google pointed me to oprah.com. It is hard to im
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

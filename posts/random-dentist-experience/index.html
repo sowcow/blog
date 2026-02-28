@@ -33,7 +33,7 @@ And I randomly recollected that at some point in the past when a dentist was inj
 it felt like they are injecting the needle right into the bone.
 And since this was my last visit I felt like experimentating and not injecting anything this time.
 But I wasn&rsquo;t sure if I will really decide to not use it." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ But I wasn&rsquo;t sure if I will really decide to not use it." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ But I wasn&rsquo;t sure if I will really decide to not use it." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Random Dentist Experience">
   <meta itemprop="description" content="This time So I was about to visit a dentist today. It was my last visit in this “session”. And I needed to fix a wisdom tooth.
 And I randomly recollected that at some point in the past when a dentist was injecting anesthesia it felt like they are injecting the needle right into the bone.
@@ -130,7 +130,7 @@ And since this was my last visit I felt like experimentating and not injecting a
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

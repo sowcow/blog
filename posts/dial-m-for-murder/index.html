@@ -31,7 +31,7 @@ The problem is that there is nothing to add in terms of arbitrary writing.
 The movie is cold and smart, but after M proper I&rsquo;ve enjoyed To Catch a Thief more.
 Also a movie set in France must be superior a priori.
 So I must forget the title and write something about To Catch a Thief instead." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -43,7 +43,7 @@ So I must forget the title and write something about To Catch a Thief instead." 
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -56,7 +56,7 @@ So I must forget the title and write something about To Catch a Thief instead." 
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Dial M for Murder">
   <meta itemprop="description" content="I’ve been watching some Hitchcock and I had to have a post about this movie. In my limited experience, I don’t see the director messing with the viewer and instead it’s very classy cinema. The problem is that there is nothing to add in terms of arbitrary writing.
 The movie is cold and smart, but after M proper I’ve enjoyed To Catch a Thief more. Also a movie set in France must be superior a priori. So I must forget the title and write something about To Catch a Thief instead.">
@@ -124,7 +124,7 @@ The movie is cold and smart, but after M proper I’ve enjoyed To Catch a Thief 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -29,7 +29,7 @@
 But then there was another thought that there are multiple stories of different characters and the whole thing is such a mess and is intensive.
 So that it may require some tools to weave that.
 Also I have heard that all plots are known already so I bet these directors innovated a bit or used some modern tools to construct that." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -41,7 +41,7 @@ Also I have heard that all plots are known already so I bet these directors inno
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -54,7 +54,7 @@ Also I have heard that all plots are known already so I bet these directors inno
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Burn After Reading">
   <meta itemprop="description" content="Initially I thought that “extremely funny nonsense” describes it all and there is no point to have a post about it.
 But then there was another thought that there are multiple stories of different characters and the whole thing is such a mess and is intensive. So that it may require some tools to weave that. Also I have heard that all plots are known already so I bet these directors innovated a bit or used some modern tools to construct that.">
@@ -123,7 +123,7 @@ But then there was another thought that there are multiple stories of different 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

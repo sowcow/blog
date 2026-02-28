@@ -33,7 +33,7 @@ Concsiousness
 Another piece of the puzzle is the video on &ldquo;Consciousness as a Memory System&rdquo; presentation.
 I saw it somewhere during the year.
 I think it is generally available explanation touching a lot of interesting non-fiction topics." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -45,7 +45,7 @@ I think it is generally available explanation touching a lot of interesting non-
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -58,7 +58,7 @@ I think it is generally available explanation touching a lot of interesting non-
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Why We Forget">
   <meta itemprop="description" content="Context Audible is currently having this program where plenty of Oxford’s Very Short Introductions are available for free. It ends soon, depending on the region too. So, I’m enjoying some of that water-less non-fiction.
 Concsiousness Another piece of the puzzle is the video on “Consciousness as a Memory System” presentation. I saw it somewhere during the year. I think it is generally available explanation touching a lot of interesting non-fiction topics.">
@@ -125,7 +125,7 @@ Concsiousness Another piece of the puzzle is the video on “Consciousness as a 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

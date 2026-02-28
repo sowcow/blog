@@ -32,7 +32,7 @@ Most of them I considered to be nonsensical - created just to fill some gaps in 
 One particular kind of dragons I liked irrationally is the Skeleton Dragon that can be upgraded to the Ghost Dragon.
 I liked it on one hand for no apparent reason.
 But I found it odd that you upgrade a material thing to something ephemeral and that thing gets stronger." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -44,7 +44,7 @@ But I found it odd that you upgrade a material thing to something ephemeral and 
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -57,7 +57,7 @@ But I found it odd that you upgrade a material thing to something ephemeral and 
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Ghost Dragon">
   <meta itemprop="description" content="Back in a day I liked heroes of might and magic game. Overall it was not right to get me addicted but I really liked some parts.
 One thing I found odd is that there are like ten types of dragons. Most of them I considered to be nonsensical - created just to fill some gaps in ideas.
@@ -127,7 +127,7 @@ One particular kind of dragons I liked irrationally is the Skeleton Dragon that 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

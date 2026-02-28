@@ -37,7 +37,7 @@ The more patched nature of the movie may relax constrains on interpretation of s
 The movie even has abstract poetry read at some point, what highlights and invites ambiguity.
 Level of details and different themes touched makes for a rich mix and questions posed of different level of visibility anchor viewer to pay attention.
 Echoes in the movie helps you compose the picture in non-linear way for even richer composition to go beyond superficial limits of the medium." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -49,7 +49,7 @@ Echoes in the movie helps you compose the picture in non-linear way for even ric
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -62,7 +62,7 @@ Echoes in the movie helps you compose the picture in non-linear way for even ric
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="La Dolce Vita">
   <meta itemprop="description" content="Rich movie, unforgettable images Lots of echoes inside Suns and moons, ladders and crosses and rain Watching and thinking about movies like that leaves echoes in you and enhance perception of reality for some time. Again as in Mariken van Nieumeghen there was this effect when invisibles, things not shown, make you seek them and ultimately to find in some form.
 Scenes and images may be viewed from different angles and the viewer is free to choose which way they go with the movie. The more patched nature of the movie may relax constrains on interpretation of scenes to some extent. The movie even has abstract poetry read at some point, what highlights and invites ambiguity. Level of details and different themes touched makes for a rich mix and questions posed of different level of visibility anchor viewer to pay attention. Echoes in the movie helps you compose the picture in non-linear way for even richer composition to go beyond superficial limits of the medium.">
@@ -130,7 +130,7 @@ Scenes and images may be viewed from different angles and the viewer is free to 
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

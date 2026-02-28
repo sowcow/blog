@@ -27,7 +27,7 @@
 
   <meta name="description" content="I saw it on somebody&rsquo;s VHS at some point, which should mean it&rsquo;s trashy.
 But there are multiple conceptual niceties, and the bigger point is there too and it is not as transparent." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -39,7 +39,7 @@ But there are multiple conceptual niceties, and the bigger point is there too an
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -52,7 +52,7 @@ But there are multiple conceptual niceties, and the bigger point is there too an
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="The Fly">
   <meta itemprop="description" content="I saw it on somebody’s VHS at some point, which should mean it’s trashy. But there are multiple conceptual niceties, and the bigger point is there too and it is not as transparent.">
   <meta itemprop="datePublished" content="2025-05-10T20:47:38+02:00">
@@ -116,7 +116,7 @@ But there are multiple conceptual niceties, and the bigger point is there too an
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

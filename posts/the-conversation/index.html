@@ -28,7 +28,7 @@
   <meta name="description" content="The movie has a sad subject, but it does not try to pull a tear from the viewer’s eye.
 In fact, it features a mime and some funny scenes, so I wouldn’t be surprised if it’s actually a comedy.
 It also features visuals of interest and a range of ambiguity, so I&rsquo;m inclined to rewatch it, even though the movie doesn&rsquo;t force that per se." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -40,7 +40,7 @@ It also features visuals of interest and a range of ambiguity, so I&rsquo;m incl
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -53,7 +53,7 @@ It also features visuals of interest and a range of ambiguity, so I&rsquo;m incl
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="The Conversation">
   <meta itemprop="description" content="The movie has a sad subject, but it does not try to pull a tear from the viewer’s eye. In fact, it features a mime and some funny scenes, so I wouldn’t be surprised if it’s actually a comedy. It also features visuals of interest and a range of ambiguity, so I’m inclined to rewatch it, even though the movie doesn’t force that per se.">
   <meta itemprop="datePublished" content="2025-03-21T11:28:26+01:00">
@@ -118,7 +118,7 @@ It also features visuals of interest and a range of ambiguity, so I&rsquo;m incl
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -35,7 +35,7 @@ Serbian version of the similar name; which should sound most naturally
 
 So for the appointment I used the Serbian to have less confusion.
 But then already there I used English for communication so I got to think about the naming again." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -47,7 +47,7 @@ But then already there I used English for communication so I got to think about 
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -60,7 +60,7 @@ But then already there I used English for communication so I got to think about 
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Three Names">
   <meta itemprop="description" content="Another trip to a dentist. Nearby dentist this time. Initially for this appointment I had to write own name at the website. The problem is I feel like I have three of them now.
 one is official name transliteration into English; that begs the question of how to pronounce that next is the English version of the name; but I’m not from England or the US Serbian version of the similar name; which should sound most naturally So for the appointment I used the Serbian to have less confusion. But then already there I used English for communication so I got to think about the naming again.">
@@ -129,7 +129,7 @@ one is official name transliteration into English; that begs the question of how
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

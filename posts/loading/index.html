@@ -30,7 +30,7 @@ I thought a bit about whether co-creation in form of potentially loading posts a
 I say it can&rsquo;t be other way.
 Authentic and entertaining go together in my mind.
 So the genre of this personal blog should be something around: random observations and imaginations well-mixed in a skull shaped bowl and sprinkled with grammar errors." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -42,7 +42,7 @@ So the genre of this personal blog should be something around: random observatio
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -55,7 +55,7 @@ So the genre of this personal blog should be something around: random observatio
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Loading">
   <meta itemprop="description" content="After getting excited by New York Stories. I thought a bit about whether co-creation in form of potentially loading posts about movies with my at times far reaching interpretations or implications is the right thing to do.
 I say it can’t be other way. Authentic and entertaining go together in my mind. So the genre of this personal blog should be something around: random observations and imaginations well-mixed in a skull shaped bowl and sprinkled with grammar errors.">
@@ -122,7 +122,7 @@ I say it can’t be other way. Authentic and entertaining go together in my mind
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

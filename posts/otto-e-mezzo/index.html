@@ -31,7 +31,7 @@ From the director tools point of view I have noticed that the director conveys s
 So there is a rewatch value added just by that.
 Also some scenes are spectacular for unknown reasons - this must have been studied well already.
 But that I think is not what plain rewatch helps with. Only if it is timed well after other high quality content to compare to." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -43,7 +43,7 @@ But that I think is not what plain rewatch helps with. Only if it is timed well 
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -56,7 +56,7 @@ But that I think is not what plain rewatch helps with. Only if it is timed well 
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Otto E Mezzo">
   <meta itemprop="description" content="You see quality from the start. A movie about life and play that says it for itself.
 From the director tools point of view I have noticed that the director conveys some things before actualy revealing them. So there is a rewatch value added just by that.
@@ -128,7 +128,7 @@ Also some scenes are spectacular for unknown reasons - this must have been studi
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

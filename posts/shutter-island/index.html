@@ -35,7 +35,7 @@ First, protagonist dispenses violence with his version of justice/truth onto cap
 Then he has to violently protect one-self from what he denies to be the truth, imposing this onto others.
 When he himself is captured, and is surely in the corner, the last resort is violence against oneself.
 What mirrors the German officer from his memories, but this time the roles have switched." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -47,7 +47,7 @@ What mirrors the German officer from his memories, but this time the roles have 
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -60,7 +60,7 @@ What mirrors the German officer from his memories, but this time the roles have 
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Shutter Island">
   <meta itemprop="description" content="Abstractest spoilers warning possible. AK
 Content The movie works with contradiction coming from impossibility of full truth and perfect justice. It shows how violence defines what truth is and the dead end of that way if any justice is to be assumed.
@@ -131,7 +131,7 @@ First, protagonist dispenses violence with his version of justice/truth onto cap
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

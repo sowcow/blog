@@ -31,7 +31,7 @@ Now I decided to try another one and you guess what.
 It throws at you some totally mess of sounds during the initial credits.
 Then it contrasts it by some piano notes.
 But anyway I have no idea what to think about that." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -43,7 +43,7 @@ But anyway I have no idea what to think about that." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -56,7 +56,7 @@ But anyway I have no idea what to think about that." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="The Eclipse">
   <meta itemprop="description" content="One notable thing my acquaintance with Antonioni is that how bad initial impression was. First I started watching one movie and just turned it off after having a minute or two watching at something ugly with construction sounds at the background. Now I decided to try another one and you guess what. It throws at you some totally mess of sounds during the initial credits. Then it contrasts it by some piano notes. But anyway I have no idea what to think about that.">
   <meta itemprop="datePublished" content="2021-07-18T17:06:25+05:00">
@@ -121,7 +121,7 @@ But anyway I have no idea what to think about that." />
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

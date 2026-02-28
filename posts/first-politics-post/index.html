@@ -32,7 +32,7 @@ How unfortunate it is that so much creativity is unattributed.
 Enormous progress has been made from the old words to the new ones.
 Words like &ldquo;free market&rdquo;, &ldquo;pro-choice&rdquo;, &ldquo;ABC rights&rdquo;, etc&hellip;
 Only true visionaries can see what new words the future holds for us." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -44,7 +44,7 @@ Only true visionaries can see what new words the future holds for us." />
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -57,7 +57,7 @@ Only true visionaries can see what new words the future holds for us." />
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Creative inventors">
   <meta itemprop="description" content="I hope this blog is not going to be corrupted by politics too much.
 One can sign a propaganda plakat. But one cannot sign a word. How unfortunate it is that so much creativity is unattributed.
@@ -127,7 +127,7 @@ Enormous progress has been made from the old words to the new ones. Words like â
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

@@ -37,7 +37,7 @@ And I&rsquo;m fine if somebody references, at least after watching it, if the re
 But in that case, the referencer probably asked chat-gpt and got hallucinated and confused mix of stuff.
 So it was the worst possible reference, and I don&rsquo;t know what to think about that.
 (BTW: I use chat-gpt to put commas around; hopefully, that does not make my references bad)." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -49,7 +49,7 @@ So it was the worst possible reference, and I don&rsquo;t know what to think abo
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -62,7 +62,7 @@ So it was the worst possible reference, and I don&rsquo;t know what to think abo
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="Unmasking the Face">
   <meta itemprop="description" content="Context There is a breaking of the fourth wall element in theater/cinema. I recall the name only after I start to see significance of such tools. For example, in Killer’s of the Flower Moon, there are at least two sneaky breakings of the fourth wall and one obvious one at the end. I’d say, even if sneaky, they signify key moments to consider.
 For whatever questionable reason, I watched Perfect Days by Wim Wenders too recently. Somehow, the director, even if the he has great work, tends to be mentioned by Russian speaking people who signal sophistication. And I’m fine if somebody references, at least after watching it, if the reference is good. But in that case, the referencer probably asked chat-gpt and got hallucinated and confused mix of stuff. So it was the worst possible reference, and I don’t know what to think about that. (BTW: I use chat-gpt to put commas around; hopefully, that does not make my references bad).">
@@ -133,7 +133,7 @@ For whatever questionable reason, I watched Perfect Days by Wim Wenders too rece
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

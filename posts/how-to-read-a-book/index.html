@@ -32,7 +32,7 @@ Such pictures were competing with images in the text but I enjoyed both.
 One notable experience such book can give is when you are trying to analyze through some text
 and turn the page and see some unexpected picture.
 Then this picture can sink your active attention as some exit that you grasp and appreciate like you would not expect." />
-  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.css" />
+  <meta name="author" content="Alexander" /><link rel="preload stylesheet" as="style" href="https://sowcow.github.io/blog/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
 
   
   <link rel="preload" as="image" href="https://sowcow.github.io/blog/theme.png" />
@@ -44,7 +44,7 @@ Then this picture can sink your active attention as some exit that you grasp and
   <script
     defer
     src="https://sowcow.github.io/blog/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
+    onload="hljs.initHighlightingOnLoad()"
   ></script>
 
   
@@ -57,7 +57,7 @@ Then this picture can sink your active attention as some exit that you grasp and
     href="https://sowcow.github.io/blog/apple-touch-icon.png"
   />
 
-  <meta name="generator" content="Hugo 0.155.3">
+  <meta name="generator" content="Hugo 0.157.0">
   <meta itemprop="name" content="How to Read a Book">
   <meta itemprop="description" content="Then I try to install a habit for reading from time to time. Previous attempt was Faust that weights 2 kilos because of big format and stylistically different but exceptional pictures on every other page. Such pictures were competing with images in the text but I enjoyed both. One notable experience such book can give is when you are trying to analyze through some text and turn the page and see some unexpected picture. Then this picture can sink your active attention as some exit that you grasp and appreciate like you would not expect.">
   <meta itemprop="datePublished" content="2023-02-08T14:21:13+01:00">
@@ -123,7 +123,7 @@ Then this picture can sink your active attention as some exit that you grasp and
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };
