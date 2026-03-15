@@ -8,10 +8,11 @@ tags:
 - Kubrick
 ---
 
-My foolish idea always has been to rewatch Barry Lyndon only after researching all the references.
+My foolish idea always has been to rewatch Barry Lyndon only after researching all the used painting references.
 But maybe it's the spring coming that has ruined that original plan.
 
-I can see somebody who has seen the movie, and then finds references by surprise in the wild, so to speak.
+I can imagine somebody who has seen the movie, and then finds references by surprise in the wild, so to speak.
+The idea is too interesting, so references needn't be researched in advance.
 
-Now the other side of the movie is striking.
-So aesthetics does not go alone; it wraps a bullet.
+Also, there is the striking other side of the movie.
+The aesthetic is not coming empty; it wraps a bullet.
