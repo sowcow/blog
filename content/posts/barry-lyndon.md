@@ -14,5 +14,5 @@ But maybe it's the spring coming that has ruined that original plan.
 I can imagine somebody who has seen the movie, and then finds references by surprise in the wild, so to speak.
 The idea is too interesting, so references needn't be researched in advance.
 
-Also, there is the striking other side of the movie.
+But the movie is not shallow, for there is also the striking other side of it.
 The aesthetic is not coming empty; it wraps a bullet.
