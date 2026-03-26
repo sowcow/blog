@@ -10,4 +10,5 @@ tags:
 
 I've got bonus points for watching it in a headset.
 Maybe some whip points due to breaks.
-Not gonna flesh out the net balance, sorry - it's too fucked.
+Not gonna flesh out the net balance, because it's too fucked.
+But the professor in the movie is the only spark of intellectual insight.
