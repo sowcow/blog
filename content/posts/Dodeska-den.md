@@ -8,4 +8,4 @@ tags:
 - Kurosawa
 ---
 
-A multi-character movie, it is not a simple one, but it probably is a good entry point into this genre/lane.
+A multi-character picture, it is not a simple one, but it probably is a good entry point into this genre/lane.
