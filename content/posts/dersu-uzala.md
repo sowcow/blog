@@ -19,4 +19,4 @@ Still I've managed to come up with possible agenda and its realization.
 
 Overall, the visuals that I appreciate seem rare.
 But it has those shots that are memorable.
-Overall, the idea seems likeable too.
+If the viewer does not constrain oneself to political interpretations, then overall it's good food for thought.
