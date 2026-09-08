@@ -7,4 +7,4 @@ tags:
 - movies
 ---
 
-Non-modern war documentaries and propaganda can be surprisingly good.
+Old war documentaries and propaganda can be surprisingly good.
