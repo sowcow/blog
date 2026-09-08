@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chaplin on Let&#39;s see what happens.</title>
-    <link>https://sowcow.github.io/blog/tags/chaplin/</link>
-    <description>Recent content in Chaplin on Let&#39;s see what happens.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 Aug 2025 07:09:22 +0500</lastBuildDate>
-    <atom:link href="https://sowcow.github.io/blog/tags/chaplin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Monsieur Verdoux</title>
-      <link>https://sowcow.github.io/blog/posts/monsieur-verdoux/</link>
-      <pubDate>Wed, 27 Aug 2025 07:09:22 +0500</pubDate>
-      <guid>https://sowcow.github.io/blog/posts/monsieur-verdoux/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Lasso him.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good movie. It&amp;rsquo;s funny how I slipped from horrors into Monsieur movies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>City Lights</title>
-      <link>https://sowcow.github.io/blog/posts/city-lights/</link>
-      <pubDate>Sat, 12 Feb 2022 12:15:56 +0500</pubDate>
-      <guid>https://sowcow.github.io/blog/posts/city-lights/</guid>
-      <description>&lt;h3 id=&#34;some-context&#34;&gt;Some Context&lt;/h3&gt;&#xA;&lt;p&gt;Got the bats flu the most recent stemm as it seems.&#xA;Charlie Chaplin was on my list to check - out.&#xA;So the opportunity to do that was realized.&lt;/p&gt;&#xA;&lt;p&gt;Also Charlie Chaplin is such a phenomenon.&#xA;And there is this familiarity to his character that you develop.&#xA;So it feels totally ok to just use Charlie.&lt;/p&gt;&#xA;&lt;h3 id=&#34;city-lights&#34;&gt;City Lights&lt;/h3&gt;&#xA;&lt;p&gt;Touching story. Wery well played. Enjoyed the comedy.&lt;/p&gt;&#xA;&lt;p&gt;Charlie had his own independent studio at the time of shooting.&#xA;And compared to the earliest short silent comedy that I have had an opportunity to check.&#xA;This definetly looks like more serios work.&#xA;Surely you get what is expected - extremely comical scenes.&#xA;And you get more variability because of length.&#xA;But you also get the main plot that makes it a real movie.&#xA;And there is something more I believe.&#xA;Maybe it is that you can alter the speed of the show&#xA;when you are not constrained by the short format.&#xA;And Charlie uses that option to have scenes of different pace.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Chaplin on Let&#39;s see what happens.</title>
+		<link>https://sowcow.github.io/blog/tags/chaplin/</link>
+		<description>Recent content in Chaplin on Let&#39;s see what happens.</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 Aug 2025 07:09:22 +0500</lastBuildDate>
+		
+			<atom:link href="https://sowcow.github.io/blog/tags/chaplin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Monsieur Verdoux</title>
+				<link>https://sowcow.github.io/blog/posts/monsieur-verdoux/</link>
+				<pubDate>Wed, 27 Aug 2025 07:09:22 +0500</pubDate>
+				<guid>https://sowcow.github.io/blog/posts/monsieur-verdoux/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Lasso him.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good movie. It&amp;rsquo;s funny how I slipped from horrors into Monsieur movies.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>City Lights</title>
+				<link>https://sowcow.github.io/blog/posts/city-lights/</link>
+				<pubDate>Sat, 12 Feb 2022 12:15:56 +0500</pubDate>
+				<guid>https://sowcow.github.io/blog/posts/city-lights/</guid>
+				<description>&lt;h3 id=&#34;some-context&#34;&gt;Some Context&lt;/h3&gt;&#xA;&lt;p&gt;Got the bats flu the most recent stemm as it seems.&#xA;Charlie Chaplin was on my list to check - out.&#xA;So the opportunity to do that was realized.&lt;/p&gt;&#xA;&lt;p&gt;Also Charlie Chaplin is such a phenomenon.&#xA;And there is this familiarity to his character that you develop.&#xA;So it feels totally ok to just use Charlie.&lt;/p&gt;&#xA;&lt;h3 id=&#34;city-lights&#34;&gt;City Lights&lt;/h3&gt;&#xA;&lt;p&gt;Touching story. Wery well played. Enjoyed the comedy.&lt;/p&gt;&#xA;&lt;p&gt;Charlie had his own independent studio at the time of shooting.&#xA;And compared to the earliest short silent comedy that I have had an opportunity to check.&#xA;This definetly looks like more serios work.&#xA;Surely you get what is expected - extremely comical scenes.&#xA;And you get more variability because of length.&#xA;But you also get the main plot that makes it a real movie.&#xA;And there is something more I believe.&#xA;Maybe it is that you can alter the speed of the show&#xA;when you are not constrained by the short format.&#xA;And Charlie uses that option to have scenes of different pace.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

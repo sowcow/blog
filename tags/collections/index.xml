@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Collections on Let&#39;s see what happens.</title>
-    <link>https://sowcow.github.io/blog/tags/collections/</link>
-    <description>Recent content in Collections on Let&#39;s see what happens.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 21:07:31 +0500</lastBuildDate>
-    <atom:link href="https://sowcow.github.io/blog/tags/collections/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reads</title>
-      <link>https://sowcow.github.io/blog/posts/reads/</link>
-      <pubDate>Wed, 25 Aug 2021 21:07:31 +0500</pubDate>
-      <guid>https://sowcow.github.io/blog/posts/reads/</guid>
-      <description>&lt;p&gt;I want to put stuff somewhere but probably there is not enough for separate posts.&lt;/p&gt;&#xA;&lt;h3 id=&#34;reminiscences-of-a-stock-operator-aug-25&#34;&gt;Reminiscences Of A Stock Operator (Aug 25)&lt;/h3&gt;&#xA;&lt;p&gt;It is the most recomended one on the subject.&#xA;It is cool in its own way.&#xA;But not in the way it is recommended by many.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Collections on Let&#39;s see what happens.</title>
+		<link>https://sowcow.github.io/blog/tags/collections/</link>
+		<description>Recent content in Collections on Let&#39;s see what happens.</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 25 Aug 2021 21:07:31 +0500</lastBuildDate>
+		
+			<atom:link href="https://sowcow.github.io/blog/tags/collections/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reads</title>
+				<link>https://sowcow.github.io/blog/posts/reads/</link>
+				<pubDate>Wed, 25 Aug 2021 21:07:31 +0500</pubDate>
+				<guid>https://sowcow.github.io/blog/posts/reads/</guid>
+				<description>&lt;p&gt;I want to put stuff somewhere but probably there is not enough for separate posts.&lt;/p&gt;&#xA;&lt;h3 id=&#34;reminiscences-of-a-stock-operator-aug-25&#34;&gt;Reminiscences Of A Stock Operator (Aug 25)&lt;/h3&gt;&#xA;&lt;p&gt;It is the most recomended one on the subject.&#xA;It is cool in its own way.&#xA;But not in the way it is recommended by many.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

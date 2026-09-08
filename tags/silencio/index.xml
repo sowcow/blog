@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Silencio on Let&#39;s see what happens.</title>
-    <link>https://sowcow.github.io/blog/tags/silencio/</link>
-    <description>Recent content in Silencio on Let&#39;s see what happens.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Dec 2022 14:06:08 +0100</lastBuildDate>
-    <atom:link href="https://sowcow.github.io/blog/tags/silencio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Enjoy the Silence</title>
-      <link>https://sowcow.github.io/blog/posts/enjoy-the-silence/</link>
-      <pubDate>Wed, 28 Dec 2022 14:06:08 +0100</pubDate>
-      <guid>https://sowcow.github.io/blog/posts/enjoy-the-silence/</guid>
-      <description>&lt;p&gt;I got to listen some poetry lately.&#xA;Also reading some.&#xA;Even play with writing when I have an idea.&lt;/p&gt;&#xA;&lt;p&gt;I started to appreciate this interesting pause right when the piece ends.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Silencio on Let&#39;s see what happens.</title>
+		<link>https://sowcow.github.io/blog/tags/silencio/</link>
+		<description>Recent content in Silencio on Let&#39;s see what happens.</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Dec 2022 14:06:08 +0100</lastBuildDate>
+		
+			<atom:link href="https://sowcow.github.io/blog/tags/silencio/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Enjoy the Silence</title>
+				<link>https://sowcow.github.io/blog/posts/enjoy-the-silence/</link>
+				<pubDate>Wed, 28 Dec 2022 14:06:08 +0100</pubDate>
+				<guid>https://sowcow.github.io/blog/posts/enjoy-the-silence/</guid>
+				<description>&lt;p&gt;I got to listen some poetry lately.&#xA;Also reading some.&#xA;Even play with writing when I have an idea.&lt;/p&gt;&#xA;&lt;p&gt;I started to appreciate this interesting pause right when the piece ends.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Robots on Let&#39;s see what happens.</title>
-    <link>https://sowcow.github.io/blog/tags/robots/</link>
-    <description>Recent content in Robots on Let&#39;s see what happens.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 06 Feb 2022 10:42:55 +0500</lastBuildDate>
-    <atom:link href="https://sowcow.github.io/blog/tags/robots/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Olympics</title>
-      <link>https://sowcow.github.io/blog/posts/olympics/</link>
-      <pubDate>Sun, 06 Feb 2022 10:42:55 +0500</pubDate>
-      <guid>https://sowcow.github.io/blog/posts/olympics/</guid>
-      <description>&lt;p&gt;In Russian to cheer for the team can be directly translated into english as &amp;ldquo;to be ill for&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I found it amusing when a reporter from Olympics in China said that &amp;ldquo;We are still being ill here&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Also between that it is very patriotic to show&#xA;some soviet technological developments/acheivements that were not pursued after the fall.&#xA;So that people feel the dark sorrow for the glorious past&#xA;and resentment toward ideological enemies.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Robots on Let&#39;s see what happens.</title>
+		<link>https://sowcow.github.io/blog/tags/robots/</link>
+		<description>Recent content in Robots on Let&#39;s see what happens.</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 06 Feb 2022 10:42:55 +0500</lastBuildDate>
+		
+			<atom:link href="https://sowcow.github.io/blog/tags/robots/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Olympics</title>
+				<link>https://sowcow.github.io/blog/posts/olympics/</link>
+				<pubDate>Sun, 06 Feb 2022 10:42:55 +0500</pubDate>
+				<guid>https://sowcow.github.io/blog/posts/olympics/</guid>
+				<description>&lt;p&gt;In Russian to cheer for the team can be directly translated into english as &amp;ldquo;to be ill for&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I found it amusing when a reporter from Olympics in China said that &amp;ldquo;We are still being ill here&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Also between that it is very patriotic to show&#xA;some soviet technological developments/acheivements that were not pursued after the fall.&#xA;So that people feel the dark sorrow for the glorious past&#xA;and resentment toward ideological enemies.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

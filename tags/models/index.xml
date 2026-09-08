@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Models on Let&#39;s see what happens.</title>
-    <link>https://sowcow.github.io/blog/tags/models/</link>
-    <description>Recent content in Models on Let&#39;s see what happens.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2024 08:27:02 +0100</lastBuildDate>
-    <atom:link href="https://sowcow.github.io/blog/tags/models/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Quigley</title>
-      <link>https://sowcow.github.io/blog/posts/quigley/</link>
-      <pubDate>Sat, 10 Feb 2024 08:27:02 +0100</pubDate>
-      <guid>https://sowcow.github.io/blog/posts/quigley/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve read The Evolution of Civilizations by C. Quigley.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;scientific approach&lt;/li&gt;&#xA;&lt;li&gt;insightful content&lt;/li&gt;&#xA;&lt;li&gt;yet very available: clear language and simple sentences&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Author explains scientific method, dynamics of development of civilizations in terms of instruments and institutions, morphology between levels of abstraction, also he only mentions at the end law vs fact model of understanding.&#xA;The way author ends the book compels one to check more of his content.&lt;/p&gt;&#xA;&lt;p&gt;Anyway I&amp;rsquo;ve moved to other authors because there are sizable gaps of understanding to fill-in.&#xA;On one hand there are models by G. Becker and other behavior-related first principles.&#xA;On another hand there is general production processes interest.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Models on Let&#39;s see what happens.</title>
+		<link>https://sowcow.github.io/blog/tags/models/</link>
+		<description>Recent content in Models on Let&#39;s see what happens.</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Feb 2024 08:27:02 +0100</lastBuildDate>
+		
+			<atom:link href="https://sowcow.github.io/blog/tags/models/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Quigley</title>
+				<link>https://sowcow.github.io/blog/posts/quigley/</link>
+				<pubDate>Sat, 10 Feb 2024 08:27:02 +0100</pubDate>
+				<guid>https://sowcow.github.io/blog/posts/quigley/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve read The Evolution of Civilizations by C. Quigley.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;scientific approach&lt;/li&gt;&#xA;&lt;li&gt;insightful content&lt;/li&gt;&#xA;&lt;li&gt;yet very available: clear language and simple sentences&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Author explains scientific method, dynamics of development of civilizations in terms of instruments and institutions, morphology between levels of abstraction, also he only mentions at the end law vs fact model of understanding.&#xA;The way author ends the book compels one to check more of his content.&lt;/p&gt;&#xA;&lt;p&gt;Anyway I&amp;rsquo;ve moved to other authors because there are sizable gaps of understanding to fill-in.&#xA;On one hand there are models by G. Becker and other behavior-related first principles.&#xA;On another hand there is general production processes interest.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
