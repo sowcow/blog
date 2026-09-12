@@ -8,4 +8,4 @@ tags:
 ---
 
 The 1968 version is black and white, smart and abstract, so I've enjoyed it.
-The 1994 version has color and is more explicit.
+The 1994 version has color and is more explicit, it could be more educating.
